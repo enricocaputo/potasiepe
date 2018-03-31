@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+{% include head.html %}
+<body>
+{% include header.html %}
+<div class="wrapper">
+  <div class="content">
+    {{ content }}
+  </div>
+</div>
+{% include sidebar-shortcuts.html %}
+{% include footer.html %}
+</body>
+<script type="text/javascript" src="{{ site.baseurl }}/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/js/cookiebar.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+      $.cookieBar();
+    });
+</script>
+</html>

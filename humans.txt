@@ -1,0 +1,14 @@
+/* TEAM */
+  Web designer: Enrico Caputo
+  Contact: enricocaputo.1972@gmail.com
+  From: Friuli-Venezia Giulia
+
+/* THANKS */
+  Hosting: github.com
+  Forms: enformed.io
+  Testing: validator.w3.org
+
+/* SITE */
+  Last update:2017/11/07
+  Doctype:HTML5
+  IDE: Atom

@@ -1,0 +1,51 @@
+---
+layout: page
+title: Articoli Giardinaggio
+heading: I nostri prodotti
+subtitle: See some of our proud customers with exemplary results.
+permalink: /articoli_giardinaggio/
+---
+<h2>Taglierba e Rasaerba</h2>
+<div class="list-collection">
+<ul>
+{% for tagliaerba_rasaerba in site.tagliaerba_rasaerba %}
+	<li>
+		<a href="{{ site.baseurl }}{{ tagliaerba_rasaerba.url }}">
+			<div class="name">{{ tagliaerba_rasaerba.name }}</div>
+			<img src="{% include relative-src.html src=tagliaerba_rasaerba.image_path %}" alt="{{ person.name }}">
+			<div class="position">{{ tagliaerba_rasaerba.subtitle }}</div>
+		</a>
+	</li>
+{% endfor %}
+</ul>
+</div>
+
+<h2>Piante e Fiori</h2>
+<div class="list-collection">
+<ul>
+{% for piante_fiori in site.piante_fiori %}
+	<li>
+		<a href="{{ site.baseurl }}{{ piante_fiori.url }}">
+			<div class="name">{{ piante_fiori.name }}</div>
+			<img src="{% include relative-src.html src=piante_fiori.image_path %}" alt="{{ person.name }}">
+			<div class="position">{{ piante_fiori.subtitle }}</div>
+		</a>
+	</li>
+{% endfor %}
+</ul>
+</div>
+
+<h2>Casette da giardino</h2>
+<div class="list-collection">
+<ul>
+{% for casette_giardino in site.casette_giardino %}
+	<li>
+		<a href="{{ site.baseurl }}{{ casette_giardino.url }}">
+			<div class="name">{{ casette_giardino.name }}</div>
+			<img src="{% include relative-src.html src=casette_giardino.image_path %}" alt="{{ person.name }}">
+			<div class="position">{{ casette_giardino.subtitle }}</div>
+		</a>
+	</li>
+{% endfor %}
+</ul>
+</div>

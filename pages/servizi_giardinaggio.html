@@ -1,0 +1,26 @@
+---
+layout: page
+title: Servizi di Giardinaggio
+heading: I nostri servizi
+subtitle: See some of our proud customers with exemplary results.
+permalink: /servizi_giardinaggio/
+---
+<div class="list-collection">
+<ul>
+	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+		<li>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
+
+				<div class="name">{{ servizi_giardinaggio.name }}</div>
+
+				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
+
+
+					<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
+
+			</a>
+		</li>
+	{% endfor %}
+
+</ul>
+</div>

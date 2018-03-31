@@ -1,0 +1,52 @@
+---
+layout: page
+name: Riparazione tagliaerba
+subtitle: manutenzione e ritiro a domicilio
+title: Manutenzione e Riparazione di tosaerba e tagliaerba
+excerpt: 'Categoria: macchine da giardinaggio. Assistenza: ripariamo tutte le marche e tutti i modelli di rasaerba. Messa a punto e manutenzione di tagliaerba e tosaerba.'
+image_path: /img/servizi/servizio-riparazione-tagliaerba.jpg
+---
+**PotaSiepe** effettua riparazioni e manutenzione, a Udine e provincia di tagliaerba elettrici ed a scoppio di tutte le dimensioni e marche (Honda, Ariens, Sandri Garden, McCulloch, Ibea, husqvarna etc.), professionali e non, potrai portare da noi il tuo tagliaerba o prenotare un ritiro direttamente a casa tua o presso la tua sede, e ti sarà restituito come nuovo in pochissimo tempo.
+
+Molti sottovalutano l´importanza di una costante ed accurata manutenzione di questo indispensabile strumento per il mantenimento del giardino, ma essa è essenziale per una lunga durata della macchina e per il suo perfetto funzionamento, un tagliaerba ben manutenuto con piccole spese o nella maggior parte dei casi solo spendendo un po’ di tempo, vi eviterà grosse spese dovute a danneggiamenti per colpa della trascurata manutenzione, o dovute anche solo ad una scarsa pulizia.
+
+![riparazione-di-tagliaerba](/img/giardiniere-potasiepe-fvg-riparazione-di-rasaerba-e-tagliaerba.jpg  "Riparazione di rasaerba e di tagliaerba")
+
+### Alcuni consigli per evitare spiacevoli inconvenienti
+
+Ricorda sempre di effettuare i seguenti interventi costantemente:
+
+- **Pulire sempre il tagliaerba**
+- Pulire il **filtro dell’aria.**
+- Pulire il serbatoio del carburatore spesso, piu o meno in base all´utilizzo.
+- Controllare e se necessario  sostituire la candela.
+- Controllare il condotto di aspirazione
+- Controllare il comando dell’acceleratore
+- Controllare e se necessario far affilare la lama
+- Sostituire o far sostituire l´olio motore ogni 2/3 mesi se ne fate un uso professionale o ogni anno per uso obbistico, si consiglia di sostituire l´olio prima di fermare la macchina per lunghi periodi per evitare che residui si depositino sul fondo.
+
+Seguendo questi brevi consigli avrete sempre un **tagliaerba** in perfetta forma, risparmierete un sacco di tempo rendendo il vostro lavoro piacevole ed efficente!
+
+La frequenza degli interventi di manutenzione dipende generalmente dall’utilizzo: per l’utilizzo **professionale** circa una volta ogni due/tre mesi, per l’utilizzo hobbistico anche solo una volta l’anno.
+
+## Scopri tutti i servizi offerti da Potasiepe:
+
+<div class="list-collection">
+<ul>
+	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+		<li>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
+
+				<div class="name">{{ servizi_giardinaggio.name }}</div>
+
+				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
+
+
+					<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
+
+			</a>
+		</li>
+	{% endfor %}
+
+</ul>
+</div>

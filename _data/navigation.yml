@@ -1,0 +1,11 @@
+links:
+- name: Home
+  link: /
+- name: Servizi
+  link: /servizi_giardinaggio/
+- name: Prezzi
+  link: /prezzi/
+- name: Shop
+  link: /articoli_giardinaggio/
+- name: Blog
+  link: /blog/

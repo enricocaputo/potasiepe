@@ -1,0 +1,48 @@
+input, textarea, select {
+  width: 100%;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-shadow: inset 0 1px 3px #ddd;
+  border-radius: 4px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 1em;
+}
+
+input:focus {
+
+    border-bottom: 3px solid lime;
+}
+textarea:focus {
+    border-bottom: 3px solid lime;
+}
+input[type=submit] {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+form .btn {
+  padding: 10px 26px;
+  background-color: limegreen;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  font-size: 1em;
+  margin: 5px 5px 5px 0;
+}
+
+form .btn:hover {
+  box-shadow: $box-shadow;
+}

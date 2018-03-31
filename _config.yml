@@ -1,0 +1,93 @@
+---
+version: 3.7.3
+title: Potasiepe • Giardiniere, manutenzione del verde, potatura alberi e siepi
+description: Realizzazione e manutenzione di giardini in provincia di Udine e Gorizia
+url: http://www.giardiniere-potasiepe.fvg.it
+baseurl:
+repository: https://github.com/enricocaputo/potasiepe-giardiniere-fvg
+timezone: Europe/Rome
+lang: it_IT
+facebook:
+  publisher: https://www.facebook.com/potasiepe
+twitter:
+  username: potasiepe
+social:
+  name: potasiepe
+  links:
+    - https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html
+    - https://www.facebook.com/potasiepe
+disqus:
+  disqus_shortname: potasiepe
+logo: "/img/share-potasiepe.jpg"
+google_analytics_id:
+google_site_verification:
+permalink: pretty
+collections_dir: my_collections
+collections:
+  casette_giardino:
+    output: true
+  piante_fiori:
+    output: true
+  posts:
+    output: true
+  tagliaerba_rasaerba:
+    output: true
+  servizi_giardinaggio:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "potasiepe"
+      category: "giardinaggio"
+      image: "/img/share-potasiepe.jpg"
+  - scope:
+      path: "_casette_giardino"
+    values:
+      layout: "product"
+      seo:
+        type: "webPage"
+  - scope:
+      path: "_piante_fiori"
+    values:
+      layout: "product"
+      seo:
+        type: "webPage"
+  - scope:
+      path: "_tagliaerba_rasaerba"
+    values:
+      layout: "product"
+      seo:
+        type: "webPage"
+plugins:
+  - github-pages
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+sitemap:
+  filename: "/sitemap.xml"
+  exclude:
+    - "/atom.xml"
+    - "/feed.xml"
+    - "/feed/index.xml"
+  include_posts:
+    - "/index.html"
+  change_frequency_name: "change_frequency"
+  priority_name: "priority"
+paginate: 3
+paginate_path: "/blog/page:num/"
+markdown: kramdown
+sass:
+    style: compressed
+social_icons:
+  - Facebook
+  - RSS
+exclude:
+  - ".gitignore"
+  - CNAME
+  - README.md

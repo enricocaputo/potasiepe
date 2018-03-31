@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.giardiniere-potasiepe.fvg.it/sitemap.xml

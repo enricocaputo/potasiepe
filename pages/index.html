@@ -1,0 +1,103 @@
+---
+layout: default
+title: Giardiniere Udine, taglio siepe, giardinaggio - POTASIEPE
+excerpt: 'Categoria: giardiniere, Area Servita: Provincia di Udine, Friuli Venezia Giulia,  Menu: potature alberi e siepe, manutenzione giardini, riparazione di rasaerba.'
+permalink: /
+---
+<div id="logo">
+<img src="{{ site.baseurl }}/img/new-logo.png" alt="il logo di Potasiepe" title="il logo di Potasiepe">
+</div>
+<h1>Il giardiniere n. 1 in Friuli</h1>
+
+
+<div class="carousel" >
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide1.jpg" alt="" title="">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide2.jpg" alt="" title="">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide3.jpg" alt="" title="">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide4.jpg" alt="" title="">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide5.jpg" alt="" title="">
+</div>
+
+
+
+  <h2 class="text-center">Opera in un raggio di 40 km da Cervignano del Friuli</h2>
+  <div class="page-content">
+    <h3>Area Servita:</h3>
+    <p>Il Giardiniere POTASIEPE ha lavorato nei comuni di Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana, Muggia,
+    Manzano, Palmanova, San Giovanni al Natisone, Gorizia , Gradisca d'Isonzo, Grado, Monfalcone , Ronchi dei Legionari..</p>
+    <p>Giardinaggio a <a href="/giardinaggio-udine-giardiniere/" title="Giardinaggio Udine, Giardiniere Udine per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
+      <strong>Udine</strong></a>: Giardiniere per la provincia di Udine.</p>
+    <p>Giardinaggio a <a href="/gorizia/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
+      <strong>Gorizia</strong></a>: Giardiniere per la provincia di Gorizia.</p>
+
+    <h3>Attrezzature e macchine da giardinaggio utilizzate</h3>
+    <p>Che si tratti di curare un giardino privato, di manutenere un parco e di livellare e fresare un appezzamento di terra
+      incolto ed abbandonato, il giardiniere PotaSiepe si avvale di macchine moderne ed efficienti. Decespugliatore, tagliaerba e trattorino per lo
+      sfalcio hanno un motore a quattro tempi a benzina in regola con le nuove normative sull’inquinamento. <a href="/chi-sono/">Leggi tutto..</a></p>
+  </div>
+<br/>
+
+
+
+<h2 class="text-center">Scopri tutti i servizi offerti da Potasiepe:</h2>
+
+<div class="list-collection">
+<ul>
+	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+		<li>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
+
+				<div class="name">{{ servizi_giardinaggio.name }}</div>
+
+				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
+
+
+					<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
+
+			</a>
+		</li>
+	{% endfor %}
+
+</ul>
+</div>
+<div class="text-center">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.10&appId=1935991236677882';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like" data-href="https://potasiepe.com/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+</div>
+<br/><br/>
+
+<h3 class="text-center">Competenza e professionalita&grave; a prezzi onesti!</h3>
+<a href="/gallery/" title="gallery">
+<img class="img-shop" src="img/giardiniere-PotaSiepe-mentre-esegue-una-potaura-di-siepe-di-tasso-a-quattro-metri.jpg" width="745" height="466" alt="Il giardiniere PotaSiepe mentre taglia una siepe in un giardino a Udine" title="Un particolare di un giardino privato">
+</a>
+<br/>
+<br/>
+
+
+<div>
+
+  <h3>Consigli di Giardinaggio</h3>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h4>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h4>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+<script src="{{ site.baseurl }}/js/carousel.js"></script>
