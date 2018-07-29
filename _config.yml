@@ -8,14 +8,14 @@ repository: https://github.com/enricocaputo/potasiepe-giardiniere-fvg
 timezone: Europe/Rome
 lang: it_IT
 facebook:
-  publisher: https://www.facebook.com/potasiepe
+  publisher: https://www.facebook.com/giardiniere.potasiepe/
 twitter:
   username: potasiepe
 social:
   name: potasiepe
   links:
     - https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html
-    - https://www.facebook.com/potasiepe
+    - https://www.facebook.com/giardiniere.potasiepe/
 disqus:
   disqus_shortname: potasiepe
 logo: "/img/share-potasiepe.jpg"
