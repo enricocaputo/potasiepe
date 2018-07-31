@@ -27,6 +27,38 @@ images:
     title: Sfalcio tappeto erboso con trattore tosaerba
   - image_path: /img/gallery/9.jpg
     title: Potatura di una siepe alta 4 metri
+  - image_path: /img/gallery/10.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 10
+  - image_path: /img/gallery/11.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 11
+  - image_path: /img/gallery/12.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 12
+  - image_path: /img/gallery/13.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 13
+  - image_path: /img/gallery/14.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 14
+  - image_path: /img/gallery/15.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 15
+  - image_path: /img/gallery/16.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 16
+  - image_path: /img/gallery/17.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 17
+  - image_path: /img/gallery/18.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 18
+  - image_path: /img/gallery/19.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 19
+  - image_path: /img/gallery/20.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 20
+  - image_path: /img/gallery/21.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 21
+  - image_path: /img/gallery/22.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 22
+  - image_path: /img/gallery/23.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 23
+  - image_path: /img/gallery/24.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 24
+  - image_path: /img/gallery/25.jpg
+    title: Giardiniere.Potasiepe - Udine, gallery photo 25
 ---
 # Giardiniere a Udine, Gorizia, Trieste e in Friuli-Venezia Giulia - Fotogallery
 
