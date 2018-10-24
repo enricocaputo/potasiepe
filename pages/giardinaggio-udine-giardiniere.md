@@ -30,13 +30,19 @@ Ho <a href="/prezzi/" title="scopri Prezzi Giardiniere, Costo Taglio Siepe Udine
 Lavoro con competenza di giardinaggio. Sono un giardiniere professionista e offro una gamma di servizi di giardinaggio a Udine a 360 gradi:
 
 <div class="page-content">
-  <p>&#10048; <a href="/servizi-di-giardinaggio/potature-di-siepi" title="Potature di siepi"><b>Potature di siepi</b> </a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/manutenzione-di-giardini-e-terrazze" title="Manutenzione di giardini e terrazze">Manutenzione di giardini</a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/disinfestazioni" title="Disinfestazioni da zanzare e altri insetti"><b>Disinfestazioni da zanzare</b></a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/verniciatura-arredi-da-giardino" title="Verniciatura arredi da giardino">Verniciatura arredi da giardino</a>  </p>
-  <p>&#10048; <a href="/shop-online/casette-da-giardino" title=""> <b>Casette da giardino</b> </a></p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/progettazione-di-giardini" title="Proggettazione di aiuole e di giardini">Proggettazione di giardini</a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/impianti-di-irrigazione" title="Impianti di irrigazione"><b>Impianti di irrigazione</b> </a> </p>
+ <div class="list-collection">
+ <ul>
+	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+		<li>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
+				<div class="name">{{ servizi_giardinaggio.name }}</div>
+				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
+				<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
+			</a>
+		</li>
+	{% endfor %}
+ </ul>
+ </div>
 </div>
 <br/><br/>
 <section>
