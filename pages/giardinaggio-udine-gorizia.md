@@ -44,5 +44,5 @@ images:
     a <a href="/giardinaggio-gorizia-giardiniere/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
       <strong>Gorizia</strong></a>,
      a <b>Pordenone</b>, a <b>Trieste</b> e in diversi comuni di queste province.
-    <br/> <a href="/servizi-di-giardinaggio/giardiniere-a-domicilio/" title="vai alla pagina giardiniere a domicilio e vedi dove PotaSiepe ha lavorato"> <b>Scopri i comuni nei quali ho lavorato ...</b></a></p>
+    <br/> <a href="/servizi_giardinaggio/giardiniere-a-domicilio/" title="vai alla pagina giardiniere a domicilio e vedi dove PotaSiepe ha lavorato"> <b>Scopri i comuni nei quali ho lavorato ...</b></a></p>
 </section>
