@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 'Giardinaggio a Udine e Gorizia'
-excerpt: 'Giardiniere a Gorizia, Cormòns, Monfalcone, Grado, San Pier D'Isonzo e in tutti i comuni della provincia. Progettazione giardini, manutenzione del verde, disinfestazioni..'
+excerpt: 'Giardiniere a Gorizia, Cormòns, Monfalcone, Grado, San Pier D'Isonzo, Udine e in tutti i comuni delle due province'
 permalink: /giardinaggio-udine-gorizia/
 sitemap: true
 images:
   - image_path: /img/giardiniere-a-domicilio.png
-    title: PotaSiepe è Giardiniere a Gorizia, Cormòns, Monfalcone, Grado e in tutti i comuni della provincia 
+    title: Giardiniere a Uidne, Gorizia e in tutti i comuni della provincia 
 ---
 <section>
   <header>
