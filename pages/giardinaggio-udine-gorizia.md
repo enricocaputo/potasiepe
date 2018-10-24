@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'Giardinaggio Udine e Gorizia - POTASIEPE'
-excerpt: 'Giardinaggio Udine e Gorizia. Servizi offerti: progettazione giardini, manutenzione giardini, taglio siepe, taglio erba, disinfestazioni, potature...'
+title: 'Giardinaggio a Udine e Gorizia'
+excerpt: 'Giardiniere a Gorizia, Cormòns, Monfalcone, Grado, San Pier D'Isonzo e in tutti i comuni della provincia. Progettazione giardini, manutenzione del verde, disinfestazioni..'
 permalink: /giardinaggio-udine-gorizia/
 sitemap: true
 images:
   - image_path: /img/giardiniere-a-domicilio.png
-    title: PotaSiepe è giardiniere a domicilio - Giardinaggio a Udine Gorizia Trieste Pordenone
+    title: PotaSiepe è Giardiniere a Gorizia, Cormòns, Monfalcone, Grado e in tutti i comuni della provincia 
 ---
 <section>
   <header>
