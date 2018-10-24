@@ -10,7 +10,7 @@ images:
 ---
 <section>
   <header>
-  <h2>Una vasta offerta di servizi per la cura e la manutenzione del tuo giardino</h2>
+  <h2>Una vasta offerta di servizi per la cura del tuo giardino</h2>
   </header>
   <div class="page-content">
 <div class="list-collection">
@@ -38,7 +38,7 @@ images:
   <h2>Il giardiniere PotaSiepe è giardiniere a domicilio</h2>
 </header>
   <p>
-    Presto servizio di giardinaggio
+    Offro servizi di giardinaggio
     a <a href="/giardinaggio-udine-giardiniere/" title="Giardinaggio Udine, Giardiniere Udine per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
       <strong>Udine</strong></a>,
     a <a href="/giardinaggio-gorizia-giardiniere/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
