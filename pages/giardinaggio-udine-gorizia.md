@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Giardinaggio a Udine e Gorizia'
-excerpt: 'Giardiniere a Gorizia, Cormòns, Monfalcone, Grado, San Pier D'Isonzo, Udine e in tutti i comuni delle due province'
+title: Giardinaggio a Udine e Gorizia
+excerpt: Giardiniere a Gorizia, Cormòns, Monfalcone, Grado, San Pier D'Isonzo, Udine e in tutti i comuni delle due province
 permalink: /giardinaggio-udine-gorizia/
 sitemap: true
 images:
