@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Giardiniere a Gorizia - POTASIEPE
-excerpt: 'Giardiniere Gorizia, costo taglio siepe, taglio erba, e ogni altra manutenzione del giardino e del verde al giusto prezzo! POTASIEPE, giardinaggio a Gorizia'
+title: Giardiniere a Gorizia
+excerpt: Giardiniere a Gorizia, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutta la Provincia.
 permalink: /gorizia/
 sitemap: true
 ---
 <img src="/img/gorizia.jpg" alt="Giardinaggio Gorizia, Giardiniere Gorizia" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
 
 ## La mia specialità è tagliare le siepi e curare i giardini
-Chi sono? Uno che fin da bambino amava i fiori e le piante!
-
-Sono un giardiniere professionista e qualificato al vostro servizio.
+Sono un giardiniere professionista e qualificato. Offro i miei servizi di giardinaggio a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari, Capriva e in tutti i comuni della Provincia.
 
 Progetto giardini, realizzo aiuole, poso impianti di irrigazione interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
 
@@ -31,13 +29,19 @@ Lavoro con competenza di giardinaggio. Sono un giardiniere professionista e offr
 servizi di giardinaggio a Gorizia a 360 gradi:
 
 <div class="page-content">
-  <p>&#10048; <a href="/servizi-di-giardinaggio/potature-di-siepi" title="Potature di siepi"><b>Potature di siepi</b> </a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/manutenzione-di-giardini-e-terrazze" title="Manutenzione di giardini e terrazze">Manutenzione di giardini</a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/disinfestazioni" title="Disinfestazioni da zanzare e altri insetti"><b>Disinfestazioni da zanzare</b></a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/verniciatura-arredi-da-giardino" title="Verniciatura arredi da giardino">Verniciatura arredi da giardino</a>  </p>
-  <p>&#10048; <a href="/shop-online/casette-da-giardino" title=""> <b>Casette da giardino</b> </a></p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/progettazione-di-giardini" title="Proggettazione di aiuole e di giardini">Proggettazione di giardini</a>  </p>
-  <p>&#10048; <a href="/servizi-di-giardinaggio/impianti-di-irrigazione" title="Impianti di irrigazione"><b>Impianti di irrigazione</b> </a> </p>
+<div class="list-collection">
+<ul>
+	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+		<li>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
+				<div class="name">{{ servizi_giardinaggio.name }}</div>
+				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
+				<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
+			</a>
+		</li>
+	{% endfor %}
+</ul>
+</div>
 </div>
 <br/><br/>
 <section>
