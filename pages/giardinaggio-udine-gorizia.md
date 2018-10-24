@@ -10,7 +10,7 @@ images:
 ---
 <section>
   <header>
-  <h2 class="text-center">Una vasta offerta di servizi per la cura del tuo giardino</h2>
+  <h2>Una vasta offerta di servizi per la cura del tuo giardino</h2>
   </header>
   <div class="page-content">
 <div class="list-collection">
