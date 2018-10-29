@@ -2,7 +2,7 @@
 title: 'Tagliaerba: guida all&#039;acquisto, come scegliere.'
 categories: giardinaggio
 author: potasiepe
-comments: false
+comments: true
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
 ---
