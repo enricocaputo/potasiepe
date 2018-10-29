@@ -28,17 +28,17 @@ layout: default
       <span class="next ">Next &rarr;</span>
     {% endif %}
   </div>
-  <div class="comments">
+    <div class="comments">
    <p><b>Ti è piaciuto questo articolo? Condividilo</b> con i tuoi amici: <b>aiuta PotaSiepe a crescere!</b></p>
    <div id="fb-root"></div>
-   <script>(function(d, s, id) {
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) return;
-     js = d.createElement(s); js.id = id;
-     js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v3.2&appId=577253996041838&autoLogAppEvents=1';
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));</script>
-    <div class="fb-like" data-href="http://www.giardiniere-potasiepe.fvg.it" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+ <script>(function(d, s, id) {
+   var js, fjs = d.getElementsByTagName(s)[0];
+   if (d.getElementById(id)) return;
+   js = d.createElement(s); js.id = id;
+   js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v3.2&appId=577253996041838';
+   fjs.parentNode.insertBefore(js, fjs);
+ }(document, 'script', 'facebook-jssdk'));</script>
+    <div class="fb-like" data-href="http://www.giardiniere-potasiepe.fvg.it" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div>
   {% if page.comments %}
     <div class="disqus-comments">
       {% include disqus.html %}
