@@ -1,5 +1,5 @@
 ---
-title: 'Quando e potare le siepi di fotinia, tuia, lauroceraso e..'
+title: 'Quando potare le siepi di fotinia, tuia, lauroceraso e..'
 categories: giardinaggio
 author: potasiepe
 comments: false
