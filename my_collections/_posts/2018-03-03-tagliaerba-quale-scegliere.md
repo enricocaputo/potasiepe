@@ -1,5 +1,5 @@
 ---
-title: 'TAGLIAERBA: GUIDA ALL&#039;ACQUISTO, COME SCEGLIERE.'
+title: 'Tagliaerba: guida all&#039;acquisto, come scegliere.'
 categories: giardinaggio
 author: potasiepe
 comments: false
