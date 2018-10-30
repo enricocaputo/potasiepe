@@ -62,7 +62,6 @@ defaults:
       seo:
         type: "webPage"
 plugins:
-  - github-pages
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
