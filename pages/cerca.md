@@ -1,11 +1,12 @@
 ---
 layout: default
-
-excerpt: Cerca sul sito una vasta gamma di articoli da giardino in offerta, i vari servizi di giardinaggio proposti oppure scopri i consigli di un giardiniere esperto
+title: Guida di Potasiepe
+excerpt: Centro assistenza ufficiale di Potasiepe Giardiniere in cui puoi trovare servizi e prodotti di giardinaggio.
 permalink: /cerca/
 sitemap: false
 ---
-<br/>
+# Come possiamo aiutarti?
+
 <script>
   (function() {
     var cx = '011530554066869076672:g4ninb5bu40';
@@ -17,6 +18,8 @@ sitemap: false
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<div id="google-search">
-<gcse:search></gcse:search>
+<div class="ricerca-personalizzata">
+  <div id="google-search">
+    <gcse:search></gcse:search>
+  </div>
 </div>
