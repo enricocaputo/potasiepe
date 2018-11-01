@@ -22,6 +22,13 @@ Prenotare il servizio è molto semplice: vai alla pagina [contatti](/contatti/),
 
 Se invece preferisci prenotare al telefono chiama il numero **388 9005888** per avere tutte le informazioni che desideri e prenotare un eventuale sopralluogo per un preventivo gratuito e senza impegno.
 
+<br/>
+<div class="text-center">
+  <h2>Preventivo Gratuito</h2>
+  <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+</div>
+<br/><br/>
+
 ## Scopri tutti i servizi offerti da Potasiepe:
 
 <div class="list-collection">
