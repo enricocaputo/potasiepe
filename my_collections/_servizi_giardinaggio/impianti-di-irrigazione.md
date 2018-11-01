@@ -16,6 +16,13 @@ image_path: /img/servizi/servizio-irrigazione-giardino.jpg
 
 **Affida il tuo impianto di irrigazione a giardiniere PotaSiepe!** In collaborazione con i tecnici del produttore dell'impianto di irrigazione stileremo un progetto ad hoc per il tuo spazio verde. Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi, per una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di PotaSiepe la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Le tue piante ti ringrazieranno!
 
+<br/>
+<div class="text-center">
+  <h2>Preventivo Gratuito</h2>
+  <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+</div>
+<br/><br/>
+
 ## Scopri tutti i servizi offerti da Potasiepe:
 
 <div class="list-collection">
