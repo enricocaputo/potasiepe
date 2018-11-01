@@ -48,10 +48,20 @@ ul {
   margin-bottom: 1.5em;
 }
 
+.ricerca-personalizzata {
+  background-image: url({{ site.baseurl }}/img/search-background.svg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  height: 305px;
+  margin-top: 24px;
+}
+
 #google-search {
-  padding: 0.2em;
-  background-color: Lime;
-  border-radius: 5px;
+  max-width: 520px;
+  margin: 0 auto;
+  border-bottom: 3px solid rgba(60,64,67,0.15);
+  padding-top: 130px;
+  border-radius: 10px;
 }
 
 img {
