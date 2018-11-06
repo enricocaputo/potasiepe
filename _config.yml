@@ -89,3 +89,14 @@ exclude:
   - ".gitignore"
   - CNAME
   - README.md
+
+  # Compress
+sass:
+    style: compressed
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  startings: [head, body]
