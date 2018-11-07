@@ -80,8 +80,7 @@ sitemap:
 paginate: 3
 paginate_path: "/blog/page:num/"
 markdown: kramdown
-sass:
-    style: compressed
+
 social_icons:
   - Facebook
   - RSS
