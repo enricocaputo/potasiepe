@@ -7,9 +7,10 @@ image: /img/blog/siepe/potatura.jpg
 image_featured: true
 date: 2018-10-29
 ---
+Le **siepi sempreverdi** (nella foto il Buxus) come ad esempio il lauroceraso e la fotinia vanno potate preferibilmente da metà settembre a inizio dicembre perché in quel momento lo sviluppo si rallenta e la nuova vegetazione che si produce ha il tempo per rafforzarsi prima dell'arrivo del gelo invernale.
+
 ![siepe-di-buxus](/img/posts/siepe-di-buxus.jpg  "La potatura della siepe di buxus")
 
-Le **siepi sempreverdi** (nella foto il Buxus) come ad esempio il lauroceraso e la fotinia vanno potate preferibilmente da metà settembre a inizio dicembre perché in quel momento lo sviluppo si rallenta e la nuova vegetazione che si produce ha il tempo per rafforzarsi prima dell'arrivo del gelo invernale.
 Una seconda potatura leggera andrebbe invece eseguita in primavera: è il momento ideale per verificare se le nostre piante hanno bisogno di concime nutritivo e di trattamenti per difendersi da finghi, parassiti e insetti dannosi.
 Fanno eccezzione i **cipressi** come ad esempio la **tuja** e il **leylandii** che vanno potati una sola volta all'anno indifferentemente in autunno oppure in primavera.
 
@@ -28,7 +29,7 @@ Le specie sempreverdi a sviluppo lento, come il bosso e il tasso, possono essere
 
 ![siepe-di-forsythia](/img/posts/siepe-di-forsythia.jpg  "La potatura della siepe di forsytia")
 
-Di norma tutte le **siepi che fioriscono sul legno nuovo** (quello formatosi entro metà giugno) sopportano meglio una potatura "pesante" in autunno e fino a fine novembre mentre l’inizio della primavera è ideale per una potatura leggera: conferisce un aspetto ordinato e dà forza alle piante. 
+Di norma tutte le **siepi che fioriscono sul legno nuovo** (quello formatosi entro metà giugno) sopportano meglio una potatura "pesante" in autunno e fino a fine novembre mentre l’inizio della primavera è ideale per una potatura leggera: conferisce un aspetto ordinato e dà forza alle piante.
 Invece, **le piante che fioriscono sul legno della stagione precedente** (Spiraea, Deutzia, Lavandula, Hebe , ecc.) devono essere potate dopo la fioritura.
 
 Il proprietario di una siepe fiorita dovrebbe controllare il calendario prima di intervire sulla potatura delle siepi. Alcune specie richiedono un'attenzione maggiore.
@@ -36,4 +37,3 @@ Se, per esempio, abbiamo una siepe di Forsythia, il lavoro di potatura della sie
 
 La potatura della siepe decidua va sempre ponderata, poiché di solito è preferibile far sì che le foglie autunnali cadano più tardi possibile o addirittura restino sulla pianta per tutto l’inverno (Carpinus).
 Sulle conifere si opera dalla primavera in avanti, ma è meglio procrastinare l’operazione all’inizio dell’autunno.
-
