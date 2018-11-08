@@ -35,7 +35,6 @@ p {
 
 ul {
   list-style: none;
-  padding: 0;
 }
 
 .text-center {
@@ -80,6 +79,10 @@ img {
 
 .list-collection {
   text-align: center;
+}
+
+.list-collection ul {
+  padding: 0;
 }
 
 .list-collection ul li {
