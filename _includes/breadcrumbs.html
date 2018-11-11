@@ -1,0 +1,28 @@
+<nav class="breadcrumbs"  aria-label="sei qui:" role="navigation">
+  {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+   <ol class="breadcrumb list-unstyled" vocab="http://schema.org/" typeof="BreadcrumbList">
+     <li class="breadcrumb-item " property="itemListElement" typeof="ListItem">
+        <a property="item" typeof="WebPage" href="/">
+           <span property="name">Home</span>
+        </a>
+        <meta property="position" content="1" />
+     </li>
+      {% for crumb in crumbs offset: 1 %}
+      {% if forloop.last %}
+      <li class="breadcrumb-item " property="itemListElement" typeof="ListItem">
+         <a property="item" typeof="WebPage" href="{{ site.baseurl }}{{ page.url | absolute }}">
+            <span property="name">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</span>
+         </a>
+         <meta property="position" content="{{ forloop.length | plus: 1 }}" />
+      </li>
+      {% else %}
+      <li class="breadcrumb-item" property="itemListElement" typeof="ListItem">
+         <a property="item" typeof="WebPage" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">
+            <span property="name">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</span>
+         </a>
+         <meta property="position" content="{{ forloop.length }}" />
+      </li>
+      {% endif %}
+    {% endfor %}
+   </ol>
+</nav>

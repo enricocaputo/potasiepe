@@ -25,14 +25,19 @@ collections_dir: my_collections
 collections:
   casette_giardino:
     output: true
+    permalink: /vendita-online-prodotti-per-giardinaggio/:title
   piante_fiori:
     output: true
-  posts:
-    output: true
+    permalink: /vendita-online-prodotti-per-giardinaggio/:title
   tagliaerba_rasaerba:
     output: true
+    permalink: /vendita-online-prodotti-per-giardinaggio/:title
   servizi_giardinaggio:
     output: true
+    permalink: /servizi-di-giardinaggio/:title
+  posts:
+    output: true
+    permalink: /consigli-di-giardinaggio/:title
 
 defaults:
   - scope:
