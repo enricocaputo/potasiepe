@@ -1,12 +1,14 @@
 ---
 layout: page
-name: Riparazione tagliaerba
+name: Riparazione tosaerba Udine
 subtitle: manutenzione e ritiro a domicilio
-title: Manutenzione e Riparazione di tosaerba e tagliaerba
-excerpt: 'Categoria: macchine da giardinaggio. Assistenza: ripariamo tutte le marche e tutti i modelli di rasaerba. Messa a punto e manutenzione di tagliaerba e tosaerba.'
+title: Riparazione tosaerba Udine
+excerpt: 'Centro di assistenza per la ripariazione delle principali marche di rasaerba. Messa a punto e manutenzione di tagliaerba con motori Honda e Briggs Stratton.'
 image_path: /img/servizi/servizio-riparazione-tagliaerba.jpg
 ---
 **PotaSiepe** effettua riparazioni e manutenzione, a Udine e provincia di tagliaerba elettrici ed a scoppio di tutte le dimensioni e marche (Honda, Ariens, Sandri Garden, McCulloch, Ibea, husqvarna etc.), professionali e non, potrai portare da noi il tuo tagliaerba o prenotare un ritiro direttamente a casa tua o presso la tua sede, e ti sarà restituito come nuovo in pochissimo tempo.
+
+## Assitenza delle migliori marche di tosaerba: ritiro a domicilio
 
 Molti sottovalutano l´importanza di una costante ed accurata manutenzione di questo indispensabile strumento per il mantenimento del giardino, ma essa è essenziale per una lunga durata della macchina e per il suo perfetto funzionamento, un tagliaerba ben manutenuto con piccole spese o nella maggior parte dei casi solo spendendo un po’ di tempo, vi eviterà grosse spese dovute a danneggiamenti per colpa della trascurata manutenzione, o dovute anche solo ad una scarsa pulizia.
 

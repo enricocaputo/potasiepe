@@ -1,0 +1,20 @@
+<nav class="breadcrumbs bootstrap"  aria-label="sei qui:" role="navigation">
+   <ol class="breadcrumb list-unstyled" vocab="http://schema.org/" typeof="BreadcrumbList">
+      {% for crumb in breadcrumbs %}
+      {% if forloop.last %}
+      <li class="breadcrumb-item breadcrumb-item-hidden" property="itemListElement" typeof="ListItem">
+         <a property="item" typeof="WebPage" href="{{ crumb.url | relative_url }}">
+            <span property="name">{{ crumb.title }}</span>
+         </a>
+         <meta property="position" content="{{ crumb.position }}" />
+      </li>
+      {% continue %} {% endif %}
+      <li class="breadcrumb-item" property="itemListElement" typeof="ListItem">
+         <a property="item" typeof="WebPage" href="{{ crumb.url | relative_url }}">
+            <span property="name">{{ crumb.title }}</span>
+         </a>
+         <meta property="position" content="{{ crumb.position }}" />
+      </li>
+      {% endfor %}
+   </ol>
+</nav>
