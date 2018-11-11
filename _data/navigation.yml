@@ -2,10 +2,10 @@ links:
 - name: Home
   link: /
 - name: Servizi
-  link: /servizi-di-giardinaggio/
+  link: /servizi_giardinaggio/
 - name: Prezzi
   link: /prezzi/
 - name: Shop
-  link: /vendita-online-prodotti-per-giardinaggio/
+  link: /articoli_giardinaggio/
 - name: Blog
-  link: /consigli-di-giardinaggio/
+  link: /blog/
