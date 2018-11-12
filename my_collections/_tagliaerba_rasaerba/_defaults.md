@@ -9,11 +9,3 @@ excerpt: 'Categoria:... , Marca: ... , Modello: ... , Prezzo: € .. , Caratteri
 image_path:
 ---
 ### DESCRIZIONE:
-
-Ideale per rasare il prato ...
-
-Robusta scocca in ...
-
-Superfice giardino max. consigliata 250 mq. Larghezza di taglio 38 cm.
-
-**Consegna gratuita a domicilio ad opera di personale qualificato**

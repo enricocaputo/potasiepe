@@ -23,12 +23,6 @@ google_site_verification: IjO9vcjLUHfAUVshahLw0DyUxVqtV6zST56ah8L_Mtw
 permalink: pretty
 collections_dir: my_collections
 collections:
-  casette_giardino:
-    output: true
-    permalink: /vendita-online-prodotti-per-giardinaggio/:title
-  piante_fiori:
-    output: true
-    permalink: /vendita-online-prodotti-per-giardinaggio/:title
   tagliaerba_rasaerba:
     output: true
     permalink: /vendita-online-prodotti-per-giardinaggio/:title
