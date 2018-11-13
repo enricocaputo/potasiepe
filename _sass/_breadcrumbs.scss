@@ -42,6 +42,10 @@ nav.breadcrumbs .breadcrumb-item {
    float: left;
 }
 
+nav.breadcrumbs .breadcrumb-item-hidden {
+   visibility: hidden;
+}
+
 nav.breadcrumbs .breadcrumb-item+.breadcrumb-item::before {
    display: inline-block;
    padding-right: 0.5rem;
@@ -50,7 +54,7 @@ nav.breadcrumbs .breadcrumb-item+.breadcrumb-item::before {
    content: "/";
 }
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   nav.breadcrumbs {
     visibility: hidden;
   }
