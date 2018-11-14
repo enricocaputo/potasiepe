@@ -52,8 +52,7 @@ permalink: /
 
 				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
 
-
-					<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
+        <div class="position">{{ servizi_giardinaggio.subtitle }}</div>
 
 			</a>
 		</li>
@@ -61,18 +60,19 @@ permalink: /
 
 </ul>
 </div>
-<div class="text-center">
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.10&appId=1935991236677882';
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-like" data-href="https://potasiepe.com/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+<div class="text-center">
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v3.2';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <div class="fb-like" data-href="https://www.giardiniere-potasiepe.fvg.it/" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 </div>
+
 <br/><br/>
 
 <h3 class="text-center">Competenza e professionalita&grave; a prezzi onesti!</h3>
