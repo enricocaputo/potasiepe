@@ -17,7 +17,8 @@ social:
     - https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html
     - https://www.facebook.com/giardiniere.potasiepe/
 
-disqus-shortname: capu
+disqus:
+  shortname: capu
 
 logo: "/img/share-potasiepe.jpg"
 google_analytics_id:
