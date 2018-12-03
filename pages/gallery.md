@@ -10,19 +10,19 @@ sitemap:
 
 images:
   - image_path: /img/gallery/1.jpg
-    title: Verniciatura di casetta da giardino - casette da esterno in legno, resina e pvc
+    title: Verniciatura casetta da giardino in legno
   - image_path: /img/gallery/2.jpg
-    title: Progettazione giardini e realizzazione aiuole - vari tipi di fiori e di piante
+    title: Progettazione giardini
   - image_path: /img/gallery/3.jpg
-    title: Interramento di impianto di irrigazione (particolare dell'elettrovalvola)
+    title: Impianto di irrigazione, particolare di una elettrovalvola
   - image_path: /img/gallery/4.jpg
-    title: Fresatura e livellatura di un terreno - preparazione alla semina del prato
+    title: Lavori di preparazione alla semina del prato
   - image_path: /img/gallery/5.jpg
-    title: lavoro di posa del prato a rotoli di erba naturale
+    title: Posa del prato a rotoli, erba naturale
   - image_path: /img/gallery/6.jpg
-    title: Realizzazione di aiuole di fiori perenni
+    title: Realizzazione di aiuola con fiori perenni
   - image_path: /img/gallery/7.jpg
-    title: Potatura di siepe di lauro esterna - taglio di siepe di tuia interna al giardino
+    title: Taglio siepe di tuia
   - image_path: /img/gallery/8.jpg
     title: Sfalcio tappeto erboso con trattore tosaerba
   - image_path: /img/gallery/9.jpg
