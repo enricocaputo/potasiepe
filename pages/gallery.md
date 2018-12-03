@@ -28,37 +28,43 @@ images:
   - image_path: /img/gallery/9.jpg
     title: Potatura di una siepe alta 4 metri
   - image_path: /img/gallery/10.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 10
+    title: Potatura cipressi
   - image_path: /img/gallery/11.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 11
+    title: Potatura photinia
   - image_path: /img/gallery/12.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 12
+    title: Potatura cipresso leylandii
   - image_path: /img/gallery/13.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 13
+    title: Utensili manuali per giardino
   - image_path: /img/gallery/14.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 14
+    title: Riparazione tosaerba, servizio di ritiro a domicilio
   - image_path: /img/gallery/15.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 15
+    title: Fresatura di un prato con motozappa
   - image_path: /img/gallery/16.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 16
+    title: Potatura siepe lauro
   - image_path: /img/gallery/17.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 17
+    title: Potatura di contenimento siepi
   - image_path: /img/gallery/18.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 18
+    title: Sfalcio con trattore e trincia
   - image_path: /img/gallery/19.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 19
+    title: Realizzazione aiuole con irrigazione
   - image_path: /img/gallery/20.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 20
+    title: Come creare un magnifico giardino sul terrazzo di casa
   - image_path: /img/gallery/21.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 21
+    title: Fornitura, movimentazione e trasporto terra
   - image_path: /img/gallery/22.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 22
+    title: Lotta ai parassiti delle piante, trattamenti fitosanitari
   - image_path: /img/gallery/23.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 23
+    title: Carrello da giardinaggio
   - image_path: /img/gallery/24.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 24
+    title: Giardiniere Potasiepe spiana e livella il terreno con escavatore
   - image_path: /img/gallery/25.jpg
-    title: Giardiniere.Potasiepe - Udine, gallery photo 25
+    title: Disinfestazione zanzare con atomizzatore
+  - image_path: /img/gallery/26.jpg
+    title: Tosaerba con tecnologia mulching
+  - image_path: /img/gallery/27.jpg
+    title: Potatura alberi da frutto, ciliegio
+  - image_path: /img/gallery/28.jpg
+    title: Pulizia muretto in cemento e muro in pietra con idropulitrice
 ---
 # Giardiniere a Udine, Gorizia, Trieste e in Friuli-Venezia Giulia - Fotogallery
 
