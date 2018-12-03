@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Fotogallery: Lavori di giardinaggio e trattamenti fitosanitari - POTASIEPE'
+title: Immagini relative a lavori giardinaggio
 excerpt: Una gallery di fotografie che mostra i servizi di giardinaggio svolti da giardiniere PotaSiepe nei giardini della provincia di Udine, di Trieste e in Friuli
 permalink: /gallery/
 sitemap:
