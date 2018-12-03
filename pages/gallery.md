@@ -65,6 +65,12 @@ images:
     title: Potatura alberi da frutto, ciliegio
   - image_path: /img/gallery/28.jpg
     title: Pulizia muretto in cemento e muro in pietra con idropulitrice
+  - image_path: /img/gallery/29.jpg
+    title: Biotrituratore e cippato, gestione green delle biomasse residue
+  - image_path: /img/gallery/30.jpg
+    title: Realizzazione giardini aziende e ristoranti, aumenta la brand reputation e riduce lo stress dei lavoratori
+
+
 ---
 # Fotogallery: lavori di giardinaggio
 
