@@ -8,8 +8,10 @@ header {
   background: darkgreen;
 
   .search {
-    width: 1em;
-    cursor: pointer;
+    width: 1.2em;
+    a {
+      cursor: zoom-in;
+    }
   }
 
   .logo a {
