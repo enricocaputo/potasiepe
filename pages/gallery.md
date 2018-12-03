@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Immagini relative a lavori giardinaggio
-excerpt: Una gallery di fotografie che mostra i servizi di giardinaggio svolti da giardiniere PotaSiepe nei giardini della provincia di Udine, di Trieste e in Friuli
+excerpt: 'Immagini relative a lavori di giardinaggio eseguiti da giardiniere Potasiepe in diversi giardini a Udine, Gorizia e in vari comuni delle due province.'
 permalink: /gallery/
 sitemap:
     priority: 0.61
@@ -66,9 +66,10 @@ images:
   - image_path: /img/gallery/28.jpg
     title: Pulizia muretto in cemento e muro in pietra con idropulitrice
 ---
-# Giardiniere a Udine, Gorizia, Trieste e in Friuli-Venezia Giulia - Fotogallery
+# Fotogallery: lavori di giardinaggio
 
-### Particolari di sistemazioni di giardini
+**Particolari di sistemazioni di giardini**
+
 <div class="list-collection">
 <ul class="photo-gallery">
   {% for image in page.images %}
