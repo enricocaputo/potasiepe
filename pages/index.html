@@ -11,11 +11,11 @@ permalink: /
 <h1>Il giardiniere n. 1 in Friuli</h1>
 
 <div class="carousel" >
-  <img class="mySlides" src="{{ site.baseurl }}/img/slide1.jpg" alt="" title="">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slide2.jpg" alt="" title="">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slide3.jpg" alt="" title="">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slide4.jpg" alt="" title="">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slide5.jpg" alt="" title="">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide1.jpg" alt="Ars topiaria: muro di siepe" />
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide2.jpg" alt="Piante da siepe in fioriera" />
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide3.jpg" alt="Come potare una siepe di ligustro" />
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide4.jpg" alt="Fotinia Red Robin in vaso, altezza 2 m." />
+  <img class="mySlides" src="{{ site.baseurl }}/img/slide5.jpg" alt="Come piantare una siepe" />
 </div>
 
   <h2 class="text-center">Opera in un raggio di 40 km da Cervignano del Friuli</h2>
@@ -41,11 +41,11 @@ permalink: /
 <ul>
 	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
 		<li>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
+      <a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}">
 
 				<div class="name">{{ servizi_giardinaggio.name }}</div>
 
-				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
+				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
 
         <div class="position">{{ servizi_giardinaggio.subtitle }}</div>
 
