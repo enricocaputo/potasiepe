@@ -1,17 +1,17 @@
 .photo-gallery {
   overflow: hidden;
   margin-left: -43px;
-}
-.photo-gallery ul {
-  margin: 0 auto;
-}
-.photo-gallery li {
+  ul {
+    margin: 0 auto;
+  }
+  li {
     list-style-type: none;
     display: inline;
     padding: 10px;
     overflow: hidden;
-}
-.photo-gallery li img {
-  width: 280px;
-  height: 280px;
+    img {
+      width: 280px;
+      height: 280px;
+    }
+  }
 }

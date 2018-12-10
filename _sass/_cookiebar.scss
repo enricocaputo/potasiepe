@@ -7,16 +7,15 @@
   bottom: 0;
   background: rgba(#000000, 0.89);
   z-index: 99;
-}
-
-.cookie-message p {
-      color: rgba(#ffffff, 0.8);
-      font-weight: 600;
-      font-size: 0.7em;
-      padding: 0.7em 8em 0.7em 2em;
-      width:95%;
-      margin-top: 0;
-      margin-bottom: 0;
+  p {
+    color: rgba(#ffffff, 0.8);
+    font-weight: 600;
+    font-size: 0.7em;
+    padding: 0.7em 8em 0.7em 2em;
+    width: 95%;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 }
 
 .cookiebar-close {

@@ -15,19 +15,16 @@ input, textarea, select {
   font-size: 1em;
 }
 
-input:focus {
+input:focus, textarea:focus {
+  border-bottom: 3px solid lime;
+}
 
-    border-bottom: 3px solid lime;
-}
-textarea:focus {
-    border-bottom: 3px solid lime;
-}
 input[type=submit] {
-    background-color: green;
-    border: none;
-    color: white;
-    padding: 16px;
-    text-decoration: none;
-    margin: 4px 2px;
-    cursor: pointer;
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
 }

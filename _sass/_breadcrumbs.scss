@@ -8,34 +8,30 @@ nav.breadcrumbs {
   margin: 0;
   display: inline-block;
   z-index: 0;
-}
-
-nav.breadcrumbs ol {
-   margin-left: 0;
-}
-
-nav.breadcrumbs ol li a {
-   color: #818a91;
-
-   &:hover {
-     color: $theme;
-     text-decoration: none;
-   }
+  ol {
+    margin-left: 0;
+    li a {
+      color: #818a91;
+      &:hover {
+        color: $theme;
+        text-decoration: none;
+      }
+    }
+  }
 }
 
 nav.breadcrumbs .breadcrumb {
-   font-size: 10px;
-   color: #818a91;
-   padding: 0.75rem 1rem;
-   margin-bottom: 1rem;
-   list-style: none;
-   border-radius: 0.25rem;
-}
-
-nav.breadcrumbs .breadcrumb::after {
-   content: "";
-   display: table;
-   clear: both;
+  font-size: 10px;
+  color: #818a91;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  list-style: none;
+  border-radius: 0.25rem;
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 nav.breadcrumbs .breadcrumb-item {

@@ -1,27 +1,33 @@
 .comments {
   text-align: left;
 }
+
 .post-comments {
   margin-top: 15px;
 }
+
 .post-list {
   margin-left: 0;
   list-style: none;
-}
-.post-list > li {
+  > li {
     margin-bottom: 30px;
+  }
 }
+
 .post-meta {
   font-size: 14px;
   color: #828282;
 }
+
 .post-link {
   display: block;
   font-size: 24px;
 }
+
 .post-header {
   margin-bottom: 30px;
 }
+
 .post-title {
   font-size: 42px;
   letter-spacing: -1px;
@@ -31,57 +37,71 @@
 .nextprev {
   overflow: hidden;
   margin-bottom: 25px;
+  a {
+    font-size: 17px;
+    padding: 8px 16px;
+    border: 1px solid #cccccc;
+    display: inline-block;
+    text-decoration: none;
+    &:link, &:visited {
+      background-color: #f7f7f7;
+      color: #000000;
+    }
+    &.next-right {
+      background-color: #094530;
+      color: #ffffff;
+      border-color: #094530;
+    }
+    &:hover {
+      box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+  }
 }
-.nextprev a {
-  font-size: 17px;
-  padding: 8px 16px;
-  border: 1px solid #cccccc;
-  display: inline-block;
-  text-decoration: none;
-}
-.nextprev a:link, .nextprev a:visited {
-    background-color: #f7f7f7;
-    color: #000000;
-}
-.nextprev a.next-right {
-    background-color: #094530;
-    color: #ffffff;
-    border-color: #094530;
-}
-.nextprev a:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
-}
+
 .prev-left {
   float: left;
 }
+
 .next-right {
   text-align: center;
   float: right;
 }
 
-  @media screen and (max-width: 800px) {
-    .post-title {
-      font-size: 36px; } }
+@media screen and (max-width: 800px) {
+  .post-title {
+    font-size: 36px;
+  }
+}
+
 .post-content {
   margin-bottom: 30px;
   text-align: justify;
   line-height: 1.8;
-}
-.post-content h2 {
-  font-size: 32px;
-}
-  @media screen and (max-width: 800px) {
-  .post-content h2 {
-      font-size: 28px; } }
-.post-content h3 {
+  h2 {
+    font-size: 32px;
+  }
+  h3 {
     font-size: 26px;
-}
-  @media screen and (max-width: 800px) {
-  .post-content h3 {
-        font-size: 22px; } }
-.post-content h4 {
+  }
+  h4 {
     font-size: 20px;
+  }
 }
-  @media screen and (max-width: 800px) {
+
+@media screen and (max-width: 800px) {
+  .post-content h2 {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .post-content h3 {
+    font-size: 22px;
+  }
+}
+
+@media screen and (max-width: 800px) {
   .post-content h4 {
-        font-size: 18px; } }
+    font-size: 18px;
+  }
+}

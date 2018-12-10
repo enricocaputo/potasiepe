@@ -1,130 +1,137 @@
-/* sidebarShortcuts */
 .sidebarShortcuts {
- position:fixed;
- top:600px;
- right:0;
- z-index:16;
+  position: fixed;
+  top: 600px;
+  right: 0;
+  z-index: 16;
+  .shortcut {
+    display: block;
+    position: relative;
+    padding-bottom: 2px;
+    width: 48px;
+    img {
+      width: 48px;
+      display: block;
+      z-index: 12;
+      position: relative;
+    }
+    .details {
+      position: absolute;
+      right: 0px;
+      top: 0;
+      width: 270px;
+      height: 52px;
+      z-index: 10;
+      background: lime;
+      opacity: 0;
+      transform: translateX(150px);
+      backface-visibility: hidden;
+      -webkit-transition: all 0.2s ease-in-out;
+      -moz-transition: all 0.2s ease-in-out;
+      -ms-transition: all 0.2s ease-in-out;
+      -o-transition: all 0.2s ease-in-out;
+      transition: all 0.2s ease-in-out;
+      color: #000;
+      font-weight: 900;
+      letter-spacing: 2px;
+      padding: 20px;
+      span {
+        position: relative;
+        &:after {
+          content: "";
+          height: 2px;
+          background: #fff;
+          width: 0%;
+          display: block;
+          position: absolute;
+          top: auto;
+          bottom: -4px;
+          left: 0;
+          backface-visibility: hidden;
+          -webkit-transition: all 0.2s ease-in-out;
+          -moz-transition: all 0.2s ease-in-out;
+          -ms-transition: all 0.2s ease-in-out;
+          -o-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+        }
+        &.active:after, &:hover:after {
+          width: 100%;
+        }
+      }
+    }
+    &:hover .details {
+      transform: translateX(-50px);
+      opacity: 1;
+    }
+  }
 }
-@media screen and (max-height:750px) {
- .sidebarShortcuts {
-  top:auto;
-  bottom:60px;
- }
+
+@media screen and (max-height: 750px) {
+  .sidebarShortcuts {
+    top: auto;
+    bottom: 60px;
+  }
 }
-@media (max-height:500px) and (min-width:600px) {
- .sidebarShortcuts {
-  display:none;
- }
+
+@media (max-height: 500px) and (min-width: 600px) {
+  .sidebarShortcuts {
+    display: none;
+  }
 }
-@media screen and (min-height:800px) {
- .sidebarShortcuts {
-  top:auto;
-  bottom:140px;
- }
+
+@media screen and (min-height: 800px) {
+  .sidebarShortcuts {
+    top: auto;
+    bottom: 140px;
+  }
 }
+
 @media only screen and (max-width: 600px) {
- .sidebarShortcuts {
-  bottom:0px;
-  top:auto;
-  left:0;
-  right:0;
-  width:100%;
-  border-top:1px solid #21221d;
-  background:#fff;
-  padding:5px 10px;
- }
+  .sidebarShortcuts {
+    bottom: 0px;
+    top: auto;
+    left: 0;
+    right: 0;
+    width: 100%;
+    border-top: 1px solid #21221d;
+    background: #fff;
+    padding: 5px 10px;
+  }
 }
-.sidebarShortcuts .shortcut {
- display:block;
- position:relative;
- padding-bottom:2px;
- width:48px;
-}
-.sidebarShortcuts .shortcut img {
- width:48px;
- display:block;
- z-index:12;
- position:relative;
-}
-.sidebarShortcuts .shortcut .details {
- position:absolute;
- right:0px;
- top:0;
- width:270px;
- height:52px;
- z-index:10;
- background: lime;
- opacity:0;
- transform:translateX(150px);
- backface-visibility:hidden;
- -webkit-transition:all 0.2s ease-in-out;
- -moz-transition:all 0.2s ease-in-out;
- -ms-transition:all 0.2s ease-in-out;
- -o-transition:all 0.2s ease-in-out;
- transition:all 0.2s ease-in-out;
- color:#000;
- font-weight:900;
- letter-spacing:2px;
- padding:20px;
-}
+
 @media only screen and (max-width: 600px) {
- .sidebarShortcuts .shortcut .details {
-  display:none;
- }
+  .sidebarShortcuts .shortcut .details {
+    display: none;
+  }
 }
-.sidebarShortcuts .shortcut .details span {
- position:relative;
-}
-.sidebarShortcuts .shortcut .details span:after {
- content:"";
- height:2px;
- background:#fff;
- width:0%;
- display:block;
- position:absolute;
- top:auto;
- bottom:-4px;
- left:0;
- backface-visibility:hidden;
- -webkit-transition:all 0.2s ease-in-out;
- -moz-transition:all 0.2s ease-in-out;
- -ms-transition:all 0.2s ease-in-out;
- -o-transition:all 0.2s ease-in-out;
- transition:all 0.2s ease-in-out;
-}
+
 @media only screen and (max-width: 650px) {
- .sidebarShortcuts .shortcut .details span:after {
-  background:transparent;
- }
+  .sidebarShortcuts .shortcut .details span:after {
+    background: transparent;
+  }
 }
-.sidebarShortcuts .shortcut .details span.active:after,.sidebarShortcuts .shortcut .details span:hover:after {
- width:100%;
-}
-.sidebarShortcuts .shortcut:hover .details {
- transform:translateX(-50px);
- opacity:1;
-}
+
 @media only screen and (max-width: 600px) {
- .sidebarShortcuts .shortcut.phone {
-  width:60%;
-  width:calc(60% - 3px);
-  float:left;
-  text-align:center;
-  background: lime;
- }
- .sidebarShortcuts .shortcut.phone img {
-  margin:0px auto;
- }
+  .sidebarShortcuts .shortcut.phone {
+    width: 60%;
+    width: calc(60% - 3px);
+    float: left;
+    text-align: center;
+    background: lime;
+    img {
+      margin: 0px auto;
+    }
+  }
 }
+
 @media only screen and (max-width: 600px) {
- .sidebarShortcuts .shortcut.mail {
-  width:40%;
-  width:calc(40% - 2px);
-  float:right;
-  text-align:center;
-  background: lime;
- }
- .sidebarShortcuts .shortcut.mail img {
-  margin:0px auto;
- }
+  .sidebarShortcuts .shortcut.mail {
+    width: 40%;
+    width: calc(40% - 2px);
+    float: right;
+    text-align: center;
+    background: lime;
+    img {
+      margin: 0px auto;
+    }
+  }
 }
