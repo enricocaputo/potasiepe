@@ -1,7 +1,3 @@
----
-json: false
-layout: null
----
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:transform  version="1.0"
                 xmlns:a="http://www.w3.org/2005/Atom"
@@ -20,7 +16,7 @@ layout: null
 </xsl:template>
 
 <xsl:template match="a:entry">
-  <xsl:text> - - - - - - - - - - - - - &#10; </xsl:text>
+  <xsl:text> -------------------------------------- &#10; </xsl:text>
   <xsl:text> Feed entry: </xsl:text>
   <xsl:value-of select="a:id"/>
   <xsl:text> &#10; </xsl:text>
