@@ -6,7 +6,8 @@ url: https://www.giardiniere-potasiepe.fvg.it
 baseurl:
 repository: https://github.com/enricocaputo/potasiepe-giardiniere-fvg
 timezone: Europe/Rome
-lang: it_IT
+encoding: UTF-8
+lang: it-IT
 facebook:
   publisher: https://www.facebook.com/giardiniere.potasiepe/
 twitter:
