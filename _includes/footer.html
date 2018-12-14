@@ -9,7 +9,7 @@
           </li>
           {% for link in column.links %}
             <li>
-              <a {% if link.new_window %}target="_blank" rel="noopener"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+              <a {% if link.new_window %}target="_blank" rel="noopener"{% endif %} href="{% include relative-src.html src=link.link %}" aria-label="{{ link.name }} - Si apre in una nuova finestra" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
                 {% if link.social_icon %}
                   {% include social-icon.html icon=link.social_icon %}
                 {% endif %}
