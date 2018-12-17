@@ -1,16 +1,12 @@
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-		this.page.url = "{{ page.url | prepend: site.url }}";
-		this.page.identifier = "{{ page.url | prepend: site.url }}";
-};
-(function() { // DON'T EDIT BELOW THIS LINE
+<div itemprop="comment" id="disqus_thread"></div>
+
+<script defer>
+
+(function() {
 var d = document, s = d.createElement('script');
-s.src = 'https://potasiepe.disqus.com/embed.js';
+s.src = '//potasiepe.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
 <noscript>Abilita JavaScript per vedere i commenti <a href="https://disqus.com/?ref_noscript">powered by Disqus.</a></noscript>
-{% endif %}
