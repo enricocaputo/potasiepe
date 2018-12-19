@@ -5,11 +5,9 @@ layout: compress
 <html lang="it-IT">
 {% include head.html %}
 <body>
-<a title="Salta al contenuto principale" class="skip-main" href="#main">Salta al contenuto principale</a>
 {% include header.html %}
 <div class="wrapper">
   {% include breadcrumbs.html path=page.path title=page.title %}
-  <div id="main" tabindex="-1"></div>
   <div class="content">
     {{ content }}
   </div>
