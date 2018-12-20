@@ -19,24 +19,24 @@ layout: default
 		{{ page.excerpt }}
 
 		<div id="share-desktop" class="share-bar">
-			<a class="share-link" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Facebook" %}
 			</a>
-			<a class="share-link" href="https://twitter.com/home?status=Currently reading {{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Twitter" href="https://twitter.com/home?status=Currently reading {{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Twitter" %}
 			</a>
-			<a class="share-link" href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Google Plus" href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="GooglePlus" %}
 			</a>
 		</div>
 		<div id="share-smartphone" class="share-bar">
-			<a class="share-link" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Facebook" %}
 			</a>
-			<a class="share-link" href="fb-messenger://share/?link={{ page.url | prepend: site.url }}&app_id=577253996041838" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Messenger" href="fb-messenger://share/?link={{site.url | url_encode }}/{{ page.url | url_encode }}" data-link="{{site.url | url_encode }}/{{ page.url | url_encode }}" data-app_id="577253996041838" data-action="share/messenger/share" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Messenger" %}
 			</a>
-			<a class="share-link" href="whatsapp://send?text={{ page.url | prepend: site.url }}" data-action="share/whatsapp/share" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su WhatsApp" href="whatsapp://send?text={{ page.url | prepend: site.url }}" data-action="share/whatsapp/share" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="WhatsApp" %}
 			</a>
 		</div>
