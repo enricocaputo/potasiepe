@@ -1,18 +1,106 @@
+#share-smartphone {
+  display: none;
+}
+.desc {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #adadad;
+  padding-bottom: 23px;
+  >div {
+    flex: 50%;
+    max-width: 50%;
+    text-align: center;
+  }
+  img {
+    object-fit: cover;
+    height: 500px;
+  }
+  p {
+    font-size: 0.95em;
+  }
+  h1 {
+    font-size: 1.8em;
+    color: #000;
+  }
+}
+
+.desc-img {
+  padding: 20px 0 20px 20px;
+}
+
+.desc-text {
+  padding: 20px;
+}
+
+.category {
+  text-transform: uppercase;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.small-red-line {
+    content: "";
+    width: 40px;
+    height: 4px;
+    background-color: #ee0000;
+    display: block;
+    margin: 0px auto 16px;
+    margin-top: 0px;
+}
+
+.autore {
+  text-transform: uppercase;
+  color: #000;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.post-date {
+  color: #676c76;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.share-bar {
+  margin-top: 1.4em;
+  a {
+    display: inline-flex;
+    align-self: center;
+    padding: 10px;
+    margin-right: 12px;
+    border: 1px solid #caccce;
+    text-decoration: none;
+    &:hover {
+      border: 1px solid #ee0000;
+      svg {
+        fill: #ee0000;
+      }
+    }
+  }
+  svg{
+    height: 2em;
+    width: 2em;
+    top: .125em;
+    position: relative;
+
+  }
+
+}
+
 .post {
   max-width: 700px;
   width: 100%;
   margin: 0 auto;
   padding: 20px 0;
-}
-
-.comments {
-  background: #e3e1e1;
-  padding: 1em;
-  margin-top: 3em;
-}
-
-.disqus-comments {
-  margin-top: 2em;
+  ul {
+    list-style-type: disc;
+  }
 }
 
 .blog-posts {
@@ -64,16 +152,6 @@
   }
 }
 
-.post-date {
-  color: #676c76;
-  font-size: .8rem;
-  font-weight: 600;
-  line-height: 1em;
-  margin: 20px 0 0 5px;
-  align-self: flex-start;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
 
 .post-details {
   margin-top: 5px;
@@ -85,10 +163,6 @@
     display: block;
     float: left;
     margin-right: 5px;
-  }
-
-  .name {
-    margin: 0 0 0 10px;
   }
 }
 
@@ -141,8 +215,27 @@
 
 }
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   .blog-posts li .title {
     flex-flow: column;
+  }
+  .desc {
+    > div {
+      flex: 100%;
+      max-width: 100%;
+    }
+    img {
+      height: 100%;
+    }
+  }
+  .share-bar a {
+    padding: 9px;
+    margin-right: 10px;
+  }
+  #share-desktop {
+    display: none;
+  }
+  #share-smartphone {
+    display: initial;
   }
 }

@@ -1,19 +1,55 @@
 ---
 layout: default
 ---
-<article class="post">
-	<p class="post-date">{{ page.date | date: "%d %b %Y" }}</p>
-	<h1>{{ page.title }}</h1>
-	<div class="post-details">
-		{% assign author = site.data.authors[page.author] %}
-		<img src="{{ author.image }}" alt="A stunning photo of {{ author.name }}" width="200" height="200">
-		<span class="name">{{ author.name }}</span>
-		{% for category in page.categories %}
-			<span class="category-separator">&bull;</span> <span class="category">{{ category }}</span>
-		{% endfor %}
+<div class="desc">
+	<div class="desc-img">
+		<img class="cover" src="{{ page.image }}" alt="{{ page.title }}">
 	</div>
+
+	<div class="desc-text">
+		{% for category in page.categories %}
+		<span class="category">{{ category }}</span>
+		{% endfor %}
+		<h1>{{ page.title }}</h1>
+		<span class="small-red-line"></span>
+		{% assign author = site.data.authors[page.author] %}
+		<span class="autore">di {{ author.name }}</span>
+		<br/>
+		<time class="post-date">{{ page.date | date: "%d %b %Y" }}</time>
+		{{ page.excerpt }}
+
+		<div id="share-desktop" class="share-bar">
+			<a class="share-link" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+				{% include social-share.html icon="Facebook" %}
+			</a>
+			<a class="share-link" href="https://twitter.com/home?status=Currently reading {{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+				{% include social-share.html icon="Twitter" %}
+			</a>
+			<a class="share-link" href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+				{% include social-share.html icon="GooglePlus" %}
+			</a>
+		</div>
+		<div id="share-smartphone" class="share-bar">
+			<a class="share-link" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+				{% include social-share.html icon="Facebook" %}
+			</a>
+			<a class="share-link" href="fb-messenger://share/?link={{ page.url | prepend: site.url }}&app_id=577253996041838" target="_blank" rel="noopener noreferrer">
+				{% include social-share.html icon="Messenger" %}
+			</a>
+			<a class="share-link" href="whatsapp://send?text={{ page.url | prepend: site.url }}" data-action="share/whatsapp/share" target="_blank" rel="noopener noreferrer">
+				{% include social-share.html icon="WhatsApp" %}
+			</a>
+		</div>
+	</div>
+</div>
+
+<article class="post">
   <div class="post-content">
+		<h2>Indice</h2>
+		{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
+		<br/>
     {{ content }}
+		<br/>
   </div>
 
   <div class="pagination">
@@ -27,11 +63,5 @@ layout: default
     {% else %}
       <span class="next ">Next &rarr;</span>
     {% endif %}
-  </div>
-    <div class="comments">
-   <p><b>Aiuta PotaSiepe a crescere</b>, lascia un commento e dillo ai tuoi amici</p>
-    <div class="disqus-comments">
-      {% include disqus.html %}
-    </div>
   </div>
 </article>
