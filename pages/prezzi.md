@@ -1,12 +1,8 @@
 ---
 layout: page
 title: Prezzi Economici ed Onesti
-excerpt: Listino POTASIEPE - prezzi, affida a PotaSiepe i lavori di giardinaggio del tuo giardino scopri i prezzi a forfait personalizzati, prezzi orari, prezzi al metro
+excerpt: "Listino POTASIEPE: costo orario, costo al metro, a forfait, prezzi economici ed onesti di un giardiniere specializzato in pulizia giardini, potatura siepe, taglio erba .."
 permalink: /prezzi/
-sitemap:
-  priority: 0.81
-  changefreq: 'weekly'
-  last_modified_at: 2017-11-09
 ---
 ![prezzi economici e onesti](/img/porcellino.png  "prezzi economici e onesti")
 
