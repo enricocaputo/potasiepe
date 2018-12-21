@@ -22,7 +22,7 @@ layout: default
 			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Facebook" %}
 			</a>
-			<a class="share-link" aria-label="condividi su Twitter" href="https://twitter.com/home?status=Currently reading {{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Twitter" href="https://twitter.com/home?status=sto%20leggendo%20{{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Twitter" %}
 			</a>
 			<a class="share-link" aria-label="condividi su Google Plus" href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
@@ -33,7 +33,14 @@ layout: default
 			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Facebook" %}
 			</a>
-			<a class="share-link" aria-label="condividi su Messenger" href="fb-messenger://share/?link={{site.url | url_encode }}/{{ page.url | url_encode }}" data-link="{{site.url | url_encode }}/{{ page.url | url_encode }}" data-app_id="577253996041838" data-page_id="{{site.url | url_encode }}/{{ page.url | url_encode }}" data-action="share/messenger/share" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Messenger" href="" onclick="myMessenger()" rel="noopener noreferrer">
+				<script>
+					function myMessenger() {
+					var link = "{{ page.url | prepend: site.url }}";
+					var app_id ="577253996041838";
+  				window.open('fb-messenger://share?link=' + encodeURIComponent(link) + '&app_id=' + encodeURIComponent(app_id));
+					}
+				</script>
 				{% include social-share.html icon="Messenger" %}
 			</a>
 			<a class="share-link" aria-label="condividi su WhatsApp" href="whatsapp://send?text={{ page.url | prepend: site.url }}" data-action="share/whatsapp/share" target="_blank" rel="noopener noreferrer">
