@@ -1,5 +1,8 @@
 #share-smartphone {
   display: none;
+  a {
+    cursor: pointer;
+  }
 }
 .desc {
   display: flex;
