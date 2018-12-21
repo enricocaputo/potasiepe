@@ -1,8 +1,5 @@
 #share-smartphone {
   display: none;
-  a {
-    cursor: pointer;
-  }
 }
 .desc {
   display: flex;
@@ -159,7 +156,6 @@
   }
 }
 
-
 .post-details {
   margin-top: 5px;
 
@@ -219,7 +215,6 @@
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
   }
-
 }
 
 @media (max-width: 768px) {
