@@ -33,7 +33,7 @@ layout: default
 			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Facebook" %}
 			</a>
-			<a class="share-link" aria-label="condividi su Messenger" onclick="window.open('fb-messenger://share?link={{ page.url | prepend: site.url | url_encode }}' + '&app_id=577253996041838');" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Messenger" href="fb-messenger://share/?link={{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Messenger" %}
 			</a>
 			<a class="share-link" aria-label="condividi su WhatsApp" href="whatsapp://send?text={{ page.url | prepend: site.url }}" data-action="share/whatsapp/share" target="_blank" rel="noopener noreferrer">
