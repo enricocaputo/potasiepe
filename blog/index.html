@@ -30,8 +30,8 @@ sitemap:
 					<img src="{{ author.image }}" alt="Una bella fotografia di {{ author.name }}" width="200" height="200">
 					<span class="name">{{ author.name | upcase }}</span>
           &bull;
-					{% for category in post.categories %}
-					<span class="category">{{ category }}</span>
+					{% for tag in post.tags %}
+					<span class="category">{{ tag }}</span>
 					{% endfor %}
 
 				</div>

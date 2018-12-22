@@ -1,7 +1,6 @@
 ---
 title:
-category: Giardinaggio
-author: enrico
+tags: [cura delle piante, cura del prato]
 comments: false
 image:
 image_featured: true

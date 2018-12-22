@@ -1,6 +1,6 @@
 ---
 title: 'Quando potare le siepi di fotinia, tuia, lauroceraso e..'
-categories: cura delle piante
+tags: cura delle piante
 image: /img/blog/siepe/potatura.jpg
 image_featured: true
 date: 2018-10-29
