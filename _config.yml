@@ -80,8 +80,8 @@ sitemap:
     - "/index.html"
   change_frequency_name: "change_frequency"
   priority_name: "priority"
-paginate: 3
-paginate_path: "/blog/page:num/"
+paginate: 6
+paginate_path: "/consigli-di-giardinaggio/page:num/"
 markdown: kramdown
 
 social_icons:
