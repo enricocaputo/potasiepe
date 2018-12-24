@@ -1,6 +1,6 @@
 ---
 title: I migliori tipi di semi per prato
-tags: cura del prato
+tags: [cura del prato]
 image: /img/blog/prato/semi.jpg
 image_featured: true
 ---
