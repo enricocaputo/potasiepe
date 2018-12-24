@@ -3,7 +3,6 @@ layout: default
 title: Mappa del sito
 excerpt: Usa la mappa del sito per orientarti su giardiniere-potasiepe.fvg.it. Acquista i nostri attrezzi da giardino, prenota i nostri servizi di giardinaggio.
 permalink: /sitemap.html
-sitemap: false
 ---
 # Mappa del sito Potasiepe
 
