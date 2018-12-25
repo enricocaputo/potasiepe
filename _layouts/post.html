@@ -16,7 +16,7 @@ layout: default
 		<span class="autore">di {{ author.name }}</span>
 		<br/>
 		<time class="post-date">{{ page.date | date: "%d %b %Y" }}</time>
-		{{ page.excerpt }}
+		<p>{{ page.excerpt }}</p>
 
 		<div id="share-desktop" class="share-bar">
 			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
