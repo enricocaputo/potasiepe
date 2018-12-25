@@ -11,7 +11,7 @@ image_featured: true
 
 Piccolo albero **rustico**, **caducifoglio**, con foglie che in autunno si tingono
 di giallo oro. Per una siepe equilibrata, disporre **una pianta al metro**.
-**Potatura a giugno e novembre**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a giugno e novembre**.
 
 ## Arancio Trifogliato
 ![siepe di Arancio Trifogliato](/img/posts/siepi/arancio-trifogliato.jpg "pianta da siepe: arancio trifogliato")
@@ -20,7 +20,7 @@ di giallo oro. Per una siepe equilibrata, disporre **una pianta al metro**.
 Un **agrume atipico**, **caducifoglio** e **rustico**, con rami spinosi e impenetrabili,
 fiori bianchi profumati a marzo, frutti gialli simili a limoni in autunno.
 **Una pianta ogni 70 cm**.
-**Potatura ad aprile** dopo la fioritura.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") ad aprile** dopo la fioritura.
 
 ## Biancospino
 ![siepe di Biancospino](/img/posts/siepi/biancospino.jpg "pianta da siepe: biancospino")
@@ -29,7 +29,7 @@ fiori bianchi profumati a marzo, frutti gialli simili a limoni in autunno.
 Arbusto o piccolo albero della flora spontanea, **caducifoglio**, con fiori bianchi ad aprile,
 bacche rosse a settembre e dicembre.
 **Una pianta ogni 60 cm**.
-**Potatura a giugno e gennaio**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a giugno e gennaio**.
 
 ## Bosso
 ![siepe di Bosso](/img/posts/siepi/bosso.jpg "pianta da siepe: bosso")
@@ -37,7 +37,7 @@ bacche rosse a settembre e dicembre.
 
 Arbusto **sempreverde** di indiscussa eleganza.
 **Una pianta ogni 40 cm**.
-**Potatura** a fine **maggio**, fine **luglio** e fine **ottobre**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe")** a fine **maggio**, fine **luglio** e fine **ottobre**.
 
 ## Carpino Bianco
 ![siepe di Carpino Bianco](/img/posts/siepi/carpino-bianco.jpg "pianta da siepe: carpino bianco")
@@ -45,7 +45,7 @@ Arbusto **sempreverde** di indiscussa eleganza.
 
 Albero che si può allevare a mo' di arbusto, **mantiene le foglie secche in inverno**.
 **Una pianta al metro**.
-**Potatura a metà giugno e a febbraio**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a metà giugno e a febbraio**.
 
 ## Eleagno
 ![siepe di Eleagno](/img/posts/siepi/eleagnus-ebbingei.jpg "pianta da siepe: eleagno")
@@ -53,7 +53,7 @@ Albero che si può allevare a mo' di arbusto, **mantiene le foglie secche in inv
 
 Arbusto **sempreverde** con fiori bianchi e profumati a settembre.
 **Una pianta ogni 70-80 cm**.
-**Potatura a giugno e a fine ottobre dopo la fioritura**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a giugno e a fine ottobre dopo la fioritura**.
 
 ## Fillirea
 ![siepe di fillirea](/img/posts/siepi/phillyrea-angustifolia.jpg "pianta da siepe: fillirea")
@@ -61,7 +61,7 @@ Arbusto **sempreverde** con fiori bianchi e profumati a settembre.
 
 Arbusto **sempreverde** per zone a clima mite, con fiori color crema, profumati a giugno.
 **Una pianta ogni 60 cm**.
-**Potatura a febbraio e dopo la fioritura a fine giugno**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a febbraio e dopo la fioritura a fine giugno**.
 
 ## Fotinia
 ![Fotinia Red Robin](/img/posts/siepi/fotinia.jpg "pianta da siepe: fotinia red robin")
@@ -69,7 +69,7 @@ Arbusto **sempreverde** per zone a clima mite, con fiori color crema, profumati 
 
 Arbusto **sempreverde** con getti nuovi color rame ed ombrelle di fiori color crema, profumati ad aprile.
 **Una pianta ogni 80 cm**.
-**Potatura dopo la fioritura** oppure, se vi interessa favorire la crescita di nuova vegetazione e non la fioritura, a **fine settembre**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") dopo la fioritura** oppure, se vi interessa favorire la crescita di nuova vegetazione e non la fioritura, a **fine settembre**.
 
 ## Lauroceraso
 ![Lauroceraso](/img/posts/siepi/lauroceraso.jpg "pianta da siepe: lauroceraso")
@@ -77,7 +77,7 @@ Arbusto **sempreverde** con getti nuovi color rame ed ombrelle di fiori color cr
 
 Arbusto **sempreverde** popolarissimo grazie al suo vigore e alla rapidità di crescita; presenta fiori crema ad aprile.
 **Una pianta al metro**.
-**Potatura ai primi di giugno e a novembre**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") ai primi di giugno e a novembre**.
 
 ## Ligustro
 ![siepi di ligustro](/img/posts/siepi/ligustrum-texanum.jpg "pianta da siepe: ligustro")
@@ -85,7 +85,7 @@ Arbusto **sempreverde** popolarissimo grazie al suo vigore e alla rapidità di c
 
 Arbusto vigoroso e **sempreverde** con fiori bianchi e profumati a fine maggio.
 **Una pianta ogni 70 cm**.
-**Potatura a fine giugno e a novembre**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a fine giugno e a novembre**.
 
 ## Osmanto
 ![siepe di osmanthus aquifolium](/img/posts/siepi/osmanto.jpg "piante da siepe: osmanto")
@@ -94,7 +94,7 @@ Arbusto vigoroso e **sempreverde** con fiori bianchi e profumati a fine maggio.
 Arbusto **sempreverde** con foglie coriacee un po' spinose e fiori bianchi profumati a fine
 settembre-ottobre.
 **Una pianta ogni 80 cm**.
-**Potatura a novembre**, dopo la fioritura.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a novembre**, dopo la fioritura.
 
 ## Piracanta
 ![siepe di piracanta](/img/posts/siepi/piracanta.jpg "piante da siepe: piracanta")
@@ -103,7 +103,7 @@ settembre-ottobre.
 Arbusto **sempreverde** con **spine micidiali**: ideale per creare barriere a prova di ladro.
 Si adorna con fiori bianchi ad aprile, con bacche rosse, arancio e gialle in autunno.
 **Una pianta ogni 50 cm**.
-**Potatura** dopo la fioritura **a fine aprile e a settembre**.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe")** dopo la fioritura **a fine aprile e a settembre**.
 
 ## Pitosporo
 ![siepe di pitosporo](/img/posts/siepi/pitosporo.jpg "piante da siepe: pitosporo")
@@ -111,7 +111,7 @@ Si adorna con fiori bianchi ad aprile, con bacche rosse, arancio e gialle in aut
 
 Arbusto **sempreverde** per climi miti, con fiori crema profumati a giugno.
 **Una pianta ogni 70-80 cm**.
-**Potatura a fine giugno** dopo la fioritura e leggero ritocco a **febbraio** per mantenere la forma.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a fine giugno** dopo la fioritura e leggero ritocco a **febbraio** per mantenere la forma.
 
 ## Cipresso di Leyland
 ![siepe di leylandii](/img/posts/siepi/leylandii.jpg "piante da siepe: cipresso leylandii")
@@ -119,7 +119,7 @@ Arbusto **sempreverde** per climi miti, con fiori crema profumati a giugno.
 
 Conifera **sempreverde**, rustica e vigorosa. Ne esistono diverse varietà: la migliore per la formazione delle siepi è la **Leighton Green**: dopo pochi anni dall'impianto forma una siepe molto elegante e fittissima: un vero e proprio muro verde.
 **Una pianta ogni 80-100 cm**.
-**Potatura a fine inverno** e ritocchi a fine estate.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a fine inverno** e ritocchi a fine estate.
 
 ## Rosmarino
 ![siepe di rosmarino](/img/posts/siepi/rosmarino.jpg "piante da siepe: rosmarino")
@@ -127,7 +127,7 @@ Conifera **sempreverde**, rustica e vigorosa. Ne esistono diverse varietà: la m
 
 Arbusto cespuglioso **sempreverde** con fiori azzurri a fine inverno.
 **Una pianta ogni 50 cm**.
-**Potatura dopo la fioritura** e ritocchi a fine agosto.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") dopo la fioritura** e ritocchi a fine agosto.
 
 ## Viburno Tino (Lentaggine)
 ![siepi di Viburno Tino](/img/posts/siepi/viburno-tino.jpg "piante da siepe: Viburno Tino")
@@ -136,4 +136,4 @@ Arbusto cespuglioso **sempreverde** con fiori azzurri a fine inverno.
 Chiamato anche **lentaggine**, è un arbusto **sempreverde** con fiori bianchi a
 fine inverno, seguiti da bacche blu in autunno.
 **Una pianta ogni 60-70 cm**.
-**Potatura a fine giugno** dopo la fioritura.
+**[Potatura](/consigli-di-giardinaggio/quando-e-come-potare-le-siepi "come potare la siepe") a fine giugno** dopo la fioritura.

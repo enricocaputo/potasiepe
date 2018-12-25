@@ -6,15 +6,14 @@ image_featured: true
 date: 2018-10-29
 ---
 ## Siepi sempreverdi
-Le **siepi sempreverdi** (nella foto il Buxus) come ad esempio il lauroceraso e la fotinia vanno potate preferibilmente da metà settembre a inizio dicembre perché in quel momento lo sviluppo si rallenta e la nuova vegetazione che si produce ha il tempo per rafforzarsi prima dell'arrivo del gelo invernale.
+Le **siepi sempreverdi** (nella foto il [Buxus](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")) come ad esempio il [lauroceraso](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe") e la [fotinia](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe") vanno potate preferibilmente da metà settembre a inizio dicembre perché in quel momento lo sviluppo si rallenta e la nuova vegetazione che si produce ha il tempo per rafforzarsi prima dell'arrivo del gelo invernale.
 
 ![siepe-di-buxus](/img/posts/siepe-di-buxus.jpg  "La potatura della siepe di buxus")
 
 Una seconda potatura leggera andrebbe invece eseguita in primavera: è il momento ideale per verificare se le nostre piante hanno bisogno di concime nutritivo e di trattamenti per difendersi da funghi, parassiti e insetti dannosi.
-Fanno eccezzione i **cipressi** come ad esempio la **tuja** e il **leylandii** che vanno potati una sola volta all'anno indifferentemente in autunno oppure in primavera.
+Fanno eccezzione i **[cipressi](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")** come ad esempio la **tuja** e il **[leylandii](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")** che vanno potati una sola volta all'anno indifferentemente in autunno oppure in primavera.
 
 Una seconda osservazione riguarda la forma: la nostra siepe può avere un aspetto non geometrico e a volte può essere composta di specie diverse (siepe informale); siepe formale: con linee regolari e solitamente tutta della stessa varietà.
-
 
 ![siepe-di-aucuba](/img/posts/siepe-di-aucuba.jpg  "La potatura della siepe di aucuba")
 
@@ -26,7 +25,7 @@ Una sola volta l’anno, dopo avere ben ponderato il momento più opportuno, occ
 
 ## Siepi formali
 Le **siepi formali**, sono più belle quando mantengono il loro aspetto ordinato tutto l’anno.
-Le specie sempreverdi a sviluppo lento, come il bosso e il tasso, possono essere potate leggermente una sola volta l’anno: alcuni preferiscono la primavera, altri la fine dell'estate.
+Le specie sempreverdi a sviluppo lento, come il [bosso](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe") e il tasso, possono essere potate leggermente una sola volta l’anno: alcuni preferiscono la primavera, altri la fine dell'estate.
 
 ![siepe-di-forsythia](/img/posts/siepe-di-forsythia.jpg  "La potatura della siepe di forsytia")
 
@@ -39,5 +38,5 @@ Il proprietario di una siepe fiorita dovrebbe controllare il calendario prima di
 Se, per esempio, abbiamo una siepe di Forsythia, il lavoro di potatura della siepe va effettuato in primavera preferibilmente quando la fioritura è completamente terminata.
 
 ## Siepi decidue
-La potatura della siepe decidua va sempre ponderata, poiché di solito è preferibile far sì che le foglie autunnali cadano più tardi possibile o addirittura restino sulla pianta per tutto l’inverno (Carpinus).
+La potatura della siepe decidua va sempre ponderata, poiché di solito è preferibile far sì che le foglie autunnali cadano più tardi possibile o addirittura restino sulla pianta per tutto l’inverno ([Carpinus](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")).
 Sulle conifere si opera dalla primavera in avanti, ma è meglio procrastinare l’operazione all’inizio dell’autunno.
