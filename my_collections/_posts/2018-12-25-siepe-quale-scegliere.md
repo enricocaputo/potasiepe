@@ -65,7 +65,7 @@ Arbusto **sempreverde** per zone a clima mite, con fiori color crema, profumati 
 
 ## Fotinia
 ![Fotinia Red Robin](/img/posts/siepi/fotinia.jpg "pianta da siepe: fotinia red robin")
-(*Phonia fraseri, Red Robin*)
+(*Photinia fraseri, Red Robin*)
 
 Arbusto **sempreverde** con getti nuovi color rame ed ombrelle di fiori color crema, profumati ad aprile.
 **Una pianta ogni 80 cm**.
