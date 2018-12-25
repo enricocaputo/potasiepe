@@ -31,7 +31,7 @@ Seguendo questi brevi consigli avrete sempre un **tagliaerba** in perfetta forma
 
 La frequenza degli interventi di manutenzione dipende generalmente dall’utilizzo: per l’utilizzo **professionale** circa una volta ogni due/tre mesi, per l’utilizzo hobbistico anche solo una volta l’anno.
 
-Forse ti interessa [come scegliere il tosaerba adatto](/consigli-di-giardinaggio/tagliaerba-quale-scegliere "tagliaerba: quale scegliere").
+**Forse ti interessa [come scegliere il tosaerba adatto](/consigli-di-giardinaggio/tagliaerba-quale-scegliere "tagliaerba: quale scegliere").**
 
 <br/>
 <div class="text-center">
