@@ -31,3 +31,5 @@ Al giorno d'oggi i **Robot Rasaerba** sono diventati realtà e cominciano ad ave
 Il Robot lavorerà anche 10 ore al giorno e sarà in grado di mantenere perfettamente uniforme e regolare il taglio dell'erba del prato. Grazie al robot tagliaerba **l'erba crescerà più rigogliosa, fitta e regolare**.
 
 Nella scelta del modello bisogna considerare la **superficie del giardino**; le fasce vanno da: < 500 m2, da 500 a 800 m2, da 800 a 1.000 m2, da 1.000 a 1.500 m2, dai 1.500 a 2.000 m2, oltre i 2.000 m2. I prezzi sono proporzionali alla superficie del giardino da tagliare. Consigliamo di acquistare un Robot che riesca a coprire non oltre l'80% della superficie (esempio: per un giardino da 600 m2 acquistare un Robot da 800).
+
+**Potasiepe esegue [manutenzione e riparazione di tagliaerba](/servizi-di-giardinaggio/riparazione-tosaerba-udine "servizio di manutenzione e riparazione tosaerba").**
