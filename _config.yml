@@ -29,7 +29,7 @@ collections:
     permalink: /vendita-online-prodotti-per-giardinaggio/:title
   servizi_giardinaggio:
     output: true
-    permalink: /servizi-di-giardinaggio/:title
+    permalink: /servizi-di-giardinaggio/:title/
   posts:
     output: true
     permalink: /consigli-di-giardinaggio/:title
