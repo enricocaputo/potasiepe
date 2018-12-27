@@ -3,15 +3,37 @@ title: "Tagliaerba: guida all'acquisto, come scegliere."
 tags: [cura del prato]
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
+date: 2018-12-27
 ---
-Prima di concretizzare l'acquisto del vostro nuovo tagliaerba leggete questa guida. Oltre a dei preziosi suggerimenti,
-Potosiepe vi offre una vasta gamma di tagliaerba e rasaerba nuovi e usati.
+Prima di concretizzare l'acquisto del vostro nuovo tagliaerba leggete questa guida. Oltre a dei preziosi suggerimenti, Potosiepe vi offre una certa disponibilità di **[tagliaerba usati](/vendita-online-prodotti-per-giardinaggio/tosaerba-usato-udine "tagliaerba: vendita usato")**.
 
-## La potenza del tosaerba
-Indica la capacità del motore di affrontare prati con erbe più secche e stoppose, che potrebbero bloccare un modello con meno cavalli (spesso indicati in Kw). Tipicamente non avete motivo di preoccuparvi della potenza del motore del vostro tagliaerba a meno che il vostro giardino sia particolarmente esteso. Fino ai 250 mq di prato sarà sufficiente una potenza di 4 cavalli. Ricordate inoltre che **motori più potenti consumano più carburante**, sono più rumorosi e spesso meno maneggevoli. **Sconsigliamo** di acquistare **tagliaerbe elettrici**, soprattutto se la superficie del prato supera i 200 mq, non tanto per la potenza - spesso insufficiente per riuscire a macinare e raccogliere anche le foglie caduche - ma per il fastidioso filo elettrico che rallenta le operazioni di taglio e per i **dispositivi (cestelli) raccogli erba** che sono sempre di dimensioni molto ridotte e obbligano a frequenti pause per svuotarli.
+I moderni tosaerba montano motori a benzina 4 tempi, diesel, elettrici con cavo di alimentazione oppure a batteria.
+
+Il motore a scoppio è potente ma più rumoroso di quello elettrico. Questi ultimi sono leggeri, economici nell'acquisto e nella manutenzione, silenziosi e non inquinano. I tagliaerba e i trattorini con motore a scoppio sono una scelta obbligata quando il prato supera una certa estensione.
+
+## La potenza del tagliaerba a scoppio
+Indica la capacità del motore di affrontare prati con erbe più secche e stoppose, che potrebbero bloccare un modello con meno cavalli (spesso indicati in Kw). Tipicamente non avete motivo di preoccuparvi della potenza del motore del vostro tagliaerba a meno che il vostro giardino sia particolarmente esteso. Fino ai 250 mq di prato sarà sufficiente una potenza di 4 cavalli. Ricordate inoltre che **motori più potenti consumano più carburante**, sono più rumorosi e spesso meno maneggevoli.
+
+## tagliaerba elettrici
+
+ **Sconsigliamo** di acquistare **tagliaerbe elettrici** quando la superficie del prato supera i **50 metri quadrati**, non tanto per la potenza - spesso insufficiente per riuscire a macinare e raccogliere anche le foglie caduche - ma **per il fastidioso filo elettrico** che rallenta le operazioni di taglio e per i dispositivi (cestelli) raccogli erba che sono sempre di dimensioni molto ridotte e obbligano a frequenti pause per svuotarli.
+
+## Tosaerba a batteria ricaricabile
+
+Il tosaerba a batteria ricaricabile è **privo del cavo alimentatore** e presenta gli stessi vantaggi del tosaerba elettrico. È adatto a **prati medio piccoli** e affollati, dove l'**autonomia di 1-2 ore** è sufficiente. Dopo l'uso va ricaricato per mezza giornata.
+
 
 ## Lama del tagliaerba: ampiezza e tipo
+
 Indica il **diametro** della circonferenza generata dalle pale del tosaerba. In questo caso un’ampiezza maggiore significa un minor numero di passate e un minor tempo di utilizzo. Si tratta di un fattore importante se avete un prato di medie-grandi dimensioni, anche se allo stesso tempo una maggiore ampiezza di taglio significa un tagliaerba di maggior ingombro e difficoltà di trasporto. Quando valutate questa caratteristica, cercate di visionare direttamente il tagliaerbe, alzandolo e osservando la **lama**. Diffidate da tagliaerba a lama singola o piatta. La lama ideale è doppia e leggermente smussata.
+
+Lama in cm | Prato in mq
+---- | ----
+30-40 cm  | fino a 200 mq
+45-50 cm  | da 200-500 mq
+50-55 cm  | da 500-900 mq
+
+Per metrature superiori è consigliabile acquistare macchine professionali oppure rivolgersi a un [giardiniere](/servizi-di-giardinaggio/giardiniere-a-domicilio/ "Rivolgiti a Giardiniere Potasiepe per tagliare l'erba e sfalci di grandi superfici").   
 
 ## Ruote
 Ricordate sempre di controllare la qualità di questo componente. Devono essere solide e con un perno di dimensioni generose. Devono poter essere regolate in altezza a diversi livelli, sia davanti che di dietro. Molti tagliaerba hanno la possibilità di fornirci un aiuto in merito alla spinta grazie a ruote collegate direttamente al motore del nostro tosaerba (sono chiamati **semoventi** e **trazionate**). Attenzione, quando scegliete un modello con questa caratteristica ricordatevi che quando una delle ruote smette di funzionare per qualsiasi motivo, dovrete cambiare l’intero tagliaerba. Dunque scegliete un prodotto di qualità o piuttosto se siete in dubbio scegliete un prodotto non semovente ma con caratteristiche di qualità-prezzo migliori.
@@ -33,3 +55,5 @@ Il Robot lavorerà anche 10 ore al giorno e sarà in grado di mantenere perfetta
 Nella scelta del modello bisogna considerare la **superficie del giardino**; le fasce vanno da: < 500 m2, da 500 a 800 m2, da 800 a 1.000 m2, da 1.000 a 1.500 m2, dai 1.500 a 2.000 m2, oltre i 2.000 m2. I prezzi sono proporzionali alla superficie del giardino da tagliare. Consigliamo di acquistare un Robot che riesca a coprire non oltre l'80% della superficie (esempio: per un giardino da 600 m2 acquistare un Robot da 800).
 
 **Potasiepe esegue [manutenzione e riparazione di tagliaerba](/servizi-di-giardinaggio/riparazione-tosaerba-udine "servizio di manutenzione e riparazione tosaerba").**
+
+**Forse ti interessa anche [l'erba giusta per ogni prato](/consigli-di-giardinaggio/i-migliori-semi-per-il-prato "I principali tipi di prato").**
