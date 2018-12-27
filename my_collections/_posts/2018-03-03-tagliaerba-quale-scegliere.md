@@ -14,7 +14,7 @@ Il motore a scoppio è potente ma più rumoroso di quello elettrico. Questi ulti
 ## La potenza del tagliaerba a scoppio
 Indica la capacità del motore di affrontare prati con erbe più secche e stoppose, che potrebbero bloccare un modello con meno cavalli (spesso indicati in Kw). Tipicamente non avete motivo di preoccuparvi della potenza del motore del vostro tagliaerba a meno che il vostro giardino sia particolarmente esteso. Fino ai 250 mq di prato sarà sufficiente una potenza di 4 cavalli. Ricordate inoltre che **motori più potenti consumano più carburante**, sono più rumorosi e spesso meno maneggevoli.
 
-## tagliaerba elettrici
+## Tagliaerba elettrici
 
  **Sconsigliamo** di acquistare **tagliaerbe elettrici** quando la superficie del prato supera i **50 metri quadrati**, non tanto per la potenza - spesso insufficiente per riuscire a macinare e raccogliere anche le foglie caduche - ma **per il fastidioso filo elettrico** che rallenta le operazioni di taglio e per i dispositivi (cestelli) raccogli erba che sono sempre di dimensioni molto ridotte e obbligano a frequenti pause per svuotarli.
 
