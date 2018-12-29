@@ -3,10 +3,7 @@ layout: default
 title: Immagini relative a lavori giardinaggio
 excerpt: 'Immagini relative a lavori di giardinaggio eseguiti da giardiniere Potasiepe in diversi giardini a Udine, Gorizia e in vari comuni delle due province.'
 permalink: /gallery/
-sitemap:
-    priority: 0.61
-    changefreq: 'weekly'
-    lastmod: 2017-11-09
+last_modified_at: 2018-12-29
 
 images:
   - image_path: /img/gallery/1.jpg
