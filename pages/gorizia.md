@@ -48,9 +48,7 @@ servizi di giardinaggio a Gorizia a 360 gradi:
 <br/><br/>
 <section>
 <div class="comuni">
-  <header>
   <h3>Consigli di Giardinaggio</h3>
-  </header>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
