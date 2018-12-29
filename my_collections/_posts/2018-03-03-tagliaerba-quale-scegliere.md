@@ -3,7 +3,7 @@ title: "Tagliaerba: guida all'acquisto, come scegliere."
 tags: [cura del prato]
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
-date: 2018-12-27
+date: 2018-12-27T18:21:00+00:00
 ---
 Prima di concretizzare l'acquisto del vostro nuovo tagliaerba leggete questa guida. Oltre a dei preziosi suggerimenti, Potosiepe vi offre una certa disponibilità di **[tagliaerba usati](/vendita-online-prodotti-per-giardinaggio/tosaerba-usato-udine "tagliaerba: vendita usato")**.
 

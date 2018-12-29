@@ -4,7 +4,7 @@ excerpt: "Scegliere il prato per giardini domestici, calpestabile e piacevole, m
 tags: [cura del prato]
 image: /img/posts/erbe.png
 image_featured: true
-date: 2018-12-27
+date: 2018-12-27T13:14:00+00:00
 ---
 Esistono tre fondamentali tipologie di prato: il **prato ornamentale** e di piacere, quello **sportivo** e l'**inerbimento tecnico**. Il primo è quello che ci interessa; a sua volta, si suddivide in numerose varianti riconducibili a due interpretazioni: il prato più o meno grande ma privo di altre piante; il prato di un giardino con alberi, arbusti e fiori dove si instaura  una competizione tra le piante per l'utilizzo di acqua, fattori nutritivi, luce e aria.
 
