@@ -3,7 +3,6 @@ layout: page
 title: Moderazione dei commenti - POTASIEPE
 excerpt: Comment policy del sito Giardiniere PotaSiepe
 permalink: /comment-policy/
-sitemap: false
 ---
 Benvenuto nella Community di PotaSiepe - Noi ci impegniamo per mantenere una community rispettosa e attivamente impegnata in vivaci dibattiti su notizie e post pubblicati su blog. Tuttavia, La preghiamo di tenere presente quanto segue prima di scrivere i Suoi commenti.
 

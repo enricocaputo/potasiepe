@@ -3,7 +3,6 @@ layout: default
 title: Cookie policy del sito PotaSiepe
 excerpt: Continuando la navigazione confermi di accettare le politiche del sito in materia di cookies e pubblicità su internet.
 permalink: /cookie/
-sitemap: false
 ---
 ## Strictly Necessary Cookies
 
