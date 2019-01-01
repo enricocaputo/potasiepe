@@ -1,29 +1,27 @@
-- title: Pages
+- title: Informazioni
   links:
-    - name: Home
-      link: /
-    - name: Gallery
-      link: /gallery/
-    - name: Blog
-      link: /consigli-di-giardinaggio/
+    - name: Calendario
+      link: /calendario-di-giardinaggio/
     - name: Chi Sono
       link: /chi-sono/
+    - name: Gallery
+      link: /gallery/
     - name: Contatti
       link: /contatti/
-- title: Social
+- title: Seguici
   links:
     - name: Facebook
       link: https://www.facebook.com/giardiniere.potasiepe/
       social_icon: Facebook
       new_window: true
-    - name: WhatsApp
-      link: https://wa.me/393889005888
-      social_icon: WhatsApp
+    - name: Twitter
+      link: https://twitter.com/potasiepe?lang=it
+      social_icon: Twitter
       new_window: true
-#    - name: Twitter
-#      link:
-#      social_icon: Twitter
-#      new_window: true
+#   - name: WhatsApp
+#     link: https://wa.me/393889005888
+#     social_icon: WhatsApp
+#     new_window: true
 #    - name: Google+
 #      link:
 #      social_icon: Google Plus
