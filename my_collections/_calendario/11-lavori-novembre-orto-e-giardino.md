@@ -2,6 +2,7 @@
 title: "Novembre nell'orto e in giardino"
 excerpt: "I lavori in novembre in giardino, periodo ideale per la messa a dimora dei bulbi da fiore primaverili. Concimare il prato e riparare alcune piante dal freddo."
 image: /img/calendario/novembre.png
+date: 2019-01-01T05:11:00+00:00
 last_modified_at: 2019-01-01T17:15:00+00:00
 ---
 ## Nel giardino

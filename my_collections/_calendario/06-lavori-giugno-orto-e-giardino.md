@@ -2,6 +2,7 @@
 title: "Giugno nell'orto e in giardino"
 excerpt: "Promemoria dei lavori di giardinaggio e delle principali incombenze che il giardiniere è tenuto a compiere per avere ottimi risultati in giardino in giugno."
 image: /img/calendario/giugno.png
+date: 2019-01-01T05:06:00+00:00
 last_modified_at: 2019-01-01T13:45:00+00:00
 ---
 ## Nel giardino

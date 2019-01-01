@@ -2,6 +2,7 @@
 title: "Agosto nell'orto e in giardino"
 excerpt: "Agosto mese di vacanze, agosto rinfresca il bosco, recita un detto popolare, ma anche questo mese si devono annaffiare le aiuole e compiere i lavori nell'orto."
 image: /img/calendario/agosto.png
+date: 2019-01-01T05:08:00+00:00
 last_modified_at: 2019-01-01T15:15:00+00:00
 ---
 ## Nel giardino

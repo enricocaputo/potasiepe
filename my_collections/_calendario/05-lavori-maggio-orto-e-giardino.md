@@ -2,6 +2,7 @@
 title: "Maggio nell'orto e in giardino"
 excerpt: "I principali lavori in giardino in maggio, l’orto è nel pieno dell’attività e si iniziano a raccogliere i primi ortaggi seminati nei mesi precedenti."
 image: /img/calendario/maggio.png
+date: 2019-01-01T05:05:00+00:00
 last_modified_at: 2019-01-01T13:15:00+00:00
 ---
 ## Nel giardino

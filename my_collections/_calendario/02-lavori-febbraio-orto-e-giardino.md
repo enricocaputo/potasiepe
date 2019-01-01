@@ -2,6 +2,7 @@
 title: "Febbraio nell'orto e in giardino"
 excerpt: "I principali lavori che il giardiniere deve compiere in febbraio nell'orto, nel frutteto e in giardino per ottenere dei risultati eccellenti."
 image: /img/calendario/febbraio.png
+date: 2019-01-01T05:02:00+00:00
 last_modified_at: 2019-01-01T10:14:00+00:00
 ---
 ## Nel giardino

@@ -2,6 +2,7 @@
 title: "Settembre nell'orto e in giardino"
 excerpt: "Il mese di settembre sancisce il calare dell’impegno lavorativo all’interno del nostro orto. Settembre è il mese ideale per la semina di tutti i tappeti erbosi."
 image: /img/calendario/settembre.png
+date: 2019-01-01T05:09:00+00:00
 last_modified_at: 2019-01-01T15:35:00+00:00
 ---
 ## Nel giardino
