@@ -35,7 +35,7 @@ ___
 		<li>
 			<a href="{{ site.baseurl }}{{ calendario.url }}">
 
-				<div class="name">{{ calendario.title }}</div>
+				<h2><span class="name">{{ calendario.title }}</span></h2>
 
 				<img src="{% include relative-src.html src=calendario.image %}" alt="{{ calendario.title }}">
 
