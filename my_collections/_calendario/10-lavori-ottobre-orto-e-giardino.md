@@ -83,6 +83,11 @@ VALERIANA
 La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la coltivazione di **ortaggi diversi**. In questo modo **si evitavano le conseguenze negative della monocoltura**: impoverimento del suolo, proliferazione di parassiti, malerbe ecc.
 
 ## Download
-**Scarica il calendario di [ottobre](/download/calendari/2019/pg_0010.pdf "download pdf calendario e lunario di ottobre 2019") oppure il [calendario completo](/calendario-di-giardinaggio/ "calendario di giardinaggio").**
+<p>
+  <strong>
+    Scarica il calendario di <a href="/download/calendari/2019/pg_0010.pdf" download="ottobre2019.pdf" title="Scarica in formato PDF il calendario di ottobre 2019">
+    ottobre</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+  </strong>
+</p>
 
-**Scarica la [tabella delle rotazioni e associazioni degli ortaggi](/download/la-rotazione-degli-ortaggi-per-piccoli-orti-familiari.pdf "La Rotazione degli Ortaggi per Piccoli Orti Familiari") in formato PDF.**
+<p><strong>Scarica la <a href="/download/la-rotazione-degli-ortaggi-per-piccoli-orti-familiari.pdf" download="rotazioneOrtaggi.pdf" title="La Rotazione degli Ortaggi per Piccoli Orti Familiari">tabella delle rotazioni e associazioni degli ortaggi</a> in formato PDF.</strong></p>

@@ -7,17 +7,24 @@ last_modified_at: 2018-12-30
 Il calendario del giardiniere, scritto da un esperto di giardinaggio, è un regalo rivolto a tutti coloro che amano il proprio giardino e che desiderano prendersi cura
 delle piante, degli alberi, del prato, dell'orto e del frutteto.
 
-
 ___
 
+<h2 id="calendario-2019-da-stampare">
+<a href="/download/calendari/2019/calendario-del-giardiniere-2019.pdf"
+download="calendario2019.pdf"
+title="Calendario del giardiniere 2019">Calendario 2019 da stampare</a>
+</h2>
 
+<p>
+<a href="/download/calendari/2019/calendario-del-giardiniere-2019.pdf"
+download="calendario2019.pdf"
+title="Calendario del giardiniere 2019"><img src="/img/posts/calendario-di-giardinaggio.png" alt="Calendario del giardiniere 2019" title="calendario del giardiniere 2019"></a>
+</p>
 
-## [Calendario 2019 da stampare](/download/calendari/2019/calendario-del-giardiniere-2019.pdf "Calendario del giardiniere 2019")
-
-[![Calendario del giardiniere 2019](/img/posts/calendario-di-giardinaggio.png "calendario del giardiniere 2019")](/download/calendari/2019/calendario-del-giardiniere-2019.pdf "Calendario del giardiniere 2019")
-
-**Scarica gratuitamente** in formato PDF il calendario del giardiniere 2019 completo di lunario, con i promemoria dei lavori in giardino, orto e frutteto oppure [acquista la versione stampata](/vendita-online-prodotti-per-giardinaggio/ "acquista il calendario da parete stampato").
-
+<p>
+<strong>Scarica gratuitamente</strong> in formato PDF il calendario del giardiniere 2019 completo di lunario, con i promemoria dei lavori in giardino, orto e frutteto oppure
+<a href="/vendita-online-prodotti-per-giardinaggio/" title="acquista il calendario da parete stampato">acquista la versione stampata</a>.
+</p>
 
 ___
 
