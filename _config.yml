@@ -40,6 +40,10 @@ collections:
 
 defaults:
   - scope:
+      path: "*download"
+    values:
+      sitemap: false
+  - scope:
       path: "_posts"
       type: "posts"
     values:
@@ -83,20 +87,13 @@ feed:
   categories:
     - giardinaggio
 
-sitemap:
-  filename: "/sitemap.xml"
-  exclude:
-    - "/feed.xml"
-  include_posts:
-    - "/index.html"
-  change_frequency_name: "change_frequency"
-  priority_name: "priority"
 paginate: 6
 paginate_path: "/consigli-di-giardinaggio/page:num/"
 markdown: kramdown
 
 social_icons:
   - Facebook
+  - Twitter
   - RSS
 exclude:
   - ".gitignore"
