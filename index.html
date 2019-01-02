@@ -59,25 +59,26 @@ last_modified_at: 2019-01-02
 
 <br/><br/>
 
-<h3 class="text-center">Competenza e professionalità a prezzi onesti!</h3>
+<h3 class="text-center">COMPETENZA E PROFESSIONALITÀ A PREZZI ONESTI</h3>
 <a href="/gallery/" title="gallery">
+<figure>
 <img class="img-shop" src="img/giardiniere-PotaSiepe-mentre-esegue-una-potaura-di-siepe-di-tasso-a-quattro-metri.jpg" width="745" height="466" alt="Il giardiniere PotaSiepe mentre taglia una siepe in un giardino a Udine" title="Un particolare di un giardino privato">
+<figcaption>Fotogallery - Giardiniere.</figcaption>
+</figure>
 </a>
 <br/>
 <br/>
 
 <div>
 
-  <h3>Consigli di Giardinaggio</h3>
+  <h2>BLOG DI GIARDINAGGIO</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h4>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h4>
+        </h3>
       </li>
     {% endfor %}
   </ul>
