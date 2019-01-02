@@ -10,11 +10,11 @@ last_modified_at: 2019-01-02
 <ul>
 	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
 		<li>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}">
 
 				<h2><span class="name">{{ servizi_giardinaggio.name }}</span></h2>
 
-				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
+				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
 
 				<p><span class="position">{{ servizi_giardinaggio.subtitle }}</span></p>
 			</a>

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "POTASIEPE - Giardiniere a Udine e Gorizia"
-excerpt: "Giardiniere con sede a Udine e Gorizia per progettare e sitemare il tuo giardino, potare la siepe, tagliare l'erba, disinfestare. E manutenzione aree verdi industriali."
+excerpt: Giardiniere a Udine e Gorizia per progettazione e sistemazione giardini, potatura alberi e siepi, taglio erba, manutenzione del verde commerciale e industriale.
 permalink: /
-last_modified_at: 2018-12-29
+last_modified_at: 2019-01-02
 ---
 <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.giardiniere-potasiepe.fvg.it/","potentialAction":{"@type":"SearchAction","target":"https://www.giardiniere-potasiepe.fvg.it/cerca/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <div id="logo">
@@ -45,12 +45,11 @@ last_modified_at: 2018-12-29
 		<li>
       <a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}">
 
-				<div class="name">{{ servizi_giardinaggio.name }}</div>
+				<h3><span class="name">{{ servizi_giardinaggio.name }}</span></h3>
 
 				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
 
-        <div class="position">{{ servizi_giardinaggio.subtitle }}</div>
-
+        <p><span class="position">{{ servizi_giardinaggio.subtitle }}</span></p>
 			</a>
 		</li>
 	{% endfor %}
