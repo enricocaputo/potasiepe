@@ -63,6 +63,9 @@
       opacity: 1;
     }
   }
+  .whatsapp {
+    display: none;
+  }
 }
 
 @media screen and (max-height: 750px) {
@@ -112,26 +115,42 @@
 
 @media only screen and (max-width: 600px) {
   .sidebarShortcuts .shortcut.phone {
-    width: 60%;
-    width: calc(60% - 3px);
+    width: 32%;
+    height: 55px;
     float: left;
     text-align: center;
     background: lime;
     img {
-      margin: 0px auto;
+      margin: 0 auto;
     }
   }
 }
 
 @media only screen and (max-width: 600px) {
   .sidebarShortcuts .shortcut.mail {
-    width: 40%;
-    width: calc(40% - 2px);
-    float: right;
+    width: 32%;
+    height: 55px;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
     text-align: center;
     background: lime;
     img {
-      margin: 0px auto;
+      margin: 0 auto;
+    }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .sidebarShortcuts .shortcut.whatsapp {
+    display: block;
+    float: right;
+    width: 32%;
+    height: 55px;
+    text-align: center;
+    background: lime;
+    img {
+      margin: 0 auto;
     }
   }
 }
