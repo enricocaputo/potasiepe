@@ -18,6 +18,10 @@
       link: https://twitter.com/potasiepe?lang=it
       social_icon: Twitter
       new_window: true
+    - name: RSS
+      link: /feed.xml
+      social_icon: RSS
+      new_window: false
 #   - name: WhatsApp
 #     link: https://wa.me/393889005888
 #     social_icon: WhatsApp

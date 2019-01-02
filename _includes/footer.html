@@ -9,7 +9,7 @@
           </li>
           {% for link in column.links %}
             <li>
-              <a {% if link.new_window %}target="_blank" rel="noopener"{% endif %} href="{% include relative-src.html src=link.link %}" aria-label="{{ link.name }} - Si apre in una nuova finestra" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+              <a {% if link.new_window %}target="_blank" rel="noopener"{% endif %} href="{% include relative-src.html src=link.link %}" aria-label="{{ link.name }}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
                 {% if link.social_icon %}
                   {% include social-icon.html icon=link.social_icon %}
                 {% endif %}
@@ -26,7 +26,16 @@
           <h2>{{ site.data.company.title }}</h2>
         </li>
         <li>{{ site.data.company.description }}</li>
-        <li><a href="{{ site.baseurl }}/feed.xml" aria-label="Feed RSS">{% include social-icon.html icon="RSS" %}Feed RSS</a></li>
+        <li>
+          <h3 class="">ISCRIVITI ALLA NEWSLETTER</h3>
+        </li>
+        <li>
+          <form class="tinyletter" action="https://tinyletter.com/potasiepe" method="post" target="popupwindow" rel="nofollow noreferrer" onsubmit="window.open('https://tinyletter.com/potasiepe', 'popupwindow', 'scrollbars=yes,width=630,height=568');return true">
+            <input type="text" name="email" id="tlemail" required autocomplete="email" placeholder="* mia@email.it" maxlength="55" />
+            <input type="hidden" value="1" name="embed" />
+            <input type="submit" value="OK" />
+          </form>
+        </li>
       </ul>
     </div>
   </div>

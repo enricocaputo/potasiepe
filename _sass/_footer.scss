@@ -103,6 +103,27 @@ footer {
 	}
 }
 
+.tinyletter {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	max-width: 300px;
+	input[type=text], input[type=submit] {
+		margin: 0;
+		padding: 10px;
+		border: 1px solid #ccc;
+		border-radius: 0;
+		box-shadow: none;
+	}
+	input[type=text] {
+		width: 80%;
+	}
+	input[type=submit] {
+		width: 20%;
+		font-weight: 500;
+	}
+}
+
 @media(max-width: 1400px) {
 	footer {
 		margin-top: -5em;
