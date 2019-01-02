@@ -22,8 +22,10 @@ title="Calendario del giardiniere 2019"><img src="/img/posts/calendario-di-giard
 </p>
 
 <p>
-<strong>Scarica gratuitamente</strong> in formato PDF il calendario del giardiniere 2019 completo di lunario, con i promemoria dei lavori in giardino, orto e frutteto oppure
-<a href="/vendita-online-prodotti-per-giardinaggio/" title="acquista il calendario da parete stampato">acquista la versione stampata</a>.
+<strong>Scarica gratuitamente</strong> in formato PDF il calendario del giardiniere 2019 completo di lunario, con i promemoria dei lavori in giardino, orto e frutteto <strong>oppure
+<a href="/contatti/" title="acquista il calendario da parete stampato">
+RICHIEDI LA VERSIONE STAMPATA al prezzo di EUR 14,00 </a> Spedizione GRATUITA</strong>.
+Il calendario da parete stampato a colori su preziosa carta patinata da 200 gr. ti sarà recapitato nel giro di 3-4 gg.
 </p>
 
 ___
