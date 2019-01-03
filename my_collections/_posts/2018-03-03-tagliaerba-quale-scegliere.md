@@ -1,5 +1,5 @@
 ---
-title: "Tagliaerba: guida all'acquisto, come scegliere."
+title: "Tagliaerba: guida all'acquisto, come scegliere"
 tags: [cura del prato]
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
