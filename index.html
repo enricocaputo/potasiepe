@@ -69,13 +69,13 @@ last_modified_at: 2019-01-02
 
 <div>
 
-  <h2>BLOG DI GIARDINAGGIO</h2>
-
+  <h2>Orto & Giardino</h2>
+  Le ultimissime notizie dal blog:
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> .. continua </a>
         </h3>
       </li>
     {% endfor %}
