@@ -50,6 +50,7 @@ defaults:
       layout: "post"
       author: "potasiepe"
       category: "giardinaggio"
+      comments: "true"
       image: "/img/share-potasiepe.jpg"
   - scope:
       path: "_casette_giardino"
@@ -74,6 +75,7 @@ defaults:
     values:
       layout: "post"
       author: "potasiepe"
+      comments: "false"
       seo:
         type: "Article"
 
