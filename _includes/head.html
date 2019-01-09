@@ -3,6 +3,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {% seo %}
+  {% if page.url contains '/consigli-di-giardinaggio/' %}
+  <link rel="amphtml" href="{{ page.url | replace:'/consigli-di-giardinaggio/','/amp/' | prepend: site.url }}" />
+  {% endif %}
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/img/ico/favicon.png" sizes="192x192" />
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/img/ico/apple-touch-icon.png" />

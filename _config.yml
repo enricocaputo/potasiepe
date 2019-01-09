@@ -9,7 +9,7 @@ timezone: Europe/Rome
 encoding: UTF-8
 lang: it-IT
 name: "potasiepe"
-logo: "/img/share-potasiepe.jpg"
+logo: "/img/amp-logo-60x600px.png"
 twitter:
   username: potasiepe
   card: summary
@@ -37,6 +37,9 @@ collections:
   calendario:
     output: true
     permalink: /calendario-di-giardinaggio/:title/
+  amp:
+    output: true
+    permalink: /amp/:title/
 
 defaults:
   - scope:
@@ -45,11 +48,12 @@ defaults:
       sitemap: false
   - scope:
       path: "_posts"
-      type: "posts"
     values:
       layout: "post"
+      seo:
+        type: "Article"
       author: "potasiepe"
-      category: "giardinaggio"
+      category: "Orto & Giardino"
       comments: "true"
       image: "/img/share-potasiepe.jpg"
   - scope:
@@ -78,6 +82,12 @@ defaults:
       comments: "false"
       seo:
         type: "Article"
+  - scope:
+      path: "_amp"
+    values:
+      layout: "amp-post"
+      author: "potasiepe"
+      category: "Orto & Giardino"
 
 plugins:
   - jekyll-feed
@@ -87,7 +97,7 @@ plugins:
 
 feed:
   categories:
-    - giardinaggio
+    - Orto & Giardino
 
 paginate: 6
 paginate_path: "/consigli-di-giardinaggio/page:num/"
