@@ -98,9 +98,14 @@
     left: 0;
     right: 0;
     width: 100%;
-    border-top: 1px solid #21221d;
-    background: #fff;
+    background: transparent;
     padding: 5px 10px;
+
+    .shortcut {
+      box-shadow: 0 2px 5px #000;
+      width: 32%;
+      text-align: center;
+    }
   }
 }
 
@@ -125,19 +130,15 @@
 
 @media only screen and (max-width: 600px) {
   .sidebarShortcuts .shortcut.phone {
-    width: 32%;
     float: left;
-    text-align: center;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .sidebarShortcuts .shortcut.mail {
-    width: 32%;
     margin-left: 2%;
     margin-right: 2%;
     float: left;
-    text-align: center;
   }
 }
 
@@ -145,7 +146,5 @@
   .sidebarShortcuts .shortcut.whatsapp {
     display: block;
     float: right;
-    width: 32%;
-    text-align: center;
   }
 }
