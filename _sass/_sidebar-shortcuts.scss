@@ -4,7 +4,7 @@
   right: 0;
   z-index: 16;
   a {
-    background: lime;
+    background: #00e000;
     height: 52px;
     margin-bottom: 2px;
     padding: 9px;
@@ -21,7 +21,7 @@
       width: 270px;
       height: 52px;
       z-index: 10;
-      background: lime;
+      background: #00e000;
       opacity: 0;
       transform: translateX(150px);
       backface-visibility: hidden;
@@ -68,7 +68,7 @@
   }
 }
 .sidebarShortcuts .shortcut.phone a{
-  background: lime;
+  background: #00e000;
 }
 
 @media screen and (max-height: 750px) {
