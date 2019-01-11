@@ -71,7 +71,7 @@ last_modified_at: 2019-01-02
   <h2><a href="/consigli-di-giardinaggio/" title="blog di giardinaggio, orto e giardino">Orto & Giardino</a></h2>
   Le ultimissime notizie dal blog:
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 5 %}
       <li>
         <h3>
           &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> .. continua </a>
