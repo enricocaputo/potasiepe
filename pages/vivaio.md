@@ -53,7 +53,7 @@ Gli olivi vanno potati appena piantati, eliminando il germoglio portante quando 
 </p>
 
 <p>
-<strong>Vivaio e prezzi. </strong> Disponiamo di um'ampia selezione di piante da siepe di ogni dimensione a partire da 10 euro. I prezzi dipendono dalla grandezza e dall'età degli esemplari e includono sempre le spese di consegna.
+<strong>Vivaio e prezzi. </strong> Disponiamo di um'ampia selezione di <a title="piante da siepe" href="/consigli-di-giardinaggio/siepe-quale-scegliere"> piante da siepe</a> di ogni dimensione a partire da 10 euro. I prezzi dipendono dalla grandezza e dall'età degli esemplari e includono sempre le spese di consegna.
 </p>
 
 </div>
