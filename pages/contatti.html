@@ -7,9 +7,9 @@ last_modified_at: 2019-01-03
 ---
 <h1>Preventivo Gratuito</h1>
 <div role="form">
-  <form action="https://www.enformed.io/glue4q0p" method="POST" >
-      <input type="hidden" name="*subject" value="Richiesta info da Cliente PotaSiepe.com" />
-      <input type="hidden" name="*honeypot" />
+  <form action="https://formspree.io/giardiniere@potasiepe.com" method="POST" >
+      <input type="hidden" name="_language" value="it" />
+      <input type="hidden" name="_subject" value="Richiesta info da Cliente PotaSiepe.com" />
   <br/>
     <div class="form-group">
       <label for="nome">Mi chiamo ...</label><br/>
@@ -39,10 +39,10 @@ last_modified_at: 2019-01-03
       <label for="Dimensioni-giardino-altro">Dimensioni giardino e altro ...</label><br/>
       <textarea id="Dimensioni-giardino-altro" name="Dimensioni-giardino-altro" type="text" class="form-control" rows="10" cols="33"/></textarea>
     </div>
-
-    <input type="hidden" name="*redirect" value="https://www.giardiniere-potasiepe.fvg.it/grazie.html" />
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="https://www.giardiniere-potasiepe.fvg.it/grazie.html" />
 
   <br/>
-    <button type="submit" class="button">Invia</button>
+    <button type="submit" class="button" value="Submit">Invia</button>
   </form>
 </div>
