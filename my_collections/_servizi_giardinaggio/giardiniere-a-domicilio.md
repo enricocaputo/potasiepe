@@ -20,6 +20,19 @@ Lavoro come giardiniere a <a href="/giardinaggio-udine-giardiniere/" title="Giar
 Mi muovo in tutta la provincia di <a href="/giardinaggio-gorizia-giardiniere/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
   <strong>Gorizia</strong></a>. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone, Romans d'Isonzo, Ronchi dei Legionari ecc.
 
+## Le opinioni dei miei clienti
+
+- **Precisissimo, puntuale, veloce, competente! Il lavoro di potatura è stato eseguito benissimo, Enrico ha lasciato il giardino in ordine e ci ha dato tantissimi consigli su come sistemarlo al meglio! Consigliatissimo. Noi sicuramente ci rivolgeremo ancora a lui! Grazie Enrico!**
+
+- -Irma Simona Guarracino
+
+- **dopo una serie di brutte esperienze, finalmente ho trovato un serio professionista.Ho visitato il suo sito, dove è ben chiaro anche un listino prezzi!!! ho chiamato e sono state ricontattata subito!E’ organizzato e puntuale, ma soprattutto molto preparato, su potature, trattamenti, prodotti.....davvero molto bravo!!!!!**
+
+- -Xenia Mosetti
+
+- **Persona seria, affidabile e molto scrupolosa nel lavoro. Prezzi più che onesti per il servizio professionale che offre. Lo consiglio vivamente a tutti, basta chiamare e arriva. Top!**
+
+- -Marco Butelli
 
 <br/>
 <div class="text-center">
