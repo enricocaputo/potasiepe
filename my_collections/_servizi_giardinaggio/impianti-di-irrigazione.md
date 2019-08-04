@@ -1,9 +1,9 @@
 ---
 layout: page
-name: Irrigazione
-subtitle: impianti di irrigazione a spruzzo e a goccia
-title: Impianti di irrigazione per giardini privati
-excerpt: 'Categoria: giardinaggio. Servizio: impianti di irrigazione. Elaboriamo progetti su misura in collaborazione diretta con i tecnici del produttore del sistema di irrigazione'
+name: Impianti di irrigazione
+subtitle: TORO – RAIN BIRD – CLABER – HUNTER
+title: Impianti di irrigazione Udine
+excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione a Udine e Gorizia. Installatore autorizzato TORO – RAIN BIRD – CLABER – HUNTER'
 image_path: /img/servizi/impianto-irrigazione-interrata-udine.jpg
 last_modified_at: 2018-12-29
 ---
@@ -13,7 +13,7 @@ last_modified_at: 2018-12-29
 
 **Si avvicina l’estate e hai paura che il tuo giardino risenta delle alte temperature?** Oppure non trovi il tempo di innaffiarlo manualmente?
 
-![progettazione-di-impianti-di-irrigazione](/img/impianto-irrigazione.jpg  "progettazione e realizzazione di vari tipi di impianti per l'irrigazione del giardino")
+![impianti-di-irrigazione-udine](/img/progettazione-impianti-irrigazione-udine.jpg  "progettazione, installazione di impianti di irrigazione a Udine e Gorizia")
 
 **Affida il tuo impianto di irrigazione a giardiniere PotaSiepe!** In collaborazione con i tecnici del produttore dell'impianto di irrigazione stileremo un progetto ad hoc per il tuo spazio verde. Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi, per una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di PotaSiepe la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Le tue piante ti ringrazieranno!
 
