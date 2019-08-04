@@ -9,16 +9,16 @@ image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
 
-## Giardiniere a Udine in un raggio di 40 Km da Cervignano del Friuli
+## Giardiniere a domicilio a Udine
 
 Lavoro come giardiniere a <a href="/giardinaggio-udine-giardiniere/" title="Giardinaggio Udine, Giardiniere Udine per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
-  <strong>Udine</strong></a> e ho lavorato in questi comuni della provincia di Udine: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, <b>Latisana</b>, Lignano, Manzano, Marano Lagunare, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone, Tavagnacco.
+  <strong>Udine</strong></a> e in tutta la provincia in un raggio di 40 Km da Cervignano del Friuli. Sono felice di aver lavorato in diversi giardini di questi comuni: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, Latisana, Lignano, Manzano, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone e Tavagnacco.
 
 
 ## Giardiniere a domicilio a Gorizia
 
 Mi muovo in tutta la provincia di <a href="/giardinaggio-gorizia-giardiniere/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
-  <strong>Gorizia</strong></a>, ho lavorato ad a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone , Romans d'Isonzo e <b>Ronchi dei Legionari</b>.
+  <strong>Gorizia</strong></a>. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone , Romans d'Isonzo, <b>Ronchi dei Legionari</b> ecc.
 
 
 <br/>
