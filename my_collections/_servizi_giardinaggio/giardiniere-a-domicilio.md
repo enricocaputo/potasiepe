@@ -1,35 +1,27 @@
 ---
-layout: default
-name: Servizio a domicilio
-subtitle: Potasiepe è giariniere a domicilio
-title: Potasiepe è giariniere a domicilio a Cervignano del Friuli, Udine
-excerpt: 'giardiniere a domicilio. Area: 40 Km di raggio da Cervignano del Friuli. Potasiepe il tuo giardiniere di fiducia arriva direttamente a casa tua.'
+layout: page
+name: Giardiniere a domicilio
+subtitle: Per le province di Udine e Gorizia
+title: Giardiniere a domicilio, Udine e Gorizia
+excerpt: 'Giardiniere a domicilio a Udine e Gorizia. Che si tratti di terrazzo, balcone o giardino Potasiepe ti aiuta a progettare e mantenere il tuo spazio verde.'
+
+ Potasiepe il tuo giardiniere di fiducia arriva direttamente a casa tua.'
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
-## Giardiniere a domicilio
 
-### PotaSiepe giardiniere opera a Udine e in un raggio di c.ca 40 km dalla sua sede
+## Giardiniere a domicilio a Udine, in un raggio di 40 Km da Cervignano del Friuli, UD
 
 Lavoro come giardiniere a <a href="/giardinaggio-udine-giardiniere/" title="Giardinaggio Udine, Giardiniere Udine per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
   <strong>Udine</strong></a> e ho lavorato in questi comuni della provincia di Udine: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, <b>Latisana</b>, Lignano, Manzano, Marano Lagunare, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone, Tavagnacco.
 
 
-### PotaSiepe giardiniere opera a Gorizia e in tutta la provincia di Gorizia
+## Giardiniere a domicilio a Gorizia
 
 Mi muovo in tutta la provincia di <a href="/giardinaggio-gorizia-giardiniere/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
   <strong>Gorizia</strong></a>, ho lavorato ad a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone , Romans d'Isonzo e <b>Ronchi dei Legionari</b>.
 
-
-### PotaSiepe giardiniere si sposta in alcuni comuni della provincia di Pordenone
-
-Arrivo anche in una piccola porzione della provincia di Pordenone ad esempio ho già operato a **Spilimbergo** e San Vito al Tagliamento.
-
-
-### PotaSiepe giardiniere arriva anche a Trieste e in molti comuni della provincia di Trieste
-
-Adoro **Trieste** e i suoi abitanti, mi sono trovato bene a curare alcuni giardini in quel di Duino, Sistiana e **Muggia** e ho toccato anche Portorose in Slovenia.
 
 <br/>
 <div class="text-center">
