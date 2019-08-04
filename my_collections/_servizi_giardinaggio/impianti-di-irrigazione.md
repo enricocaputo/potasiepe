@@ -4,7 +4,7 @@ name: Irrigazione
 subtitle: impianti di irrigazione a spruzzo e a goccia
 title: Impianti di irrigazione per giardini privati
 excerpt: 'Categoria: giardinaggio. Servizio: impianti di irrigazione. Elaboriamo progetti su misura in collaborazione diretta con i tecnici del produttore del sistema di irrigazione'
-image_path: /img/servizi/servizio-irrigazione-giardino.jpg
+image_path: /img/servizi/impianto-irrigazione-interrata-udine.jpg
 last_modified_at: 2018-12-29
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>

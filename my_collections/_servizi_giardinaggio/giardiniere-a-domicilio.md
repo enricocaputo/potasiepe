@@ -4,7 +4,7 @@ name: Servizio a domicilio
 subtitle: Potasiepe è giariniere a domicilio
 title: Potasiepe è giariniere a domicilio a Cervignano del Friuli, Udine
 excerpt: 'giardiniere a domicilio. Area: 40 Km di raggio da Cervignano del Friuli. Potasiepe il tuo giardiniere di fiducia arriva direttamente a casa tua.'
-image_path: /img/servizi/servizio-giardiniere-a-domicilio.png
+image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
