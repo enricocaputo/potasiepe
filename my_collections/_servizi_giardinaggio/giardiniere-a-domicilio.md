@@ -18,7 +18,7 @@ Lavoro come giardiniere a <a href="/giardinaggio-udine-giardiniere/" title="Giar
 ## Giardiniere a domicilio a Gorizia
 
 Mi muovo in tutta la provincia di <a href="/giardinaggio-gorizia-giardiniere/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
-  <strong>Gorizia</strong></a>. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone , Romans d'Isonzo, Ronchi dei Legionari ecc.
+  <strong>Gorizia</strong></a>. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone, Romans d'Isonzo, Ronchi dei Legionari ecc.
 
 
 <br/>
