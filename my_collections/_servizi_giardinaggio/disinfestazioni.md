@@ -9,7 +9,7 @@ last_modified_at: 2019-08-04
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
-Hai problemi di **zanzare**? **Scarafaggi** e **formiche** hanno preso d'assalto la tua casa? **Afidi** e **cocciniglia** attanagliano le tue piante? Rivolgiti con fiducia a *Giardiniere Potasiepe* per una **disinfestazione professionale** ed efficace a **[prezzi economici ed onesti](/prezzi/ "listino prezzi")**.
+Hai problemi di **zanzare**? **Scarafaggi** e **formiche** hanno preso d'assalto la tua casa? **Afidi** e **cocciniglia** attanagliano le tue piante? Rivolgiti con fiducia a *Giardiniere Potasiepe* per una **disinfestazione professionale** ed efficace a **[prezzi contenuti](/prezzi/ "Vedi i prezzi in dettaglio")**.
 
 ## Disinfestazione zanzare anti-larvale
 
