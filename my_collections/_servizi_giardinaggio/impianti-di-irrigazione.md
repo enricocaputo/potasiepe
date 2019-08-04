@@ -17,9 +17,17 @@ last_modified_at: 2018-12-29
 
 **Installatore autorizzato di impianti di irrigazione CLABER - HUNTER - RAIN BIRD - TORO.** Con l'installazione di impianti di irrigazione progettati da un professionista potrai evitare diversi problemi molto comuni: un sistema poco curato non permette all'acqua di raggiungere l'obiettivo e va invece persa per deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice. Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi, per una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di *Giardiniere Potasiepe* la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
 
-## Irrigazione Fuori Terra
+## Irrigazione fuoriterra
 
-Nel caso di piccoli prati, siepi, singoli vasi e aiuole il miglior rimedio contro la siccità è spesso l'irrigazione esterna e a goccia. Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto. Installatore autorizzato Claber, Irritec, Toro, Rain Bird, Hunter.
+*Giardiniere Potasiepe* è specializzato in irrigazione fuoriterra resitenti e a perfetta tenuta stagna.
+
+L’irrigazione fuoriterra è il modo più semplice di annaffiare le piante ed il prato, collegando un tubo a un rubinetto e distribuendo l’acqua con una lancia o una pistola. Per orti, piccoli prati, siepi, gruppi di vasi oppure aiuole la soluzione migliore è l'irrigazione esterna e a goccia.
+
+E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qualità, per ottenere un’irrigazione veramente efficace.
+
+**Installatore autorizzato di impianti di irrigazione fuoriterra Claber, Irritec, Toro, Rain Bird, Hunter.**
+
+Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto.
 
 ## La manutenzione
 
