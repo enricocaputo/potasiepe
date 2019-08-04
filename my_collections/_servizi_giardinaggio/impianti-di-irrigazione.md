@@ -9,19 +9,30 @@ last_modified_at: 2018-12-29
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
-## Realizzazione di impianti di irrigazione interrata
+## Progettazione, installazione, manutenzione di impianti di irrigazione interrata
 
-**Si avvicina l’estate e hai paura che il tuo giardino risenta delle alte temperature?** Oppure non trovi il tempo di innaffiarlo manualmente?
+**Un valido impianto di irrigazione è determinante per ottenere un prato folto e rigoglioso**, consente di risparmiare acqua e manutenzioni.
 
 ![impianti-di-irrigazione-udine](/img/progettazione-impianti-irrigazione-udine.jpg  "progettazione, installazione di impianti di irrigazione a Udine e Gorizia")
 
-**Affida il tuo impianto di irrigazione a giardiniere PotaSiepe!** In collaborazione con i tecnici del produttore dell'impianto di irrigazione stileremo un progetto ad hoc per il tuo spazio verde. Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi, per una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di PotaSiepe la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Le tue piante ti ringrazieranno!
+**Installatore autorizzato di impianti di irrigazione CLABER - HUNTER - RAIN BIRD - TORO.** Con l'installazione di impianti di irrigazione progettati da un professionista potrai evitare diversi problemi molto comuni: un sistema poco curato non permette all'acqua di raggiungere l'obiettivo e va invece persa per deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice. Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi, per una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di *Giardiniere Potasiepe* la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
 
-## impianti di irrigazione esterni
+## Irrigazione Fuori Terra
 
-Nel caso di piccoli prati, siepi, singoli vasi e aiuole il miglior rimedio contro la siccità è spesso l'irrigazione esterna e a goccia. Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà instalato in pochissimo tempo e a costo contenuto.
+Nel caso di piccoli prati, siepi, singoli vasi e aiuole il miglior rimedio contro la siccità è spesso l'irrigazione esterna e a goccia. Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto. Installatore autorizzato Claber, Irritec, Toro, Rain Bird, Hunter.
 
-**Chiama senza impegno oppure [invia una richiesta e fissa un appuntamento](/contatti/ "invia una richiesta di preventivo e fissa un appuntamento")**
+## La manutenzione
+
+*Giardiniere Potasiepe*, specializzato nell'installazione degli impianti di irrigazione e della loro manutenzione, garantisce l'esecuzione della seguente manutenzione:
+
+- Ispezione del programmatore per accertarsi che sia collegato e funzionante
+- Aggiornamento di ora e data e impostazione dei tempi di funzionamento
+- Controllo della connessione di tutte le componenti (sensori di pioggia)
+- Sostituzione della batteria tampone
+- Modifica del programma in base all’andamento climatico e le esigenze di irrigazione del paesaggio
+- Attivazione di ogni zona e ricerca eventuali danni al sistema.
+
+**Chiama senza impegno oppure [Scrivi e Richiedi Info e Preventivi](/contatti/ "invia una richiesta di preventivo e fissa un appuntamento")**
 
 <br/>
 <div class="text-center">
