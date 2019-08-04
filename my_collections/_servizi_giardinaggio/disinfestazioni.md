@@ -1,7 +1,7 @@
 ---
 layout: page
-name: Disinfestazione Zanzare
-subtitle: disinfestazione zanzare e altri insetti
+name: Disinfestazione zanzare
+subtitle: zanzare e altri insetti
 title: Disinfestazione Zanzare Udine
 excerpt: 'Disinfestazione zanzare Udine. Prodotti efficaci e a basso impatto ambientale contro le zanzare e altri insetti.'
 image_path: /img/servizi/servizio-disinfestazione-insetti.jpg
