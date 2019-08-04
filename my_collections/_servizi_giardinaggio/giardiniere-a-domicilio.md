@@ -2,14 +2,14 @@
 layout: page
 name: Giardiniere a domicilio
 subtitle: Per le province di Udine e Gorizia
-title: Giardiniere a domicilio, Udine e Gorizia
+title: Giardiniere a domicilio a Udine e Gorizia
 excerpt: 'Giardiniere a domicilio a Udine e Gorizia. Che si tratti di terrazzo, balcone o giardino Potasiepe ti aiuta a progettare e mantenere il tuo spazio verde.'
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
 
-## Giardiniere a domicilio a Udine, in un raggio di 40 Km da Cervignano del Friuli, UD
+## Giardiniere a Udine in un raggio di 40 Km da Cervignano del Friuli
 
 Lavoro come giardiniere a <a href="/giardinaggio-udine-giardiniere/" title="Giardinaggio Udine, Giardiniere Udine per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
   <strong>Udine</strong></a> e ho lavorato in questi comuni della provincia di Udine: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, <b>Latisana</b>, Lignano, Manzano, Marano Lagunare, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone, Tavagnacco.
