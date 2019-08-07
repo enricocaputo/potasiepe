@@ -75,3 +75,28 @@ Viale Stazione, 28, Cervignano del Friuli UD
 
 </ul>
 </div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "LocalBusiness",
+  "image": "https://www.giardiniere-potasiepe.fvg.it/img/potasiepe-LOGO-v2-600x539px.png",
+  "name": "Il Giardiniere Potasiepe",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Stazione, 28",
+    "postalCode": "33052",
+    "addressLocality": "Cervignano del Friuli",
+    "addressRegion": "UD",
+    "addressCountry": "IT",
+    "telephone": "+393889005888"    
+  },
+  "description": "Giardiniere Udine e Gorizia",
+  "priceRange": "€18/h",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "ratingCount": "15"
+  }
+}
+</script>
