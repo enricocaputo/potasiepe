@@ -8,17 +8,36 @@ image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
-
-## Giardiniere a domicilio a Udine
-
-Lavoro come giardiniere a <a href="/giardinaggio-udine-giardiniere/" title="Giardinaggio Udine, Giardiniere Udine per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
-  <strong>Udine</strong></a> e in tutta la provincia in un raggio di 40 Km da Cervignano del Friuli. Sono felice di aver lavorato in diversi giardini di questi comuni: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, Latisana, Lignano, Manzano, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone e Tavagnacco.
+<br/><br/>
 
 
-## Giardiniere a domicilio a Gorizia
+Da oggi puoi rivolgerti a **Potasiepe**! Un giardiniere esperto che **ti aiuterà a mantenere in salute le tue piante**.
 
-Mi muovo in tutta la provincia di <a href="/giardinaggio-gorizia-giardiniere/" title="Giardinaggio Gorizia, Giardiniere Gorizia per taglio siepe low cost e tutti i lavori di giardinaggio di cui hai bisogno">
-  <strong>Gorizia</strong></a>. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone, Romans d'Isonzo, Ronchi dei Legionari ecc.
+Anche se hai il "pollice superverde" e un buon impianto di irrigazione potresti comunque avere bisogno di una mano
+in determinate occasioni e quando il tuo lavoro non ti consente di dedicarti al giardinaggio.
+Oltre a fornirti dei preziosi consigli per ogni stagione posso occuparmi di **potare la siepe**, dello **sfalcio** dell’erba, dei piccoli e grandi interventi di manutenzione del giardino, **impianto di irrigazione** compreso.
+
+Saprò indicarti quali piante scegliere in base all’esposizione al sole, quali vasi sono più indicati, quando invasare, concimare e naturalmente quando e come potare. In caso di attacchi fungini o di qualche malattia saprò consigliarti il rimedio migliore per ogni tipo di pianta e applicherò il giusto **trattamento fitosanitario** avendo
+il **patentino ERSA**.
+
+## Come funziona
+
+Se hai bisogno dell’aiuto di un giardiniere per i tuoi spazi verdi chiamami o scrivimi, **dimmi dei tuoi progetti** per sistemare le tue piante, il giardino, l'orto. Una volta capite le tue esigenze fisseremo l’appuntamento per un **sopralluogo** dove insieme decideremo il da farsi e programmeremo un **calendario dei lavori**.
+Non dovrai pensare a nulla perché dispongo di tutte le più **moderne attrezzature** del mestiere e se si tratta di scegliere nuove piante **posso accompagnarti negli acquisti** presso il tuo vivaio di fiducia ed eventualmente **incaricarmi del trasporto**.
+
+## Quanto costa
+
+Il **sopralluogo**, finalizzato a preventivare i lavori è **gratuito e senza impegno**.
+L'esecuzione dei lavori, a seconda dei casi, può avere un **costo a metro, a ora e a forfait**.
+
+## Giardiniere a Udine
+
+Lavoro come giardiniere a **<a href="/giardinaggio-udine-giardiniere/" title="giardiniere a Udine per taglio siepe e lavori di giardinaggio, massima serietà e costo onesto">Udine</a> e provincia** in un raggio di 40 Km da Cervignano del Friuli. Sono felice di aver lavorato in diversi giardini di questi comuni: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, Latisana, Lignano, Manzano, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone e Tavagnacco.
+
+
+## Giardiniere a Gorizia
+
+Mi muovo in tutta la provincia di **<a href="/giardinaggio-gorizia-giardiniere/" title="giardiniere a Gorizia per potatura siepe e alberi e lavori di giardinaggio, massima serietà e costo onesto">Gorizia</a> e provincia**. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone, Romans d'Isonzo, Ronchi dei Legionari ecc.
 
 <br/><br/>
 
