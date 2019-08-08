@@ -13,7 +13,7 @@ Forniamo tutti i servizi per il verde, contratti annuali e interventi di manuten
 
 Il nostro team è regolarmente assicurato e qualificato con certificazione per l'uso della motosega e patentino per l'acquisto e l'uso di prodotti fitosanitari rilasciato dall'ERSA.
 
-Il preventivo è gratuito. Al termine di ogni intervento presenteremo al referente condominiale l’elenco delle operazione svolte al fine di dare la possibilità a chi investe nella manutenzione del giardino condominiale un servizio trasparente e senza sorprese!
+Il preventivo è gratuito. Al termine di ogni intervento presenteremo al referente condominiale l’elenco delle operazione svolte al fine di dare la possibilità a chi investe nella manutenzione del giardino condominiale un servizio trasparente e senza sorprese.
 
 Contattaci per **un sopralluogo e un preventivo gratuito** presso il tuo condominio.
 
