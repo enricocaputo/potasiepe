@@ -190,6 +190,9 @@ footer {
 }
 
 @media (min-width: 1280px) {
+  body {
+    text-align: justify;
+  }
   .content {
     padding-bottom: 18em;
   }
