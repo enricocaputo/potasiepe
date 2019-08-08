@@ -11,23 +11,25 @@ last_modified_at: 2018-12-29
 
 ## Progettazione, installazione, manutenzione di impianti di irrigazione interrata
 
-**Un valido impianto di irrigazione è determinante per ottenere un prato folto e rigoglioso**, consente di risparmiare acqua e manutenzioni.
+Un valido impianto di irrigazione è determinante per ottenere **un prato folto** e rigoglioso e consente di **risparmiare acqua** e manutenzioni.
 
 ![impianti-di-irrigazione-udine](/img/progettazione-impianti-irrigazione-udine.jpg  "progettazione, installazione di impianti di irrigazione a Udine e Gorizia")
 
-**Installatore autorizzato di impianti di irrigazione CLABER - HUNTER - RAIN BIRD - TORO.** Con l'installazione di impianti di irrigazione progettati da un professionista potrai evitare diversi problemi molto comuni: un sistema poco curato non permette all'acqua di raggiungere l'obiettivo e va invece persa per deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice. Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi, per una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di *Giardiniere Potasiepe* la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
+**Installatore autorizzato** delle migliori marche del settore: **CLABER, HUNTER, RAIN BIRD e TORO.**
+
+Grazie all'installazione di impianti di irrigazione progettati da un professionista potrai evitare i più comuni problemi: un sistema mal bilanciato non permette all'acqua di raggiungere l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
+
+Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi con una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di *Giardiniere Potasiepe* la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
 
 ## Irrigazione fuoriterra
 
-*Giardiniere Potasiepe* è specializzato in irrigazione fuoriterra resitenti e a perfetta tenuta stagna.
+*Giardiniere Potasiepe* è specializzato in irrigazione fuoriterra resistenti e a perfetta tenuta stagna.
 
 L’irrigazione fuoriterra è il modo più semplice di annaffiare le piante ed il prato, collegando un tubo a un rubinetto e distribuendo l’acqua con una lancia o una pistola. Per orti, piccoli prati, siepi, gruppi di vasi oppure aiuole la soluzione migliore è l'irrigazione esterna e a goccia.
 
-E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qualità, per ottenere un’irrigazione veramente efficace.
+E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qualità, per ottenere un’irrigazione veramente efficace. Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto.
 
-**Installatore autorizzato di impianti di irrigazione fuoriterra Claber, Irritec, Toro, Rain Bird, Hunter.**
-
-Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto.
+**Installatore autorizzato** di impianti di irrigazione fuoriterra **Claber, Irritec, Toro, Rain Bird, Hunter.**
 
 ## La manutenzione
 
@@ -40,7 +42,7 @@ Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'
 - Modifica del programma in base all’andamento climatico e le esigenze di irrigazione del paesaggio
 - Attivazione di ogni zona e ricerca eventuali danni al sistema.
 
-**Chiama senza impegno oppure [Scrivi e Richiedi Info e Preventivi](/contatti/ "invia una richiesta di preventivo e fissa un appuntamento")**
+Contattaci per **un sopralluogo e un preventivo gratuito**
 
 <br/>
 <div class="text-center">
