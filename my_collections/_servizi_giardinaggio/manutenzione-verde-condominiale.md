@@ -1,19 +1,21 @@
 ---
 layout: page
-name: Manutenzione verde condominiale
-subtitle: contratti di manutenzione programmata
-title: Contratti annuali e stagionali per aree verde condominiali
-excerpt: 'Categoria: giardinaggio. Servizio: manutenzione giardini a Udine e Gorizia. Affida la manutenzione del tuo giardino a un giardiniere esperto che si occuperà di tutto!'
+name: Verde condominiale
+subtitle: contratti annuali e manutenzione straordinaria
+title: Manutenzione giardini condominiali a Udine e Gorizia
+excerpt: 'Manutenzione di giardini condominiali a Udine e Gorizia. Chiedici un sopralluogo e un preventivo gratuito per la manutenzione del verde condominiale.'
 image_path: /img/servizi/servizio-manutenzione-verde-condominiale.jpg
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
-## Servizio di giardinaggio: Manutenzione di giardini
+Potasiepe è specializzato nella **manutenzione di giardini condominiali a Udine e Gorizia**, e relative province. La nostra esperienza nella **manutenzione del verde condominiale** ci permette di offrire un servizio misurato alle necessità, spesso complesse e articolate, di piccoli e grandi complessi residenziali. Grazie all’accurata selezione del nostro personale, garantiamo sicurezza e un ottimo rapporto con tutti i componenti della proprietà.
+Forniamo tutti i servizi per il verde, contratti annuali e interventi di manutenzione straordinaria: diserbi, sfalci, disinfestazione zanzare. Ci occupiamo anche della potatura di siepi e di alberature a medio fusto.
 
-**Non falci il tuo giardino da mesi? Le piante della tua terrazza hanno fatto fatica a superare l’inverno?**
+Il nostro team è regolarmente assicurato e qualificato con certificazione per l'uso della motosega e patentino per l'acquisto e l'uso di prodotti fitosanitari rilasciato dall'ERSA.
 
-Da oggi puoi rivolgerti a giardiniere PotaSiepe! Un giardiniere esperto che si occuperà di tutto: dalla potatura di siepi alla falciatura stagionale dell’erba fino ai piccoli e grandi interventi di manutenzione del giardino, con particolare attenzione alla diffusione di flora infestante e alla cura delle malattie comuni che affliggono le piante di casa.
-Ti garantiamo un servizio professionale e un costo sempre in linea con l’alta qualità che proponiamo!
+Il preventivo è gratuito. Al termine di ogni intervento presenteremo al referente condominiale l’elenco delle operazione svolte al fine di dare la possibilità a chi investe nella manutenzione del giardino condominiale un servizio trasparente e senza sorprese!
+
+Contattaci per **un sopralluogo e un preventivo gratuito** presso il tuo condominio.
 
 <br/>
 <div class="text-center">
