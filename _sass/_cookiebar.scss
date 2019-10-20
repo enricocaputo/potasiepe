@@ -33,14 +33,11 @@
     box-shadow: none;
     color: #d2382b;
     padding: 8px;
-    font-weight: 700;
-    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
     vertical-align: middle;
     display: inline-block;
     cursor: pointer;
-    &:hover {
-      background-color: rgba(210,56,43,.18);
-    }
   }
 }
 
