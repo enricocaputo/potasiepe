@@ -24,25 +24,30 @@
   }
 }
 
-.cookie-dialog {
-  text-align: right;
-  a {
+.cookie-details {
+  color: #3e3e3e;
+  text-decoration: none;
+  &:hover {
+    color: #3e3e3e;
     text-decoration: none;
-    background-color: transparent;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    color: #d2382b;
-    padding: 8px;
-    font-size: 16px;
-    font-weight: 600;
-    vertical-align: middle;
-    display: inline-block;
-    cursor: pointer;
   }
 }
 
-.cookiebar-close {
-  margin-left: 8px;
+.cookie-dialog {
+  text-align: right;
+  a {
+    background-color: DodgerBlue;
+    color: White;
+    font-size: 16px;
+    font-weight: 600;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 8px;
+    vertical-align: middle;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
 }
 
 @media (max-width: 700px) {
