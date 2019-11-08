@@ -34,12 +34,12 @@ permalink: /sitemap.html
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/condizioni-generali-di-vendita/"> Vendite e rimborsi </a>
+        <a class="page-link" href="/cookie/"> Privacy e cookie </a>
     </h4>
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/cookie/"> Informativa privacy e cookie </a>
+        <a class="page-link" href="/condizioni-generali-di-vendita/"> Vendite e rimborsi </a>
     </h4>
   </li>
 </ul>
