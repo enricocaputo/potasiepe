@@ -39,7 +39,7 @@ permalink: /sitemap.html
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/cookie/"> Norme sulla privacy </a>
+        <a class="page-link" href="/cookie/"> Informativa privacy e cookie </a>
     </h4>
   </li>
 </ul>
