@@ -29,7 +29,7 @@ permalink: /sitemap.html
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/contatti/"> Contatti</a>
+        <a class="page-link" href="/contatti/"> Contatti </a>
     </h4>
   </li>
   <li>
@@ -39,7 +39,12 @@ permalink: /sitemap.html
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/condizioni-generali-di-vendita/"> Vendite e rimborsi </a>
+        <a class="page-link" href="/consigli-di-giardinaggio/"> Consigli di giardinaggio </a>
+    </h4>
+  </li>
+  <li>
+    <h4>
+        <a class="page-link" href="/calendario-di-giardinaggio/"> Calendario orto e giardino  </a>
     </h4>
   </li>
 </ul>
@@ -61,22 +66,21 @@ permalink: /sitemap.html
 
 <ul>
   <li><h3>SCOPRI E ACQUISTA</h3></li>
+    <li>
+      <h4>
+      <a class="page-link" href="/vivaio/"> Vivaio </a>
+      </h4>
+    </li>
 		<li>
       <h4>
-			<a class="page-link" href="/vendita-online-prodotti-per-giardinaggio/"> Attrezzi da giardino </a>
+			<a class="page-link" href="/vendita-online-prodotti-per-giardinaggio/"> Attrezzi </a>
+      </h4>
+    </li>
+    <li>
+      <h4>
+          <a class="page-link" href="/condizioni-generali-di-vendita/"> Vendite e rimborsi </a>
       </h4>
     </li>
 </ul>
 
 <br/>
-
-<ul class="post-list" style="text-align:left;">
-  <li><h3>CONSIGLI DI GIARDINAGGIO</h3></li>
-{% for post in site.posts %}{% unless post.sitemap == false %}
-  <li>
-    <h4>
-      <a class="page-link" href="{{ post.url | prepend: site_url | normalize_url }}">{{ post.title }}</a>
-    </h4>
-  </li>
-{% endunless %}{% endfor %}
-</ul>

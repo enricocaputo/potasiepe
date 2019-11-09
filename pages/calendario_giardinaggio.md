@@ -1,8 +1,8 @@
 ---
-title: Calendario di giardinaggio 2019
-excerpt: "Il calendario del buon giardiniere scritto da un esperto di giardinaggio, completo di lunario e dei lavori da svolgere in giardino. Scaricalo gratuitamente in formato PDF"
+title: Calendario Orto e Giardino
+excerpt: "Calendario dei lavori in orto e giardino 2019: calendario lunare, consigli per semina, trapianto, potatura. Scaricalo gratuitamente in formato PDF"
 permalink: /calendario-di-giardinaggio/
-last_modified_at: 2018-12-30
+last_modified_at: 2019-11-09
 ---
 Il calendario del giardiniere, scritto da un esperto di giardinaggio, è un regalo rivolto a tutti coloro che amano il proprio giardino e che desiderano prendersi cura
 delle piante, degli alberi, del prato, dell'orto e del frutteto.
