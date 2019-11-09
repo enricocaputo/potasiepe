@@ -1,14 +1,14 @@
 /* TEAM */
-  Web designer: Enrico Caputo
+  Web designer: enrico caputo
   Contact: enricocaputo.1972@gmail.com
-  From: Friuli-Venezia Giulia
+  From: Italy
 
 /* THANKS */
   Hosting: github.com
-  Forms: enformed.io
+  Forms: formspree.io
   Testing: validator.w3.org
 
 /* SITE */
-  Last update:2017/11/07
-  Doctype:HTML5
+  Last update: 2019/11/09
+  Doctype: HTML5
   IDE: Atom
