@@ -99,7 +99,7 @@ input.search-text::-webkit-search-cancel-button {
   position: -o-sticky;
   top: 0;
   z-index: 2;
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 3px 3px rgba(32, 33, 36, 0.28);
 
   ul {
     padding-right: 2em;
@@ -141,7 +141,7 @@ input.search-text::-webkit-search-cancel-button {
     position: -ms-sticky;
     position: -o-sticky;
     z-index: 3;
-    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 3px 3px rgba(32, 33, 36, 0.28);
   }
 
   .nav {
