@@ -1,24 +1,73 @@
 ---
 layout: page
-title: About - POTASIEPE
-excerpt: 'Categoria: giardiniere, Nome: Giardiniere PotaSiepe. Sono un giardiniere professionista e qualificato che opera a Udine a Trieste e in tutto il Friuli-Venezia Giulia'
+title: Chi sono
+excerpt: 'Sono un giardiniere professionista:realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità.'
 permalink: /chi-sono/
 sitemap: true
-last_modified_at: 2017-11-09
+last_modified_at: 2019-11-13
 ---
-## Chi sono? Uno che fin da bambino amava i fiori e le piante!
+![Enrico](/img/enrico.jpg  "Enrico")
 
-Sono un giardiniere professionista e qualificato al vostro servizio, arrivo direttamente a casa vostra: mi sposto tra la provincia di Udine, Pordenone, Gorizia e Trieste. Precisamente opero in un raggio di 40 km da Cervignano del Friuli, UD.
+<br/>
+Mi chiamo Enrico, di lavoro **mi prendo cura degli spazi verdi**. Quando un cliente mi affida un incarico so di avere due grandi responsabilità: il benessere delle piante e la custodia della proprietà a cui mi è stato dato accesso.
 
-Realizzo giardini completi di aiuole e impianti di irrigazione. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
-
-**Offro supporto e consulenza continui nel tempo.**
+Non di rado i miei clienti mi confidano brutte esperienze passate con altri giardinieri. Credo fermamente che la serietà e la **puntualità** siano doti indispensabili di un giardiniere professionista tanto quanto la preparazione e la **competenza**. Per questi motivi mi impegno a svolgere i lavori con la massima accuratezza e non dormo sugli allori del diploma di laurea ma dedico molto del mio tempo libero allo studio delle piante.
 
 ## Come lavoro
 
-Sia nel caso del preventivo a **forfait** quanto del compenso a **tariffa oraria** cerco di lavorare **alacremente** e con la massima **pulizia**.
-Inoltre, per quanto possibile cerco di essere **disponibile** e di andare incontro alle esigenze di orario della clientela.
+Propongo soluzioni creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti: **i miei progetti sono originali, belli da vedere e unici** perché risolvono problemi diversi di persone diverse, sono soluzioni che tengono conto del contesto in cui sono inseriti e delle esigenze che ogni cliente ha.
 
-## Attrezzature e Macchinari
+Per la manutenzione del verde **mi avvalgo di macchine moderne ed efficienti**. Decespugliatore, tagliaerba, trattorino ecc. hanno un **motore a quattro tempi** in regola con le nuove normative sull'inquinamento.
+L'inquinamento acustico è un fattore che tengo particolarmente presente quando lavoro nei centri urbani: sono equipaggiato con **attrezzature a batteria**.
 
-Che si tratti di curare un giardino privato, di manutenere un parco e di livellare e fresare un appezzamento di terra incolto ed abbandonato, mi avvalgo di **macchine** moderne ed efficienti. Decespugliatore, tagliaerba e trattorino per lo sfalcio hanno un **motore a quattro tempi** a benzina in regola con le nuove normative sull'inquinamento. Inoltre, dispongo di bio-trituratore per macinare i residui delle potature in maniera ecocompatibile ed eco-sostenibile nel **rispetto dell'ambiente**.
+Dispongo di **biotrituratore** per macinare i residui delle potature, trasformandoli in pacciamatura, in maniera ecocompatibile ed ecosostenibile nel rispetto dell'ambiente.
+
+Per i miei decespugliatori utilizzo un **filo in fibra di mais biodegrabile al 100%** e molto silenzioso.
+
+## Camminiamo insieme
+
+Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino e sarò felice di ascoltare i tuoi desideri e le tue esigenze. Nel frattempo lascia che sia io a guidarti nella
+navigazione del sito.
+
+Potrebbe interessarti rendere più efficiente il tuo vecchio sistema di
+irrigazione, un nuovo impianto di irrigazione, rifare un aiuola, sistemare il prato, debellare
+un infestazione da cimice asiatica e cocciniglia nera oppure qualcos'altro. Scopri tutti i servizi
+disponibili ritornando alla [home page](/ "Home page") oppure direttamente sulla pagina dei [servizi](/servizi-di-giardinaggio/ "i servizi di giardinaggio offerti da il giardiniere potasiepe").
+
+Nella sezione [vivaio](/vivaio/ "nella sezione vivaio trovi i fiori e le piante disponibili") troverai una piccola selezione di fiori e piane che puoi acquistare ma se non trovi quello che stai cercando non esitare a farmelo sapere, quasi sicuramente potrò accontentarti.
+
+Se sei in cerca di consigli, suggerimenti e un piccolo regalo puoi provare con il [blog](/consigli-di-giardinaggio/ "consigli di giardinagio per un giardino e un orto in salute") e il
+[calendario](/calendario-di-giardinaggio/ "calendario dei lavori in orto e giardino").
+
+Se invece desideri conoscere i [prezzi](/prezzi/ "prezzi"), qui puoi scaricare il listino in PDF oppure chiamami senza impegno per un
+
+<br/>
+<div class="text-center">
+  <h2>Preventivo Gratuito</h2>
+  <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+</div>
+<br/><br/>
+
+## Le opinioni dei clienti
+### Il Giardiniere Potasiepe
+Viale Stazione, 28, Cervignano del Friuli UD
+
+<span class="rtng">5,0</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 16 recensioni Google
+
+<hr/>
+
+<img src="/img/user.jpg" class="img-inline" alt="avatar cliente 1" title="avatar cliente"/> **Irma Simona Guarracino**
+- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
+- "Precisissimo, puntuale, veloce, competente! Il lavoro di potatura è stato eseguito benissimo, Enrico ha lasciato il giardino in ordine e ci ha dato tantissimi consigli su come sistemarlo al meglio! Consigliatissimo. Noi sicuramente ci rivolgeremo ancora a lui! Grazie Enrico!"
+
+<img src="/img/user1.jpg" class="img-inline" alt="avatar cliente 2" title="avatar cliente"/> **Xenia Mosetti**
+- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
+- "Dopo una serie di brutte esperienze, finalmente ho trovato un serio professionista.Ho visitato il suo sito, dove è ben chiaro anche un listino prezzi!!! ho chiamato e sono state ricontattata subito!E’ organizzato e puntuale, ma soprattutto molto preparato, su potature, trattamenti, prodotti.....davvero molto bravo!!!!!"
+
+<img src="/img/user2.jpg" class="img-inline" alt="avatar cliente 3" title="avatar cliente"/> **Marco Butelli**
+- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
+- "Persona seria, affidabile e molto scrupolosa nel lavoro. Prezzi più che onesti per il servizio professionale che offre. Lo consiglio vivamente a tutti, basta chiamare e arriva. Top!"
+
+<br/>
+
+<a href="https://www.google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595" aria-label="recensioni Google" target="_blank" rel="noopener"> Visualizza le altre recensioni </a>

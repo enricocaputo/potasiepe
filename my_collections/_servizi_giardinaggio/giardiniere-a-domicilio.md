@@ -46,7 +46,7 @@ Mi muovo in tutta la provincia di **<a href="/giardinaggio-gorizia-giardiniere/"
 ### Il Giardiniere Potasiepe
 Viale Stazione, 28, Cervignano del Friuli UD
 
-<span class="rtng">5,0</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 15 recensioni Google
+<span class="rtng">5,0</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 16 recensioni Google
 
 <hr/>
 
@@ -98,8 +98,8 @@ Viale Stazione, 28, Cervignano del Friuli UD
 {
   "@context": "https://schema.org/",
   "@type": "LocalBusiness",
-  "image": "https://www.giardiniere-potasiepe.fvg.it/img/potasiepe-LOGO-v2-600x539px.png",
-  "name": "Il Giardiniere Potasiepe",
+  "image": "https://www.giardiniere-potasiepe.fvg.it/img/potasiepe-logo-557x500.png",
+  "name": "Il giardiniere Potasiepe",
    "address": {
     "@type": "PostalAddress",
     "streetAddress": "Viale Stazione, 28",
@@ -109,7 +109,7 @@ Viale Stazione, 28, Cervignano del Friuli UD
     "addressCountry": "IT",
     "telephone": "+393889005888"    
   },
-  "description": "Giardiniere Udine e Gorizia",
+  "description": "Il giardiniere a Udine e Gorizia",
   "priceRange": "€18/h",
   "aggregateRating": {
     "@type": "AggregateRating",

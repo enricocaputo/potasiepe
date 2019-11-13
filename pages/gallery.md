@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Fotogallery - Giardiniere"
-excerpt: "Una gallery di immagini e fotografie di lavori in giardini, frutteti e orti compiuti dal giardiniere, esperto di giardinaggio, a Udine, Gorizia, in altri comuni"
+title: Foto Gallery
+excerpt: "Una gallery di fotografie: realizzazione e sistemazione di aree verdi e giardini, impianti di irrigazione e altri interventi svolti da giardiniere Potasiepe"
 permalink: /gallery/
-last_modified_at: 2018-12-29
+last_modified_at: 2019-11-13
 
 images:
   - image_path: /img/gallery/1.jpg
@@ -69,9 +69,9 @@ images:
 
 
 ---
-# Fotogallery - Giardiniere
+# Fotogallery
 
-Una gallery di immagini e fotografie di lavori in giardini, frutteti e orti compiuti dal giardiniere Potasiepe a Udine, Gorizia e in altri comuni delle due province:
+Foto e immagini di alcuni lavori di realizzazione, rinnovo e sistemazione di aree verdi e giardini, impianti di irrigazione e altri interventi svolti da giardiniere Potasiepe.
 
 <div class="list-collection">
 <ul class="photo-gallery">
