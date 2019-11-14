@@ -5,6 +5,7 @@ subtitle: rete metallica, pali in legno o ferro
 title: Recinzione rete metallica Udine
 excerpt: 'Posa in opera di recinzione in rete metallica con pali in legno o ferro, rete plastificata atossica per animali, zincata, elettrosaldata, costo e manodopera.'
 image_path: /img/servizi/recinzione-rete-pali-legno.jpg
+order: 7
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
@@ -41,7 +42,8 @@ aggiunta e sostituzione di pali, cavi, tendi cavi ecc.
 
 <div class="list-collection">
 <ul>
-	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
 

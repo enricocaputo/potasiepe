@@ -5,6 +5,7 @@ subtitle: contratti annuali e manutenzione straordinaria
 title: Manutenzione giardini condominiali a Udine e Gorizia
 excerpt: 'Manutenzione di giardini condominiali a Udine e Gorizia. Chiedici un sopralluogo e un preventivo gratuito per la manutenzione del verde condominiale.'
 image_path: /img/servizi/servizio-manutenzione-verde-condominiale.jpg
+order: 2
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
@@ -28,7 +29,8 @@ Contattaci per **un sopralluogo e un preventivo gratuito** presso il tuo condomi
 
 <div class="list-collection">
 <ul>
-	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
 

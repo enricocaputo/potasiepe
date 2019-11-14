@@ -4,12 +4,12 @@ title: Chi sono
 excerpt: 'Sono un giardiniere professionista:realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità.'
 permalink: /chi-sono/
 sitemap: true
-last_modified_at: 2019-11-13
+last_modified_at: 2019-11-14
 ---
 ![Enrico](/img/enrico.jpg  "Enrico")
 
 <br/>
-Mi chiamo Enrico, di lavoro **mi prendo cura degli spazi verdi**. Quando un cliente mi affida un incarico so di avere due grandi responsabilità: il benessere delle piante e la custodia della proprietà a cui mi è stato dato accesso.
+Mi chiamo Enrico, di lavoro **curo gli spazi verdi**. Quando un cliente mi affida un incarico so di avere due grandi responsabilità: il benessere delle piante e la custodia della proprietà in cui ho accesso.
 
 Non di rado i miei clienti mi confidano brutte esperienze passate con altri giardinieri. Credo fermamente che la serietà e la **puntualità** siano doti indispensabili di un giardiniere professionista tanto quanto la preparazione e la **competenza**. Per questi motivi mi impegno a svolgere i lavori con la massima accuratezza e non dormo sugli allori del diploma di laurea ma dedico molto del mio tempo libero allo studio delle piante.
 
@@ -17,29 +17,24 @@ Non di rado i miei clienti mi confidano brutte esperienze passate con altri giar
 
 Propongo soluzioni creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti: **i miei progetti sono originali, belli da vedere e unici** perché risolvono problemi diversi di persone diverse, sono soluzioni che tengono conto del contesto in cui sono inseriti e delle esigenze che ogni cliente ha.
 
-Per la manutenzione del verde **mi avvalgo di macchine moderne ed efficienti**. Decespugliatore, tagliaerba, trattorino ecc. hanno un **motore a quattro tempi** in regola con le nuove normative sull'inquinamento.
-L'inquinamento acustico è un fattore che tengo particolarmente presente quando lavoro nei centri urbani: sono equipaggiato con **attrezzature a batteria**.
+Per la manutenzione del verde **mi avvalgo di macchine moderne ed efficienti**. Decespugliatore, tagliaerba, trattorino ecc. hanno un **motore a quattro tempi** in regola con le nuove normative sull'inquinamento. Quando lavoro nei centri urbani mi preoccupo anche dell'inquinamento acustico e utilizzo **attrezzature a batteria**.
 
-Dispongo di **biotrituratore** per macinare i residui delle potature, trasformandoli in pacciamatura, in maniera ecocompatibile ed ecosostenibile nel rispetto dell'ambiente.
+Dispongo di **biotrituratore** per macinare i residui delle potature, li trasformo in pacciamatura in maniera ecosostenibile nel rispetto dell'ambiente.
 
 Per i miei decespugliatori utilizzo un **filo in fibra di mais biodegrabile al 100%** e molto silenzioso.
 
 ## Camminiamo insieme
 
-Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino e sarò felice di ascoltare i tuoi desideri e le tue esigenze. Nel frattempo lascia che sia io a guidarti nella
-navigazione del sito.
+Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino e sarò felice di ascoltare i tuoi desideri e le tue esigenze. Nel frattempo lascia che sia io a guidarti nel mio sito web.
 
-Potrebbe interessarti rendere più efficiente il tuo vecchio sistema di
-irrigazione, un nuovo impianto di irrigazione, rifare un aiuola, sistemare il prato, debellare
-un infestazione da cimice asiatica e cocciniglia nera oppure qualcos'altro. Scopri tutti i servizi
+Potrebbe interessarti rendere più efficiente il tuo vecchio sistema di irrigazione, installare un nuovo impianto di irrigazione, rifare un aiuola, sistemare il prato, debellare un'infestazione da cimice asiatica e cocciniglia nera oppure qualcos'altro. Scopri tutti i servizi
 disponibili ritornando alla [home page](/ "Home page") oppure direttamente sulla pagina dei [servizi](/servizi-di-giardinaggio/ "i servizi di giardinaggio offerti da il giardiniere potasiepe").
 
-Nella sezione [vivaio](/vivaio/ "nella sezione vivaio trovi i fiori e le piante disponibili") troverai una piccola selezione di fiori e piane che puoi acquistare ma se non trovi quello che stai cercando non esitare a farmelo sapere, quasi sicuramente potrò accontentarti.
+Nella sezione [vivaio](/vivaio/ "nella sezione vivaio trovi i fiori e le piante disponibili") puoi  acquistare fiori e piante. Se se non trovi quello che stai cercando non esitare a farmelo sapere, quasi sicuramente posso accontentarti.
 
-Se sei in cerca di consigli, suggerimenti e un piccolo regalo puoi provare con il [blog](/consigli-di-giardinaggio/ "consigli di giardinagio per un giardino e un orto in salute") e il
+Se cerchi consigli, suggerimenti e un piccolo regalo puoi provare con il [blog](/consigli-di-giardinaggio/ "consigli di giardinagio per un giardino e un orto in salute") e il
 [calendario](/calendario-di-giardinaggio/ "calendario dei lavori in orto e giardino").
-
-Se invece desideri conoscere i [prezzi](/prezzi/ "prezzi"), qui puoi scaricare il listino in PDF oppure chiamami senza impegno per un
+Infine, se vuoi conoscere i costi visita la pagina [prezzi](/prezzi/ "prezzi") oppure [scrivimi](/contatti/ "contatti") per un sopralluogo gratuito e senza impegno.
 
 <br/>
 <div class="text-center">

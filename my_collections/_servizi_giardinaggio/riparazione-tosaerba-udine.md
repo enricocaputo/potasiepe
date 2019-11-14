@@ -6,6 +6,7 @@ title: Riparazione tosaerba Udine
 excerpt: 'Centro di assistenza per la ripariazione delle principali marche di rasaerba. Messa a punto e manutenzione di tagliaerba con motori Honda e Briggs Stratton.'
 image_path: /img/servizi/servizio-riparazione-tagliaerba.jpg
 last_modified_at: 2018-12-29
+order: 8
 ---
 **POTASIEPE** esegue la **manutenzione ordinaria** e la **riparazione di tagliaerba a scoppio** di tutte le dimensioni e marche (Honda, Ariens, Sandri Garden, McCulloch, Ibea, husqvarna etc.), professionali e non, potrai portare da noi il tuo tagliaerba o prenotare un ritiro direttamente a casa tua o presso la tua sede, e ti sarà restituito come nuovo in pochissimo tempo.
 
@@ -45,7 +46,8 @@ La frequenza degli interventi di manutenzione dipende generalmente dall’utiliz
 
 <div class="list-collection">
 <ul>
-	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
 

@@ -5,6 +5,7 @@ subtitle: progetti accurati e personalizzati
 title: Affidati a Potasiepe per progettare il tuo giardino
 excerpt: 'Categoria: giardinaggio. Servizio: progettazione di giardini. Un giardiniere competente e pronto ad ascoltarti per realizzare l’area verde che hai sempre sognato.'
 image_path: /img/servizi/progettazione-giardini-Udine-Gorizia.jpg
+order: 3
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
@@ -24,7 +25,8 @@ I nostri giardinieri possono realizzare nuovi prati erbosi sia con il fresatura 
 
 <div class="list-collection">
 <ul>
-	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
 

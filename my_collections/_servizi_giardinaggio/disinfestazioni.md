@@ -6,6 +6,7 @@ title: Disinfestazione Zanzare Udine
 excerpt: 'Disinfestazione zanzare Udine. Prodotti efficaci e a basso impatto ambientale contro le zanzare e altri insetti.'
 image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 last_modified_at: 2019-08-04
+order: 6
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
@@ -46,7 +47,8 @@ Gommosi, cocciniglia e mancanza di nutrienti possono essere la causa di uno svil
 
 <div class="list-collection">
 <ul>
-	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
 

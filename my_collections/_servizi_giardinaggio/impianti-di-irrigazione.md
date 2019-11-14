@@ -6,6 +6,7 @@ title: Impianti di irrigazione Udine
 excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione a Udine e Gorizia. Installatore autorizzato TORO – RAIN BIRD – CLABER – HUNTER'
 image_path: /img/servizi/impianto-irrigazione-interrata-udine.jpg
 last_modified_at: 2018-12-29
+order: 4
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
@@ -55,7 +56,8 @@ Contattaci per **un sopralluogo e un preventivo gratuito**
 
 <div class="list-collection">
 <ul>
-	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
 

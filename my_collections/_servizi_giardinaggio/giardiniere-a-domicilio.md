@@ -5,6 +5,7 @@ subtitle: per le province di Udine e Gorizia
 title: Giardiniere a domicilio a Udine e Gorizia
 excerpt: 'Giardiniere a domicilio a Udine e Gorizia. Che si tratti di terrazzo, balcone o giardino Potasiepe ti aiuta a progettare e mantenere il tuo spazio verde.'
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
+order: 1
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
@@ -77,7 +78,8 @@ Viale Stazione, 28, Cervignano del Friuli UD
 
 <div class="list-collection">
 <ul>
-	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
 
