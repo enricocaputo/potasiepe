@@ -5,7 +5,6 @@ subtitle:  TORO&reg; claber&reg; Hunter&reg; Rain Bird&reg;
 title: Impianti di irrigazione Udine
 excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione a Udine e Gorizia. Installatore autorizzato TORO – RAIN BIRD – CLABER – HUNTER'
 image_path: /img/servizi/impianto-irrigazione-interrata-udine.jpg
-last_modified_at: 2018-12-29
 order: 4
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
