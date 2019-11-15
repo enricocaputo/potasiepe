@@ -1,17 +1,15 @@
-.photo-gallery {
-  overflow: hidden;
-  margin-left: -43px;
-  ul {
-    margin: 0 auto;
+ul.photo-gallery {
+  li{
+    padding: 0;
+    margin: 0.9em;
+    max-width: 280px;
+    max-height: 280px;
   }
-  li {
-    list-style-type: none;
-    display: inline;
-    padding: 10px;
-    overflow: hidden;
-    img {
-      width: 280px;
-      height: 280px;
+}
+@media (max-width: 700px) {
+  ul.photo-gallery {
+    li{
+      margin: 2em 0 0 0;
     }
   }
 }

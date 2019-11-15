@@ -34,7 +34,7 @@ p {
 }
 
 ul {
-  list-style: none;
+  list-style-type: none;
 }
 
 .text-center {
@@ -187,6 +187,9 @@ footer {
   h2 {
     font-size: 1.3em;
   }
+  .list-collection ul li {
+    padding: 0;
+      }
 }
 
 @media (min-width: 1280px) {
