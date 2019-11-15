@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Progettazione giardini
-subtitle: progetti accurati e personalizzati
+subtitle: Progetti di giardini e terrazzi
 title: Affidati a Potasiepe per progettare il tuo giardino
 excerpt: 'Categoria: giardinaggio. Servizio: progettazione di giardini. Un giardiniere competente e pronto ad ascoltarti per realizzare l’area verde che hai sempre sognato.'
 image_path: /img/servizi/progettazione-giardini-Udine-Gorizia.jpg

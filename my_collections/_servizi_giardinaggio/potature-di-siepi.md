@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Potatura siepi
-subtitle: la nostra specialità
+subtitle: 'Potare le siepi è la mia specialità'
 title: 'Potatura Siepi professionale a Udine e Gorizia'
 excerpt: 'Categoria: giardinaggio. Servizio: potature e taglio siepe. Chiedi un preventivo gratuito per potatura e taglio siepe a Giardiniere POTASIEPE. Scopri i prezzi.'
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
