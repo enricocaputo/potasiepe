@@ -5,7 +5,7 @@
       {% for column in site.data.footer %}
         <ul class="footer-links">
           <li>
-            <h2>{{ column.title }}</h2>
+            <span class="h2">{{ column.title }}</span>
           </li>
           {% for link in column.links %}
             <li>
@@ -23,11 +23,11 @@
 
       <ul class="footer-links">
         <li>
-          <h2>{{ site.data.company.title }}</h2>
+          <span class="h2">{{ site.data.company.title }}</span>
         </li>
         <li>{{ site.data.company.description }}</li>
         <li>
-          <h3 id="newsletter">ISCRIVITI ALLA NEWSLETTER</h3>
+          <span class="h3" id="newsletter">ISCRIVITI ALLA NEWSLETTER</span>
         </li>
         <li>
           <div role="form">
