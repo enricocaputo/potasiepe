@@ -44,7 +44,7 @@ Infine, se vuoi conoscere i costi visita la pagina [prezzi](/prezzi/ "prezzi") o
 <br/><br/>
 
 ## Le opinioni dei clienti
-### Il Giardiniere Potasiepe
+<p class="h3">Il Giardiniere Potasiepe</p>
 Viale Stazione, 28, Cervignano del Friuli UD
 
 <span class="rtng">5,0</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 16 recensioni Google
