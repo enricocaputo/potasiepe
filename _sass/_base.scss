@@ -43,6 +43,37 @@ h3 {
   line-height: 2;
 }
 
+.hero {
+  position: relative;
+  transform: scale(1.18);
+  text-align: center;
+  margin: 90px 0 50px 0;
+  h2 {
+    font-size: 1.25em;
+    line-height: 1;
+    margin: 0;
+  }
+  p {
+    margin: 12px 0 21px 0;
+    font-size: 0.75em;
+    letter-spacing: 0.75px;
+  }
+  a {
+    padding: 8px;
+    background-color: #000;
+    text-decoration: underline;
+    color: #fff;
+  }
+}
+
+.centered {
+  color: #000;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .text-center {
   text-align: center;
 }
@@ -204,9 +235,18 @@ footer {
   .h2 {
     font-size: 1.5em;
   }
+  .hero {
+    margin: 100px 0 0 0;
+   }
+  .centered {
+    background-color: #e4e4e6;
+    margin-top: 73px;
+    padding: 50px 0 50px 0;
+    position: relative;
+  }
   .list-collection ul li {
     padding: 0;
-      }
+  }
 }
 
 @media (min-width: 1280px) {

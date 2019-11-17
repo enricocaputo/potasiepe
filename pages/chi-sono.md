@@ -4,7 +4,7 @@ title: Chi sono
 excerpt: 'Sono un giardiniere professionista:realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità.'
 permalink: /chi-sono/
 sitemap: true
-last_modified_at: 2019-11-16
+last_modified_at: 2019-11-17
 ---
 ![Enrico](/img/enrico.jpg  "Enrico")
 
@@ -34,6 +34,7 @@ Nella sezione [vivaio](/vivaio/ "nella sezione vivaio trovi i fiori e le piante 
 
 Se cerchi consigli, suggerimenti e un piccolo regalo puoi provare con il [blog](/consigli-di-giardinaggio/ "consigli di giardinagio per un giardino e un orto in salute") e il
 [calendario](/calendario-di-giardinaggio/ "calendario dei lavori in orto e giardino").
+Nel corso degli anni ho svolto un gran numero di progetti di giardini e terrazze, manutenzioni del verde, installazione di impianti di irrigazione, qui trovi una [galleria](/gallery/ "qui trovi una galleria di immagini di alcuni miei progetti di giardini e terrazze") di immagini.
 Infine, se vuoi conoscere i costi visita la pagina [prezzi](/prezzi/ "prezzi") oppure [scrivimi](/contatti/ "contatti") per un sopralluogo gratuito e senza impegno.
 
 <br/>
