@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Riparazione tosaerba Udine
-subtitle: Riparazione tagliaerba
+subtitle: Affilatura e riparazione tagliaerba con ritiro a domicilio.
 title: Riparazione tosaerba Udine
 excerpt: 'Centro di assistenza per la ripariazione delle principali marche di rasaerba. Messa a punto e manutenzione di tagliaerba con motori Honda e Briggs Stratton.'
 image_path: /img/servizi/servizio-riparazione-tagliaerba.jpg
