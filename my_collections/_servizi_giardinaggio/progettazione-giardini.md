@@ -28,18 +28,11 @@ I nostri giardinieri possono realizzare nuovi prati erbosi sia con il fresatura 
   {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
-
-				<div class="name">{{ servizi_giardinaggio.name }}</div>
-
-				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
-
-
-					<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
-
-			</a>
+      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
+			<h3>{{ servizi_giardinaggio.name }}</h3>
+      <p>{{ servizi_giardinaggio.subtitle }}</p>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
 		</li>
 	{% endfor %}
-
 </ul>
 </div>

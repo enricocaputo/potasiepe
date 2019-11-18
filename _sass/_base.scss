@@ -131,25 +131,28 @@ hr {
 
 .list-collection {
   text-align: center;
+  color: #000;
+  h3 {
+    font-size: 1.3em;
+  }
+  p{
+    font-size: 1em;
+  }
   ul {
     padding: 0;
     li {
+      background-image: linear-gradient(#00000075, #fff);
       display: inline-block;
-      padding: 2em;
+      vertical-align: top;
+      margin: 2em;
+      max-width: 400px;
+      text-align: left;
     }
-  }
-  img {
-    margin-top: 1em;
-    margin-bottom: 0.5em;
   }
 }
 
 .name {
   font-size: 1.3rem;
-}
-
-.position {
-  margin-top: 5px;
 }
 
 a {
@@ -241,7 +244,19 @@ footer {
     position: relative;
   }
   .list-collection ul li {
-    padding: 0;
+    margin: 2em 0;
+  }
+
+  .list-collection {
+    h3 {
+      font-size: 1.1em;
+    }
+    p{
+      font-size: 0.95em;
+    }
+    ul li {
+      margin: 2em 0;
+    }
   }
 }
 

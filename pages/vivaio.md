@@ -5,17 +5,15 @@ excerpt: "Visita Potasiepe per trovare una vasta selezione di piante per il giar
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
+<h2 class="text-center">Acquista olivi e topiaria</h2>
 <div class="list-collection">
-<h2>Acquista olivi e topiaria</h2>
 <ul>
 {% for item in site.data.plants.items %}
 <li>
-
-    <h3><span class="name">{{ item.name }}</span></h3>
     <img src="{% include relative-src.html src=item.image %}" alt="{{ item.name }}">
+    <h3>{{ item.name }}</h3>
     <p>{{ item.excerpt }}</p>
     <p><strong>EUR {{ item.price }},00 <em>consegna gratuita</em>.</strong></p>
-
 </li>
 {% endfor %}
 </ul>

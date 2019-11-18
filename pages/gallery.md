@@ -3,7 +3,7 @@ layout: default
 title: Foto Gallery manutenzione giardini
 excerpt: "Nel corso degli anni ho svolto un gran numero di manutenzioni del verde, progetti e installazione di impianti di irrigazione, qui trovi qualche esempio."
 permalink: /gallery/
-last_modified_at: 2019-11-14
+last_modified_at: 2019-11-18
 
 images:
   - image_path: /img/gallery/10.jpg

@@ -2,7 +2,7 @@
 title: Calendario Orto e Giardino
 excerpt: "Calendario dei lavori in orto e giardino 2019: calendario lunare, consigli per semina, trapianto, potatura. Scaricalo gratuitamente in formato PDF"
 permalink: /calendario-di-giardinaggio/
-last_modified_at: 2019-11-09
+last_modified_at: 2019-11-18
 ---
 Il calendario del giardiniere, scritto da un esperto di giardinaggio, è un regalo rivolto a tutti coloro che amano il proprio giardino e che desiderano prendersi cura
 delle piante, degli alberi, del prato, dell'orto e del frutteto.
@@ -35,13 +35,9 @@ ___
 <ul>
 	{% for calendario in site.calendario %}
 		<li>
-			<a href="{{ site.baseurl }}{{ calendario.url }}">
-
-				<h2><span class="name">{{ calendario.title }}</span></h2>
-
-				<img src="{% include relative-src.html src=calendario.image %}" alt="{{ calendario.title }}">
-
-			</a>
+		  <img src="{% include relative-src.html src=calendario.image %}" alt="{{ calendario.title }}">
+			<h2><span class="name">{{ calendario.title }}</span></h2>
+			<a href="{{ site.baseurl }}{{ calendario.url }}"><strong>CONSIGLI</strong> &gt;</a>
 		</li>
 	{% endfor %}
 </ul>

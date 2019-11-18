@@ -36,6 +36,11 @@ Si eseguono interventi di riparazione, rinforzo e rifacimento delle **staccionat
 Sostituzione totale e parziale di vecchie recinzioni in rete metallica e in PVC. Innalzamento della recinzione con
 aggiunta e sostituzione di pali, cavi, tendi cavi ecc.
 
+<br/>
+<div class="text-center">
+  <h2>Preventivo Gratuito</h2>
+  <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+</div>
 <br/><br/>
 
 ## Scopri tutti i servizi offerti da Potasiepe:
@@ -45,18 +50,11 @@ aggiunta e sostituzione di pali, cavi, tendi cavi ecc.
   {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">
-
-				<div class="name">{{ servizi_giardinaggio.name }}</div>
-
-				<img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ person.name }}">
-
-
-					<div class="position">{{ servizi_giardinaggio.subtitle }}</div>
-
-			</a>
+      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
+			<h3>{{ servizi_giardinaggio.name }}</h3>
+      <p>{{ servizi_giardinaggio.subtitle }}</p>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
 		</li>
 	{% endfor %}
-
 </ul>
 </div>
