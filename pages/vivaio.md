@@ -1,11 +1,54 @@
 ---
 layout: page
-title: Vivaio
-excerpt: "Visita Potasiepe per trovare una vasta selezione di piante per il giardino. Scopri il vivaio: olivi, olivi bonsai, arte topiaria, piante da siepe."
+title: VIVAI POTASIEPE
+excerpt: "Potasiepe a Udine e Gorizia vivaista e vendita diretta di piante da giardino, fiori, alberi sempreverdi da giardino e da frutto. Piante sane, nutrite e protette."
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
-<h2 class="text-center">Acquista olivi e topiaria</h2>
+<br/>
+
+Disponiamo di **un'ampia varietà di piante ornamentali e da frutto, alberi giovani e di molti anni, fiori e bulbi**.
+
+Tutte le nostre piante godono di ottima salute, vengono nutrite e protette dalla presenza di infestanti.
+
+<br/>
+
+![Vivai Potasiepe](/img/vivai-potasiepe.jpg "Vivai Potasiepe")
+
+<br/>
+
+Se ti piacciono le **rose** ne abbiamo di ogni colore, grandezza e portamento. Le nostre rose sono facili da coltivare e tutte sono **rifiorenti**: fioriscono a ondate successive da maggio a giugno e fino alle gelate invernali.
+
+Molte sono le varietà e le età dei nostri **alberi da frutto**. La nostra è una selezione di cultivar e di **piante rustiche** ovvero *refrattarie alle malattie* e che *ben si adattano ai vari contesti pedoclimatici*.
+
+I nostri frutti in breve (per ogni specie disponiamo di diverse varietà):
+
+- *ALBICOCCO*
+- *CILIEGIO*
+- *FICO*
+- *KAKO*
+- *MELO*
+- *PERO*
+- *PESCO*
+- *PESCO NOCE*
+- *SUSINO*
+- *CASTAGNO*
+- *GELSO BIANCO*
+- *MANDORLO*
+- *NOCCIOLO*
+- *MELOGRANO*
+- *NESPOLO*
+- *NOCE*
+- *SORBO*
+- *BANANO DEL NORD*
+- *GIUGGIOLO*
+- *KIWI*
+- *VITI DA TAVOLA* (CARDINAL NERA, APIRENE ROSSA, ITALIA BIANCA, ZIBIBBO..)
+
+<br/><br/>
+
+<h2 class="text-center">Olivi e Ars Topiaria</h2>
+
 <div class="list-collection">
 <ul>
 {% for item in site.data.plants.items %}
