@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VIVAI POTASIEPE
-excerpt: "Potasiepe a Udine e Gorizia vivaista e vendita diretta di piante da giardino, fiori, alberi sempreverdi da giardino e da frutto. Piante sane, nutrite e protette."
+excerpt: "Potasiepe a Udine e Gorizia vivaista e vendita diretta di piante da giardino, fiori, alberi sempreverdi da giardino e da frutto. Piante sane, nutrite e protette"
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
