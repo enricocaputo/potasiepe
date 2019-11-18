@@ -2,6 +2,7 @@
 layout: page
 title: Vivaio
 excerpt: "Visita Potasiepe per trovare una vasta selezione di piante per il giardino. Scopri il vivaio: olivi, olivi bonsai, arte topiaria, piante da siepe."
+image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
 <div class="list-collection">

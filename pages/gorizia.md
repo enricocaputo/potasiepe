@@ -2,6 +2,7 @@
 layout: page
 title: Giardiniere a Gorizia
 excerpt: Giardiniere a Gorizia, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutta la Provincia.
+image: /img/gorizia.jpg
 permalink: /gorizia/
 last_modified_at: 2018-12-29
 ---

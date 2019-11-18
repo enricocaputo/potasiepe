@@ -2,6 +2,7 @@
 layout: page
 title: Chi sono
 excerpt: 'Sono un giardiniere professionista:realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità.'
+image: /img/enrico.jpg
 permalink: /chi-sono/
 sitemap: true
 last_modified_at: 2019-11-17

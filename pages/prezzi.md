@@ -2,6 +2,7 @@
 layout: page
 title: Prezzi Economici ed Onesti
 excerpt: "Listino POTASIEPE: costo orario, costo al metro, a forfait, prezzi economici ed onesti di un giardiniere specializzato in pulizia giardini, potatura siepe, taglio erba .."
+image: /img/potasiepe.jpg
 permalink: /prezzi/
 last_modified_at: 2018-12-29
 ---
