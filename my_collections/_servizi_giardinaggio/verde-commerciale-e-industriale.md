@@ -44,7 +44,7 @@ Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiep
 
 <br/>
 <div class="text-center">
-  <h2>CHIAMA ORA</h2>
+  <p class="h3">PREVENTIVO GRATUITO</p>
   <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 
