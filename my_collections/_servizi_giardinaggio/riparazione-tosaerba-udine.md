@@ -36,7 +36,7 @@ La frequenza degli interventi di manutenzione dipende generalmente dall’utiliz
 
 <br/>
 <div class="text-center">
-  <h2>Prenota Adesso</h2>
+  <p class="h3">PRENOTA ADESSO</p>
   <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 <br/><br/>

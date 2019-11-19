@@ -37,7 +37,7 @@ Gommosi, cocciniglia e mancanza di nutrienti possono essere la causa di uno svil
 
 <br/>
 <div class="text-center">
-  <h2>Preventivo Gratuito</h2>
+  <p class="h3">PREVENTIVO GRATUITO</p>
   <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 <br/><br/>
