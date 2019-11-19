@@ -3,6 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {% seo %}
+  {% if page.layout == 'page' %}
+  <script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","image":"https://www.giardiniere-potasiepe.fvg.it/img/potasiepe.jpg","name":"Giardiniere Potasiepe","address":{"@type":"PostalAddress","streetAddress":"Viale Stazione, 28","postalCode":"33052","addressLocality":"Cervignano del Friuli","addressRegion":"UD","addressCountry":"IT"},"telephone":"+393889005888","email":"giardiniere@potasiepe.com","openingHours":"Lu-Sa 8:00 - 17:00","priceRange":"€18/h","aggregateRating":{"@type":"AggregateRating","ratingValue":"5","bestRating":"5","ratingCount":"16"}}</script>
+  {% elsif page.layout == 'default' %}
+  <script type="application/ld+json">{"@context":"https://schema.org/","@type":"Organization","image":"https://www.giardiniere-potasiepe.fvg.it/img/potasiepe.jpg","name":"Potasiepe","telephone":"+393889005888","email":"giardiniere@potasiepe.com","address":{"@type":"PostalAddress","streetAddress":"Viale Stazione, 28","postalCode":"33052","addressLocality":"Cervignano del Friuli","addressRegion":"UD","addressCountry":"IT"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","bestRating":"5","ratingCount":"16"}}</script>
+  {% else %}
+  {% endif %}
   {% if page.url contains '/consigli-di-giardinaggio/' and page.layout == 'post' %}
   <link rel="amphtml" href="{{ page.url | replace:'/consigli-di-giardinaggio/','/amp/' | prepend: site.url }}" />
   {% endif %}
