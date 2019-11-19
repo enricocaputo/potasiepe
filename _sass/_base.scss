@@ -141,7 +141,7 @@ hr {
   ul {
     padding: 0;
     li {
-      background-image: linear-gradient(#00000075, #fff);
+      background-image: linear-gradient(#00000064, #fff);
       display: inline-block;
       vertical-align: top;
       margin: 2em;
@@ -243,16 +243,9 @@ footer {
     padding: 50px 0 50px 0;
     position: relative;
   }
-  .list-collection ul li {
-    margin: 2em 0;
-  }
-
   .list-collection {
     h3 {
       font-size: 1.1em;
-    }
-    p{
-      font-size: 0.95em;
     }
     ul li {
       margin: 2em 0;
