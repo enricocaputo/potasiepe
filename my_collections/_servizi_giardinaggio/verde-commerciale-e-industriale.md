@@ -18,15 +18,15 @@ order: 2
 <br/><br/>
 **La forza dell'esperienza al tuo servizio**. Giardiniere Potasiepe vanta un'esperienza pluriennale testimoniata da centinaia di opere a verde, manutenzione di parchi e installazioni di impianti di irrigazione.
 
-**La cura della vegetazione è un importante biglietto da visita**. Un piazzale pulito e ben curato, un'area esterna prestigiosa rappresentano la prima buona impressione che voi potete offrire ai vostri clienti e dipendenti. Studi scientifici hanno rivelato che la presenza di alberi e piante ha un legame forte con il benessere personale. Quindi **la presenza e la cura del verde testimoniano la vostra sensibilità per il benessere dei lavoratori, mettono a loro agio i clienti e aumentano la reputazione della vostra azienda**.
+**La cura della vegetazione è un importante biglietto da visita**. Un piazzale pulito e ben curato, un'area esterna prestigiosa rappresentano la prima buona impressione che potete offrire ai vostri clienti e dipendenti. Studi scientifici hanno rivelato che la presenza di alberi e piante ha un legame forte con il benessere personale. **La presenza e la cura del verde testimoniano la vostra sensibilità per il benessere dei lavoratori, mettono a loro agio i vostri clienti e aumentano la reputazione della vostra azienda**.
 
 ## Che cosa offriamo
 
 Ci occupiamo della **pulizia dei piazzali** e della **manutenzione delle aree verdi di hotel, ristoranti, negozi e stabilimenti industriali**.
 
-Il nostro ufficio tecnico è a tua disposizione per proporti **soluzioni progettuali funzionali, creative e belle da vedere**.
+Il nostro ufficio tecnico è a vostra disposizione per proporvi **soluzioni progettuali funzionali, creative e belle da vedere**.
 
-Se hai già deciso il progetto assieme al tuo architetto di fiducia puoi affidarcene la realizzazione.
+Se avete già affidato la parte progettuale ad un architetto saremo lieti di occuparci della realizzazione pratica.
 
 **[Una gran varietà di alberi e piante](/vivaio/ "Scopri i Vivai Potasiepe")**, tutte forti, sane, ben nutrite e adeguatamente protette dalle infestanti.
 
