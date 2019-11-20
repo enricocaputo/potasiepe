@@ -32,7 +32,7 @@ last_modified_at: 2019-11-18
 
 ## <img src="{{ site.baseurl }}/img/icon-pdf.svg" style="display:inline"> [**LISTINO PREZZI IN DETAGLIO**](/download/prezzi-potasiepe-2018.pdf)
 
-Se trovi difficile calcolare il prezzo al metro oppure se preferisci stabilire un **prezzo a forfait** non esitare a contattarmi.
+Se trovi difficile calcolare il prezzo al metro oppure se preferisci stabilire un **prezzo a forfait** non esitare a [contattarmi](/contatti/ "Richiedi maggiori informazioni").
 
 
 <br/>
