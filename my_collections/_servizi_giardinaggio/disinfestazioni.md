@@ -19,7 +19,7 @@ Hai problemi di **zanzare**? **Scarafaggi** e **formiche** hanno preso d'assalto
 
 Per eseguire una corretta disinfestazione anti-larvale del giardino è necessario esaminare con attenzione l’area oggetto dell’intervento, registrando la presenza di tutti i siti di ristagno dell’acqua, ovvero i potenziali focolai di sviluppo larvale. In questi luoghi l’esecuzione di specifici campionamenti farà capire quando iniziare gli interventi anti-larvali, con che cadenza ripeterli e quali sono i livelli di controllo ottenibili.
 
-## Disinfestazione contro la cimice verde
+## Disinfestazione contro la cimice verde asiatica
 
 Negli ultimi anni abbiamo subito una vera e propria invasione da parte della cimice verde asiatica.
 
@@ -33,7 +33,7 @@ Cocciniglia, afidi, funghi e parassiti potrebbero aver attaccato le piante e gli
 
 ## Trattamenti del frutteto
 
-Gommosi, cocciniglia e mancanza di nutrienti possono essere la causa di uno sviluppo lento, di ingiallimento, di fogliame malato. Anche in questo caso con la nebulizzazione della poltiglia adatta e con alcune pennellate di olio bianco minerale si ottiene gli alberi ritornano sani.
+Gommosi, cocciniglia e mancanza di nutrienti possono essere la causa di uno sviluppo lento, di ingiallimento, di fogliame malato. Anche in questo caso la nebulizzazione di prodotti specifici e alcune pennellate di olio bianco minerale restituiranno benessere e salute alla vegetazione.
 
 <br/>
 <div class="text-center">

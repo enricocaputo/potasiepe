@@ -4,21 +4,20 @@ title: Giardinaggio in provincia di Udine
 excerpt: 'Impresa di giardinaggio a Udine, progettazione giardini e aiuole, manutenzione programmata delle aree a verde aziendale, sistemazione giardini privati e potatura siepe.'
 image: /img/udine.jpg
 permalink: /giardinaggio-udine/
-last_modified_at: 2019-11-18
+last_modified_at: 2019-11-20
 ---
 <img src="/img/udine.jpg" alt="Giardiniere a Udine per tutti i lavori di giardinaggio di cui hai bisogno" title="Giardiniere a Udine per tutti i lavori di giardinaggio di cui hai bisogno">
 
 Offro i miei servizi di giardinaggio a Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana, Manzano, Palmanova, San Giovanni al Natisone e in tutti i comuni della Provincia.
 
 ## La mia specialità è tagliare le siepi e curare i giardini
-Chi sono? Uno che fin da bambino amava i fiori e le piante!
-
+Chi sono? Uno che fin da bambino amava i fiori e le piante!<br/>
 Sono un giardiniere professionista e qualificato al vostro servizio.
 
-Progetto giardini, realizzo aiuole, poso impianti di irrigazione interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
+[Progetto giardini](/servizi-di-giardinaggio/progettazione-giardini/ "Affida a Potasiepe il progetto del tuo giardino"), realizzo aiuole, poso [impianti di irrigazione](/servizi-di-giardinaggio/impianti-di-irrigazione/ "Ottieni un impianto di irrigazione a regola d'arte") interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
 
 ## Come lavoro:
-Sia che stabiliamo un prezzo forfettario sia che decidiamo per un compenso orario e a metro, cerco di lavorare alacremente, con precisione, rapidamente e con la massima pulizia.
+Sia che stabiliamo un [prezzo](/prezzi/ "Scopri i prezzi di giardiniere Potasiepe") forfettario sia che decidiamo per un compenso orario e a metro, cerco di lavorare alacremente, con precisione, rapidamente e con la massima pulizia.
 Cerco di essere sempre reperibile e, impegni precedenti permettendo, cerco di soddisfare le esigenze di orario dei miei clienti. **Offro supporto e consulenza continui nel tempo**.
 
 ## Quali attrezzature utilizzo:
@@ -29,9 +28,7 @@ Che si tratti di curare un giardino privato, di manutenere un parco e di livella
 
 
 ## Perchè scegliermi?
-Ho <a href="/prezzi/" title="Quanto costa il giardiniere? Quanto costa tagliare la siepe? Scopri il prezzo che ti interessa, scarica il listino prezzi">prezzi onesti</a>.
-Lavoro con competenza di giardinaggio. Sono un giardiniere professionista e offro una gamma di
-servizi di giardinaggio a Udine a 360 gradi:
+Ho **prezzi onesti**. Lavoro con **competenza di giardinaggio**. Sono un giardiniere professionista e offro **una gamma di [servizi di giardinaggio](/servizi-di-giardinaggio/ "Scopri i servizi di giardinaggio di giardiniere Potasiepe") a Udine a 360 gradi**:
 
 <div class="page-content">
 <div class="list-collection">

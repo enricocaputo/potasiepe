@@ -11,7 +11,7 @@ order: 5
 
 ## Giardinaggio: Potature e Taglio Siepe
 
-Le siepi ben curate possono essere il tocco di eleganza che rende speciale ogni giardino. Siepi fuori sagoma e poco curate, invece danno a qualsiasi giardino un'aria di disordine e abbandono e rende difficile godersi il proprio spazio verde.
+Le siepi ben curate possono essere il tocco di eleganza che rende speciale ogni giardino. Siepi fuori sagoma e poco curate, invece, danno a qualsiasi giardino un'aria di disordine e abbandono e rendono difficile godersi il proprio spazio verde.
 
 La potatura delle siepi effettuata da giardiniere PotaSiepe è un lavoro accurato. Il servizio di potature di siepi è pensato appositamente per chi vuole mantenere in perfetta forma il proprio giardino con interventi regolari di potatura della siepe a [costi accessibili](/prezzi/) e con qualità professionale. La potatura siepi da parte del giardiniere PotaSiepe è particolarmente indicata anche nei casi in cui un danno accidentale a una siepe renda necessario un nuovo taglio per rimetterla in forma.
 

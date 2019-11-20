@@ -9,7 +9,7 @@ order: 4
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
-## Progettazione, installazione, manutenzione di impianti di irrigazione interrata
+## Progetti, installazione e manutenzione di impianti di irrigazione interrata
 
 Un valido impianto di irrigazione è determinante per ottenere **un prato folto** e rigoglioso e consente di **risparmiare acqua** e manutenzioni.
 

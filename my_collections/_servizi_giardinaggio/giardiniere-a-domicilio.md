@@ -33,12 +33,12 @@ L'esecuzione dei lavori, a seconda dei casi, può avere un **costo a metro, a or
 
 ## Giardiniere a Udine
 
-Lavoro come giardiniere a **<a href="/giardinaggio-udine-giardiniere/" title="giardiniere a Udine per taglio siepe e lavori di giardinaggio, massima serietà e costo onesto">Udine</a> e provincia** in un raggio di 40 Km da Cervignano del Friuli. Sono felice di aver lavorato in diversi giardini di questi comuni: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, Latisana, Lignano, Manzano, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone e Tavagnacco.
+Lavoro come giardiniere a **[Udine](/giardinaggio-udine/ "giardiniere a Udine per taglio siepe e lavori di giardinaggio, massima serietà e costo onesto") e provincia** in un raggio di 40 Km da Cervignano del Friuli. Sono felice di aver lavorato in diversi giardini di questi comuni: Aquileia, Campoformido, Cividale, Codroipo, Fagagna, Latisana, Lignano, Manzano, Mortegliano, Palmanova, Palazzolo, Remanzacco, San Giovanni al Natisone e Tavagnacco.
 
 
 ## Giardiniere a Gorizia
 
-Mi muovo in tutta la provincia di **<a href="/giardinaggio-gorizia-giardiniere/" title="giardiniere a Gorizia per potatura siepe e alberi e lavori di giardinaggio, massima serietà e costo onesto">Gorizia</a> e provincia**. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone, Romans d'Isonzo, Ronchi dei Legionari ecc.
+Mi muovo in tutta la provincia di **[Gorizia](/giardinaggio-gorizia/ "giardiniere a Gorizia per potatura siepe e alberi e lavori di giardinaggio, massima serietà e costo onesto") e provincia**. Ho lavorato a Capriva, Cormos, Gradisca d'Isonzo, Grado, Monfalcone, Romans d'Isonzo, Ronchi dei Legionari ecc.
 
 <br/><br/>
 
