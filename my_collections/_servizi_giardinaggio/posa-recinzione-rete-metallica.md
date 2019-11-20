@@ -12,7 +12,7 @@ order: 7
 Potasiepe si occupa della realizzazione di **staccionate in legno** e recinzioni con **rete elettrosaldata** e a  **maglia sciolta**, rete **plastificata atossica per animali**, rete **zincata** e recinzioni **in pvc**.
 
 **[Prezzi onesti e trasparenti](/prezzi/ "prezzi economici e onesti")**: costo del materiale più manodopera.
-Vengono servite le province di **[Udine](/giardinaggio-udine-giardiniere/ "Potasiepe è giardiniere a Udine")** e **[Gorizia](/giardinaggio-gorizia-giardiniere/ "Potasiepe è giardiniere a Gorizia")**.
+Vengono servite le province di **[Udine](/giardinaggio-udine/ "Potasiepe è giardiniere a Udine")** e **[Gorizia](/gorizia/ "Potasiepe è giardiniere a Gorizia")**.
 
 Affidarti a noi significa scegliere qualità e professionalità. Ci occupiamo della tua richiesta in modo rapido e soddisfacente. Ci occupiamo della tua recinzione chiavi in mano, con cura e passione.
 
