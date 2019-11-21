@@ -39,10 +39,12 @@ Ho **prezzi onesti**. Lavoro con **competenza di giardinaggio**. Sono un giardin
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-			<h3>{{ servizi_giardinaggio.name }}</h3>
+      <div>
+      <h3>{{ servizi_giardinaggio.name }}</h3>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-		</li>
+      </div>
+    </li>
 	{% endfor %}
 </ul>
 </div>

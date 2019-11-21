@@ -58,11 +58,12 @@ h3 {
     font-size: 0.75em;
     letter-spacing: 0.75px;
   }
-  a {
-    padding: 8px;
+  a {  
     background-color: #000;
-    text-decoration: underline;
     color: #fff;
+    text-decoration: underline;
+    padding: 8px;
+    box-shadow: 0px 4px 6px -1px rgba(0,0,0,0.3);
   }
 }
 
@@ -132,21 +133,27 @@ hr {
 .list-collection {
   text-align: center;
   color: #000;
+  div {
+    margin-left: 4px;
+  }
   h3 {
     margin-bottom: 0;
   }
-  p{
+  p {
     font-size: 1em;
   }
   ul {
     padding: 0;
     li {
-      background-image: linear-gradient(#00000064, #fff);
+      background: #fdfdfd;
       display: inline-block;
       vertical-align: top;
+      text-align: left;
       margin: 2em;
       max-width: 400px;
-      text-align: left;
+      border-radius: 3px;
+      padding-bottom: 20px;
+      box-shadow: 0 1px 1px 0 rgba(60,64,67,.08),0 1px 3px 1px rgba(60,64,67,.16);
     }
   }
 }
@@ -185,7 +192,7 @@ a {
   background-color: $theme-action;
   border: none;
   border-radius: 5px;
-  box-shadow: 0px 17px 10px -10px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 4px 6px -1px rgba(0,0,0,0.3);
   &:hover {
     background-color: $theme;
     color: $text-theme-hover;

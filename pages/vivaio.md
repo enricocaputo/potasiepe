@@ -54,9 +54,11 @@ I nostri frutti in breve (per ogni specie disponiamo di diverse varietà):
 {% for item in site.data.plants.items %}
 <li>
     <img src="{% include relative-src.html src=item.image %}" alt="{{ item.name }}">
+    <div>
     <h3>{{ item.name }}</h3>
     <p>{{ item.excerpt }}</p>
     <p><strong>EUR {{ item.price }},00 <em>consegna gratuita</em>.</strong></p>
+    </div>
 </li>
 {% endfor %}
 </ul>

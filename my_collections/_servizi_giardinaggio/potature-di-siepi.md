@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Potatura siepi
-subtitle: 'Potare le siepi è la nostra specialità!'
+subtitle: 'Potare le siepi è la nostra specialità. Più accurato non si può!'
 title: 'Potatura Siepi professionale a Udine e Gorizia'
 excerpt: 'Categoria: giardinaggio. Servizio: potature e taglio siepe. Chiedi un preventivo gratuito per potatura e taglio siepe a Giardiniere POTASIEPE. Scopri i prezzi.'
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
@@ -38,10 +38,12 @@ Se invece preferisci prenotare al telefono chiama il numero **388 9005888** per 
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-			<h3>{{ servizi_giardinaggio.name }}</h3>
+      <div>
+      <h3>{{ servizi_giardinaggio.name }}</h3>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-		</li>
+      </div>
+    </li>
 	{% endfor %}
 </ul>
 </div>

@@ -7,13 +7,15 @@ last_modified_at: 2019-11-18
 ---
 <h2>Calendario di Giardinaggio 2019</h2>
 <div class="list-collection">
-  <a href="/contatti/" title="prenota il calendario da parete dei lavori in giardino 2019">
   <img src="/img/posts/calendario-di-giardinaggio.png" alt="calendario di giardinaggio 2019">
-  <h3>CALENDARIO LAVORI IN GIARDINO E NELL'ORTO 2019 BY POTASIEPE</h3>
-  <p><strong>EUR 14,00</strong> - PRODOTTO COME DA FOTO CALENDARIO DA PARETE MISURE 30 X 21 CM
-     <br/>
-     <strong>PRENOTALO</strong>, ti verrà recapitato entro 3 giorni.</p>
-  </a>
+  <div>
+    <h3>CALENDARIO LAVORI IN GIARDINO E NELL'ORTO 2019 BY POTASIEPE</h3>
+    <p><strong>EUR 14,00</strong> - PRODOTTO COME DA FOTO CALENDARIO DA PARETE MISURE 30 X 21 CM</p>
+    <br/>
+    <a href="/contatti/" title="Acquista il calendario da parete dei lavori in giardino 2019">
+    <strong>PRENOTALO</strong>, ti verrà recapitato entro 3 giorni. &gt;
+    </a>
+  </div>
 </div>
 
 <br/><br/>
@@ -23,11 +25,12 @@ last_modified_at: 2019-11-18
 <ul>
 {% for tagliaerba_rasaerba in site.tagliaerba_rasaerba %}
 	<li>
-		<a href="{{ site.baseurl }}{{ tagliaerba_rasaerba.url }}">
+    <div>
 			<img src="{% include relative-src.html src=tagliaerba_rasaerba.image_path %}" alt="{{ person.name }}">
       <h3>{{ tagliaerba_rasaerba.name }}</h3>
       <p>{{ tagliaerba_rasaerba.subtitle }}</p>
-		</a>
+		  <a href="{{ site.baseurl }}{{ tagliaerba_rasaerba.url }}" title="Acqusita tagliaerba"><strong>SCOPRI<strong> &gt;</a>
+    </div>
 	</li>
 {% endfor %}
 </ul>
