@@ -6,16 +6,17 @@ title: Impianti di irrigazione Udine
 excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione a Udine e Gorizia. Installatore autorizzato TORO – RAIN BIRD – CLABER – HUNTER'
 image_path: /img/servizi/impianto-irrigazione-interrata-udine.jpg
 order: 4
+last_modified_at: 2019-11-25
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
+Un valido impianto di irrigazione è determinante per ottenere un **prato folto e rigoglioso**. Inoltre, consente un notevole **risparmio idrico** e ha bisogno di poca manutenzione.
+
+Giardiniere Potasiepe è **installatore autorizzato** delle migliori marche del settore: **CLABER, HUNTER, RAIN BIRD e TORO.**
+
 ## Progetti, installazione e manutenzione di impianti di irrigazione interrata
 
-Un valido impianto di irrigazione è determinante per ottenere **un prato folto** e rigoglioso e consente di **risparmiare acqua** e manutenzioni.
-
 ![impianti-di-irrigazione-udine](/img/progettazione-impianti-irrigazione-udine.jpg  "progettazione, installazione di impianti di irrigazione a Udine e Gorizia")
-
-**Installatore autorizzato** delle migliori marche del settore: **CLABER, HUNTER, RAIN BIRD e TORO.**
 
 Grazie all'installazione di impianti di irrigazione progettati da un professionista potrai evitare i più comuni problemi: un sistema mal bilanciato non permette all'acqua di raggiungere l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
 
@@ -29,18 +30,18 @@ L’irrigazione fuoriterra è il modo più semplice di annaffiare le piante ed i
 
 E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qualità, per ottenere un’irrigazione veramente efficace. Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto.
 
-**Installatore autorizzato** di impianti di irrigazione fuoriterra **Claber, Irritec, Toro, Rain Bird, Hunter.**
+**Installatore autorizzato** di impianti di irrigazione fuoriterra **Claber**.
 
 ## La manutenzione
 
 *Giardiniere Potasiepe*, specializzato nell'installazione degli impianti di irrigazione e della loro manutenzione, garantisce l'esecuzione della seguente manutenzione:
 
-- Ispezione del programmatore per accertarsi che sia collegato e funzionante
-- Aggiornamento di ora e data e impostazione dei tempi di funzionamento
-- Controllo della connessione di tutte le componenti (sensori di pioggia)
-- Sostituzione della batteria tampone
-- Modifica del programma in base all’andamento climatico e le esigenze di irrigazione del paesaggio
-- Attivazione di ogni zona e ricerca eventuali danni al sistema.
+- &#10004; Ispezione del programmatore per accertarsi che sia collegato e funzionante
+- &#10004; Aggiornamento di ora e data e impostazione dei tempi di funzionamento
+- &#10004; Controllo della connessione di tutte le componenti (sensori di pioggia)
+- &#10004; Sostituzione della batteria tampone
+- &#10004; Modifica del programma in base all’andamento climatico e le esigenze di irrigazione del paesaggio
+- &#10004; Attivazione di ogni zona e ricerca eventuali danni al sistema.
 
 Contattaci per **un sopralluogo e un preventivo gratuito**
 
