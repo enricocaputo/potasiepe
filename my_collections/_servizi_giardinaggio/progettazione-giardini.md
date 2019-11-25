@@ -6,13 +6,29 @@ title: Affidati a Potasiepe per progettare il tuo giardino
 excerpt: 'Categoria: giardinaggio. Servizio: progettazione di giardini. Un giardiniere competente e pronto ad ascoltarti per realizzare l’area verde che hai sempre sognato.'
 image_path: /img/servizi/progettazione-giardini-Udine-Gorizia.jpg
 order: 3
+last_modified_at: 2019-11-25
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
 ## Servizio di giardinaggio: Progettazione giardini
 
 Potasiepe è un giardiniere competente e pronto ad ascoltarti per realizzare l’area verde che hai sempre sognato, così da valorizzare gli spazi esterni della tua villa e trasformare il tuo giardino in un angolo di natura che rappresenti il più possibile la tua personalità e le tue esigenze.
-I nostri giardinieri possono realizzare nuovi prati erbosi sia con il fresatura del terreno e la semina tradizionale che con la posa di prato a rotoli. Il risultato è lo stesso: un giardino bello da vedere e su misura per ogni tua necessità.
+
+>> ### "Come il giardino in cui s’iscrive, il progetto è un’opera in fieri, aperta, ferma nelle intenzioni, anche se variabile nei dettagli."
+>
+>> -- <cite> Tatiana Bilbao </cite>
+
+A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
+
+Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino ti proporrò una lista di piante tra cui scegliere.
+
+Infine, grazie a tutti questi dati sarò in grado di preparare il **computo metrico** e il **preventivo dettagliato**.
+
+>> ### "Bisogna accettare che il ruolo del giardiniere è di pari dignità a quello dell'architetto."
+>
+>> -- <cite> Brian Eno </cite>
+
+Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e a rotoli (posa di zolle già pronte). Il risultato è sempre lo stesso: un giardino bello da vedere e su misura per ogni tua necessità.
 
 <br/>
 <div class="text-center">

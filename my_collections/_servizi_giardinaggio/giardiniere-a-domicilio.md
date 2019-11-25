@@ -6,6 +6,7 @@ title: Giardiniere a domicilio a Udine e Gorizia
 excerpt: 'Giardiniere a domicilio a Udine e Gorizia. Che si tratti di terrazzo, balcone o giardino Potasiepe ti aiuta a progettare e mantenere il tuo spazio verde.'
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 order: 1
+last_modified_at: 2019-11-25
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
@@ -24,7 +25,7 @@ il **patentino ERSA**.
 ## Come funziona
 
 Se hai bisogno dell’aiuto di un giardiniere per i tuoi spazi verdi chiamami o scrivimi, **dimmi dei tuoi progetti** per sistemare le tue piante, il giardino, l'orto. Una volta capite le tue esigenze fisseremo l’appuntamento per un **sopralluogo** dove insieme decideremo il da farsi e programmeremo un **calendario dei lavori**.
-Non dovrai pensare a nulla perché dispongo di tutte le più **moderne attrezzature** del mestiere e se si tratta di scegliere nuove piante **posso accompagnarti negli acquisti** presso il tuo vivaio di fiducia ed eventualmente **incaricarmi del trasporto**.
+Non dovrai pensare a nulla perché dispongo di tutte le più **moderne attrezzature** del mestiere e se si tratta di **scegliere nuove piante** posso procurartene di molto robuste e sane a prezzi davvero convenienti.
 
 ## Quanto costa
 
