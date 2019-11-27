@@ -2,36 +2,63 @@
 layout: page
 name: Potatura siepi
 subtitle: 'Potare le siepi è la nostra specialità: più accurato non si può!'
-title: 'Potatura Siepi professionale a Udine e Gorizia'
-excerpt: 'Categoria: giardinaggio. Servizio: potature e taglio siepe. Chiedi un preventivo gratuito per potatura e taglio siepe a Giardiniere POTASIEPE. Scopri i prezzi.'
+title: 'La potatura di siepi è la nostra specialità!'
+excerpt: 'Il Giardiniere Potasiepe è specializzato in potatura di siepi a Udine e Gorizia: taglio accurato, esperienza, puntualità, prezzi onesti e preventivo gratuito.'
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
 order: 5
-last_modified_at: 2019-11-25
+last_modified_at: 2019-11-28T23:23
 ---
-<img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
+![Potatura di siepi a Udine e Gorizia](/img/servizi/potatura-di-siepi-udine-gorizia.jpg "Potatura di siepi a Udine e Gorizia")
 
-## Giardinaggio: Potature e Taglio Siepe
+Effettuiamo **potature di [qualunque genere di siepe](/consigli-di-giardinaggio/siepe-quale-scegliere "Quale siepe scegliere")**: Agazzino, Alloro, Bosso, Lauroceraso, Photinia, Tasso, Viburno ecc.
 
-Le siepi ben curate possono essere il tocco di eleganza che rende speciale ogni giardino. Siepi fuori sagoma e poco curate, invece, danno a qualsiasi giardino un'aria di disordine e abbandono e rendono difficile godersi il proprio spazio verde.
+Potatura di mantenimento, potatura di siepi formale, potatura di siepi informale, potatura di siepi ad arco, potatura di arbusti su più livelli, potatura a schermo, potatura di ringiovanimento.
 
-La potatura delle siepi effettuata da giardiniere PotaSiepe è un lavoro accurato. Il servizio di potature di siepi è pensato appositamente per chi vuole mantenere in perfetta forma il proprio giardino con interventi regolari di potatura della siepe a [costi accessibili](/prezzi/) e con qualità professionale. La potatura siepi da parte del giardiniere PotaSiepe è particolarmente indicata anche nei casi in cui un danno accidentale a una siepe renda necessario un nuovo taglio per rimetterla in forma.
+Potatura artistica di singoli esemplari: potatura a spirale, potatura sferica a palla, topiaria pom poms.
 
-Per qualunque tipo di siepe, dalle più comuni e tradizionali siepi di lauro ai raffinati oleandri, i nostri giardinieri saranno in grado di portare a termine il taglio della siepe con una resa estetica eccellente e nel pieno rispetto della salute delle piante.
+## Più accurato non si può
 
-![lauro-e-altre-varieta](/img/prima-e-dopo-la-potatura.jpg  "confronto prima e dopo una potatura accurata della siepe")
+**Accuratezza del taglio** - Ti faresti operare da un chirurgo che usa un bisturi sporco di sangue infetto? Beh, non credo proprio! Pretendi la stessa cautela per la tua siepe. <br/>
+La potatura della siepe deve essere accurata, il taglio preciso e netto, le lame ben affilate e disinfettate. Lo sapevi che la linfa di alcune piante è tossica per altre specie? Dopo aver potato un oleandro non si dovrebbe toccare un bosso senza aver prima disinfettato le lame delle cesoie troncarami e del tagliasiepe. Se una siepe è malata e non si disinfettano le lame è probabile che le avversità si propaghino da un giardino all'altro.
 
-Prenotare il servizio è molto semplice: vai alla pagina [contatti](/contatti/), configura il servizio, indica la data e l'ora che preferisci per l'intervento e invia il modulo di contatto.
+**Accuratezza della forma** – Garantiamo la precisione di misure, altezze e sporgenze tanto della più comune potatura di siepi con linee squadrate quanto dei tagli ad arco ed informali.
 
-Se invece preferisci prenotare al telefono chiama il numero **388 9005888** per avere tutte le informazioni che desideri e prenotare un eventuale sopralluogo per un preventivo gratuito e senza impegno.
+**Accuratezza nella composizione** – Se una o più piante delle tua siepe si sono seccate disponiamo di un [vivaio](/vivaio/ "Visita i Vivai Potasiepe") con un’ampia varietà di piante da siepe di ogni famiglia, specie e varietà.
+
+**Accuratezza nel metodo** – Le nostre potature di siepi usano un metodo particolare e un procedere metodico frutto di studio, esperienza e confronto con altri maestri giardinieri e con case costruttrici di attrezzi tagliasiepe.
+
+**Accuratezza nella pulizia** – La pulizia sotto la siepe è importante per evitare la formazione di edere, per la salute del tronco, per tenere lontani insetti, zanzare e roditori. <br/>
+Alla fine della giornata, anche quando la potatura dovesse prolungarsi al giorno successivo, ripuliremo il giardino, la strada e il cortile dei vicini dal materiale di risulta.
+
+## Dove? Anche dai tuoi vicini
+
+Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 40 Km da Cervignano del Friuli, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br/>
+Il **preventivo è gratuito** e nella sezione [prezzi](/prezzi/ "prezzi") puoi farti un'idea abbastanza precisa del costo per potare la siepe.
+
+## Mesi ideali e luna clante per potare le siepi
+
+A seconda del **periodo di fioritura** ti sapremo consigliare il periodo più indicato per sfoltire la tua varietà di siepe.
+
+Anche la luna è importante! Se il taglio della siepe avviene nel periodo di **luna calante**, meglio se subito a ridosso del plenilunio, le piante mantengono più a lungo la forma e sopportano meglio le potature drastiche.
+
+## Trattamenti, concimazioni e consigli
+
+Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibilmente a base di **prodotti biologici** e **pacciamature**. Al termine della potatura ove necessario consigliamo ed eseguiamo **[trattamenti fitosanitari](/servizi-di-giardinaggio/disinfestazioni/ "Scopri i trattamenti fitosanitari")** con prodotti naturali e a **basso impatto ambientale** (B.I.A.) contro vari possibili attacchi fungini e di insetti: oidio, necrosi, cocciniglie ecc.
+
+Le foglie della tua siepe sono ingiallite, hanno la muffa, sono bucherellate e annerite? Approfitta dei **preziosi consigli** di Giardiniere Potasiepe.
+
+![Prima e dopo una potatura accurata di siepi](/img/prima-e-dopo-la-potatura.jpg  "Prima e dopo una potatura accurata di siepi")
+
+Prenotare il servizio è molto semplice: vai alla pagina [contatti](/contatti/ "contatti") e compila il modulo con i tuoi dati. Oppure telefona per un sopralluogo e un preventivo gratuito e senza impegno.
 
 <br/>
 <div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+  <p class="h3">PROVA LA DIFFERENZA!</p>
+  <a title="Chiama ora! Prova la differenza" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 <br/><br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
+## Scopri tutti i nostri servizi di giardinaggio:
 
 <div class="list-collection">
 <ul>
