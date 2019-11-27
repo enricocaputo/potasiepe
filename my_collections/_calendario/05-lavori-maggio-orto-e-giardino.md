@@ -3,7 +3,7 @@ title: "Maggio nell'orto e in giardino"
 excerpt: "I principali lavori in giardino in maggio, l’orto è nel pieno dell’attività e si iniziano a raccogliere i primi ortaggi seminati nei mesi precedenti."
 image: /img/calendario/maggio.png
 date: 2019-01-01T05:05:00+00:00
-last_modified_at: 2019-01-01T13:15:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 Continua il momento favorevole per la
@@ -137,8 +137,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0005.pdf" download="maggio2019.pdf" title="Scarica in formato PDF il calendario di maggio 2019">
-    maggio</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

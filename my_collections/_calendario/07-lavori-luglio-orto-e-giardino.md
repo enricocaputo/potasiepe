@@ -3,7 +3,7 @@ title: "Luglio nell'orto e in giardino"
 excerpt: "Promemoria dei lavori in luglio in giardino, nel prato, e le principali incombenze che il giardiniere deve compiere per ottenere dei risultati gratificanti."
 image: /img/calendario/luglio.png
 date: 2019-01-01T05:07:00+00:00
-last_modified_at: 2019-01-01T14:15:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 **Innaffiare** le aiuole, meglio se **nelle ore
@@ -85,8 +85,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0007.pdf" download="luglio2019.pdf" title="Scarica in formato PDF il calendario di luglio 2019">
-    luglio</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

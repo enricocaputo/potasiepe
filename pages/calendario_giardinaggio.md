@@ -1,28 +1,27 @@
 ---
 title: Calendario Orto e Giardino
-excerpt: "Calendario dei lavori in orto e giardino 2019: calendario lunare, consigli per semina, trapianto, potatura. Scaricalo gratuitamente in formato PDF"
+excerpt: "Calendario dei lavori in orto e giardino 2020: calendario lunare, consigli per semina, trapianto, potatura. Scaricalo gratuitamente in formato PDF"
 permalink: /calendario-di-giardinaggio/
-last_modified_at: 2019-11-18
+last_modified_at: 2019-11-27
 ---
-Il calendario del giardiniere, scritto da un esperto di giardinaggio, è un regalo rivolto a tutti coloro che amano il proprio giardino e che desiderano prendersi cura
-delle piante, degli alberi, del prato, dell'orto e del frutteto.
+Il **calendario e lunario 2020** è un regalo che il *Giardiniere Potasiepe* dedica a tutti gli appassionati di giardinaggio. Un promemoria dei lavori in giardino, orto e frutteto. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato.
 
 ___
 
-<h2 id="calendario-2019-da-stampare">
-<a href="/download/calendari/2019/calendario-del-giardiniere-2019.pdf"
-download="calendario2019.pdf"
-title="Calendario del giardiniere 2019">Calendario 2019 da stampare</a>
+<h2>
+<a href="/download/calendari/2020/calendario-e-lunario-2020.pdf"
+download="calendario-e-lunario-2020.pdf"
+title="Calendario e lunario 2020">Calendario 2020 da stampare</a>
 </h2>
 
 <p>
-<a href="/download/calendari/2019/calendario-del-giardiniere-2019.pdf"
-download="calendario2019.pdf"
-title="Calendario del giardiniere 2019"><img src="/img/posts/calendario-di-giardinaggio.png" alt="Calendario del giardiniere 2019" title="calendario del giardiniere 2019"></a>
+<a href="/download/calendari/2020/calendario-e-lunario-2020.pdf"
+download="calendario-e-lunario-2020.pdf"
+title="Calendario e lunario 2020"><img src="/img/posts/calendario-e-lunario-2020.jpg" alt="Calendario e lunario 2020" title="calendario e lunario 2020"></a>
 </p>
 
 <p>
-<strong>Scarica gratuitamente</strong> in formato PDF il calendario del giardiniere 2019 completo di lunario, con i promemoria dei lavori in giardino, orto e frutteto <strong>oppure
+<strong>Scarica gratuitamente</strong> in formato PDF il calendario del giardiniere 2020 completo di lunario, con i promemoria dei lavori in giardino, orto e frutteto <strong>oppure
 <a href="/contatti/" title="acquista il calendario da parete stampato">
 RICHIEDI LA VERSIONE STAMPATA al prezzo di EUR 14,00 </a> Spedizione GRATUITA</strong>.
 Il calendario da parete stampato a colori su preziosa carta patinata da 200 gr. ti sarà recapitato nel giro di 3-4 gg.

@@ -3,7 +3,7 @@ title: "Agosto nell'orto e in giardino"
 excerpt: "Agosto mese di vacanze, agosto rinfresca il bosco, recita un detto popolare, ma anche questo mese si devono annaffiare le aiuole e compiere i lavori nell'orto."
 image: /img/calendario/agosto.png
 date: 2019-01-01T05:08:00+00:00
-last_modified_at: 2019-01-01T15:15:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 Come nel mese precedente, annaffiare le aiuole, meglio se nelle ore serali e
@@ -95,8 +95,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0008.pdf" download="agosto2019.pdf" title="Scarica in formato PDF il calendario di agosto 2019">
-    agosto</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

@@ -3,7 +3,7 @@ title: "Marzo nell'orto e in giardino"
 excerpt: "I principali lavori che il giardiniere deve compiere nel mese di marzo in giardino, nell'orto e nel frutteto per ottenere un buon raccolto e ottimi risultati."
 image: /img/calendario/marzo.png
 date: 2019-01-01T05:03:00+00:00
-last_modified_at: 2019-01-01T11:14:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 È bene iniziare le lavorazioni primaverili di
@@ -126,8 +126,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0003.pdf" download="marzo2019.pdf" title="Scarica in formato PDF il calendario di marzo 2019">
-    marzo</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

@@ -3,7 +3,7 @@ title: "Giugno nell'orto e in giardino"
 excerpt: "Promemoria dei lavori di giardinaggio e delle principali incombenze che il giardiniere è tenuto a compiere per avere ottimi risultati in giardino in giugno."
 image: /img/calendario/giugno.png
 date: 2019-01-01T05:06:00+00:00
-last_modified_at: 2019-01-01T13:45:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 È ancora il periodo per la **messa a dimora di piante, arbusti e fiori**.
@@ -105,8 +105,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0006.pdf" download="giugno2019.pdf" title="Scarica in formato PDF il calendario di giugno 2019">
-    giugno</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

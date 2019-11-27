@@ -3,7 +3,7 @@ title: "Settembre nell'orto e in giardino"
 excerpt: "Il mese di settembre sancisce il calare dell’impegno lavorativo all’interno del nostro orto. Settembre è il mese ideale per la semina di tutti i tappeti erbosi."
 image: /img/calendario/settembre.png
 date: 2019-01-01T05:09:00+00:00
-last_modified_at: 2019-01-01T15:35:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 Si consiglia di riportare all’interno le piante d’appartamento e
@@ -87,8 +87,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0009.pdf" download="settembre2019.pdf" title="Scarica in formato PDF il calendario di settembre 2019">
-    settembre</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

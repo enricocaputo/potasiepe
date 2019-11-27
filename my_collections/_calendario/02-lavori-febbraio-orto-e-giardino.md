@@ -3,7 +3,7 @@ title: "Febbraio nell'orto e in giardino"
 excerpt: "I principali lavori che il giardiniere deve compiere in febbraio nell'orto, nel frutteto e in giardino per ottenere dei risultati eccellenti."
 image: /img/calendario/febbraio.png
 date: 2019-01-01T05:02:00+00:00
-last_modified_at: 2019-01-01T10:14:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 Procedere con la **messa a dimora di piante, arbusti e rosai** e,
@@ -110,8 +110,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0002.pdf" download="febbraio2019.pdf" title="Scarica in formato PDF il calendario di febbraio 2019">
-    febbraio</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

@@ -3,7 +3,7 @@ title: "Novembre nell'orto e in giardino"
 excerpt: "I lavori in novembre in giardino, periodo ideale per la messa a dimora dei bulbi da fiore primaverili. Concimare il prato e riparare alcune piante dal freddo."
 image: /img/calendario/novembre.png
 date: 2019-01-01T05:11:00+00:00
-last_modified_at: 2019-01-01T17:15:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 E’ sempre il periodo ideale per la messa
@@ -89,8 +89,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0011.pdf" download="novembre2019.pdf" title="Scarica in formato PDF il calendario di novembre 2019">
-    novembre</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

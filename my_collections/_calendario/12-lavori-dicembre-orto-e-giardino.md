@@ -3,7 +3,7 @@ title: "Dicembre nell'orto e in giardino"
 excerpt: "I principali lavori di giardinaggio e le principali incombenze che il giardiniere è tenuto a compiere per ottenere buoni risultati nell'orto e in giardino a dicembre."
 image: /img/calendario/dicembre.png
 date: 2019-01-01T05:12:00+00:00
-last_modified_at: 2019-01-01T18:15:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 **Potare le piante**, evitando le giornate molto fredde ed eventualmente trattarle
@@ -58,8 +58,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0012.pdf" download="dicembre2019.pdf" title="Scarica in formato PDF il calendario di dicembre 2019">
-    dicembre</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

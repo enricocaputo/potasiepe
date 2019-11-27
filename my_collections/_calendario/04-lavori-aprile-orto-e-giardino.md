@@ -3,7 +3,7 @@ title: "Aprile nell'orto e in giardino"
 excerpt: "Sintesi dei principali lavori di giardinaggio e delle principali incombenze da compiere per ottenere ottimi risultati in giardino in aprile."
 image: /img/calendario/aprile.png
 date: 2019-01-01T05:04:00+00:00
-last_modified_at: 2019-01-01T12:14:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 Mese ideale per la **messa a dimora di molte piante**,
@@ -110,8 +110,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0004.pdf" download="aprile2019.pdf" title="Scarica in formato PDF il calendario di aprile 2019">
-    aprile</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 

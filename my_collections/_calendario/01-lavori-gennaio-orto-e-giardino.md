@@ -3,7 +3,7 @@ title: "Gennaio nell'orto e in giardino"
 excerpt: "I principali lavori da compiere in gennaio nell'orto, in cantina, nel frutteto e in giardino per ottenere anche questo mese dei risultati soddisfacenti."
 image: /img/calendario/gennaio.png
 date: 2019-01-01T05:01:00+00:00
-last_modified_at: 2019-01-01T09:14:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 Non sono molte le operazioni che si possono
@@ -61,9 +61,8 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0001.pdf" download="gennaio2019.pdf" title="Scarica in formato PDF il calendario di gennaio 2019">
-    gennaio</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 
-<p><strong>Scarica la <a href="/download/la-rotazione-degli-ortaggi-per-piccoli-orti-familiari.pdf" download="rotazioneOrtaggi.pdf" title="La Rotazione degli Ortaggi per Piccoli Orti Familiari">tabella delle rotazioni e associazioni degli ortaggi</a> in formato PDF.</strong></p>
+<p><strong>Scarica la <a href="/download/la-rotazione-degli-ortaggi-per-piccoli-orti-familiari.pdf" download="rotazioneOrtaggi.pdf" title="La Rotazione degli Ortaggi per Piccoli Orti Familiari"> tabella delle rotazioni e associazioni degli ortaggi</a> in formato PDF.</strong></p>

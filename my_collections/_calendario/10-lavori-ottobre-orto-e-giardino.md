@@ -3,7 +3,7 @@ title: "Ottobre nell'orto e in giardino"
 excerpt: "I lavori da compiere in giardino, nel frutteto e nell'orto in ottobre: funghi e insetti da questo mese fino al ritorno della primavera non sono più un problema."
 image: /img/calendario/ottobre.png
 date: 2019-01-01T05:10:00+00:00
-last_modified_at: 2019-01-01T15:55:00+00:00
+last_modified_at: 2019-11-27
 ---
 ## Nel giardino
 Estirpare le piante ed i fiori che iniziano a risentire
@@ -85,8 +85,7 @@ La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la colt
 ## Download
 <p>
   <strong>
-    Scarica il calendario di <a href="/download/calendari/2019/pg_0010.pdf" download="ottobre2019.pdf" title="Scarica in formato PDF il calendario di ottobre 2019">
-    ottobre</a> oppure il <a href="/calendario-di-giardinaggio/" title="calendario di giardinaggio 2019">calendario completo</a>.
+    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
   </strong>
 </p>
 
