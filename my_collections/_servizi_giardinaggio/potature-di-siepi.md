@@ -10,7 +10,7 @@ last_modified_at: 2019-11-28T23:23
 ---
 ![Potatura di siepi a Udine e Gorizia](/img/servizi/potatura-di-siepi-udine-gorizia.jpg "Potatura di siepi a Udine e Gorizia")
 
-Effettuiamo **potature di [qualunque genere di siepe](/consigli-di-giardinaggio/siepe-quale-scegliere "Quale siepe scegliere")**: Agazzino, Alloro, Bosso, Lauroceraso, Photinia, Tasso, Viburno ecc.
+Effettuiamo **potature di [siepi di ogni dimensione e genere](/consigli-di-giardinaggio/siepe-quale-scegliere "Quale siepe scegliere")**: Agazzino, Alloro, Bosso, Lauroceraso, Photinia, Tasso, Viburno ecc.
 
 Potatura di mantenimento, potatura di siepi formale, potatura di siepi informale, potatura di siepi ad arco, potatura di arbusti su più livelli, potatura a schermo, potatura di ringiovanimento.
 
