@@ -6,7 +6,7 @@ title: 'La potatura di siepi è la nostra specialità!'
 excerpt: 'Il Giardiniere Potasiepe è specializzato in potatura di siepi a Udine e Gorizia: taglio accurato, esperienza, puntualità, prezzi onesti e preventivo gratuito.'
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
 order: 5
-last_modified_at: 2019-11-28T23:23
+last_modified_at: 2019-11-28T9:29
 ---
 ![Potatura di siepi a Udine e Gorizia](/img/servizi/potatura-di-siepi-udine-gorizia.jpg "Potatura di siepi a Udine e Gorizia")
 
@@ -47,7 +47,7 @@ Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibi
 
 Le foglie della tua siepe sono ingiallite, hanno la muffa, sono bucherellate e annerite? Approfitta dei **preziosi consigli** di Giardiniere Potasiepe.
 
-![Prima e dopo una potatura accurata di siepi](/img/prima-e-dopo-la-potatura.jpg  "Prima e dopo una potatura accurata di siepi")
+![Potatura di siepe, prima e dopo](/img/prima-e-dopo-la-potatura.jpg  "Potatura di siepe, prima e dopo")
 
 Prenotare il servizio è molto semplice: vai alla pagina [contatti](/contatti/ "contatti") e compila il modulo con i tuoi dati. Oppure telefona per un sopralluogo e un preventivo gratuito e senza impegno.
 
