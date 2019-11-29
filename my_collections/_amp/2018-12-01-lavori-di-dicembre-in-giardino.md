@@ -3,12 +3,12 @@ title: "Lavori di dicembre in giardino"
 excerpt: "Dicembre: cortecce colorate e fiori profumati. Dicembre non pretende la presenza costante del giardiniere ma alcuni lavori in giardino devono essere svolti."
 image: /img/posts/12-2018.jpg
 image_featured: true
-last_modified_at: 2018/12/01
+last_modified_at: 2019/11/29
 ---
 Quasi tutto ciò che ci sarebbe da fare in giardino a dicembre lo si potrebbe
 rimandare al mese successivo. Ma un gennaio particolarmente piovoso e nevoso
 potrebbe sconvolgere il nostro piano dei lavori. Per non arrivare impreparati
-all'appuntamento con la primavera è opportuno mantenere vivo il nostro rapporto
+all'appuntamento con la primavera manteniamo vivo il nostro rapporto
 con il giardino. Anche nello scorcio di mese che sancisce l'arrivo ufficiale
 dell'inverno astronomico, una pianta fiorita e profumata vicino all'ingresso e
 un albero dalla corteccia colorata mantengono vivo il suo interesse ornamentale.
@@ -57,7 +57,7 @@ Cospargete il terreno con **solfato ammonico** se desiderate abbassare il pH per
 
 ### Alberi
 
-Dicembre è il mese ideale per abbattere di alberi molto vecchi e malmessi, pericolanti oppure pericolosi per l'eccessiva vicinanza alla casa. **Non intervenite mai di persona** in lavori di questo genere, ma contattate un **[giardiniere specializzato](/servizi-di-giardinaggio/giardiniere-a-domicilio "Potasiepe è il giardiniere specializzato n. 1 in Friuli")**.
+Dicembre è il mese ideale per abbattere gli alberi molto vecchi e malmessi, pericolanti oppure pericolosi per l'eccessiva vicinanza alla casa. **Non intervenite mai di persona** in lavori di questo genere, ma contattate un **[giardiniere specializzato](/servizi-di-giardinaggio/giardiniere-a-domicilio "Potasiepe è il giardiniere specializzato n. 1 in Friuli")**.
 
 ### Agrifoglio e altri sempreverdi
 
