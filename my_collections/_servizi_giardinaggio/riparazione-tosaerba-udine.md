@@ -20,17 +20,17 @@ Molti sottovalutano l´importanza di una costante ed accurata manutenzione di qu
 Ricorda sempre di effettuare i seguenti interventi costantemente:
 
 - &#10004; Pulire il sotto scocca
-- &#10004; Pulire il filtro dell’aria
+- &#10004; Pulire il filtro dell'aria
 - &#10004; Pulire il serbatoio del carburante ogni anno
 - &#10004; Controllare e se necessario sostituire la candela
 - &#10004; Controllare il condotto di aspirazione
 - &#10004; Controllare il cavo acceleratore
 - &#10004; Controllare e se necessario affilare la lama
-- &#10004; Sostituire l´olio motore ogni 2/3 mesi per uso professionale oppure ogni anno per uso hobbistico, si consiglia di sostituire l´olio prima di fermare la macchina per lunghi periodi onde evitare che dei residui si depositino sul fondo.
+- &#10004; Sostituire l'olio motore ogni 2/3 mesi per uso professionale oppure ogni anno per uso hobbistico, si consiglia di sostituire l'olio prima di fermare la macchina per lunghi periodi onde evitare che dei residui si depositino sul fondo.
 
 Seguendo questi brevi consigli avrete sempre un **tagliaerba** in perfetta forma, risparmierete un sacco di tempo rendendo il vostro lavoro piacevole ed efficente!
 
-La frequenza degli interventi di manutenzione dipende generalmente dall’utilizzo: per l’utilizzo **professionale** circa una volta ogni due/tre mesi, per quello hobbistico una volta l’anno.
+La frequenza degli interventi di manutenzione dipende generalmente dall'utilizzo: per l’utilizzo **professionale** circa una volta ogni due/tre mesi, per quello hobbistico una volta l’anno.
 
 **Forse ti interessa [come scegliere il tosaerba adatto](/consigli-di-giardinaggio/tagliaerba-quale-scegliere "tagliaerba: quale scegliere").**
 
