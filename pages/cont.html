@@ -3,12 +3,12 @@ layout: default
 title: URL Appuntamenti e Contatti
 excerpt: Contatta Potasiepe, fissa un appuntamento, prenota un sopralluogo, richiedi un preventivo gratuito e senza impegno via email e al telefono.
 image: /img/potasiepe.jpg
-permalink: /contatti/
+permalink: /cont/
 last_modified_at: 2020-03-15
 ---
 <h1>Preventivo Gratuito</h1>
 <div role="form">
-  <form action="https://formspree.io/giardiniere@potasiepe.com" method="POST" >
+  <form id="contactform" method="POST" >
       <input type="hidden" name="_language" value="it" />
       <input type="hidden" name="_subject" value="Richiesta info da Cliente PotaSiepe.com" />
   <br/>
@@ -41,9 +41,24 @@ last_modified_at: 2020-03-15
       <textarea id="Dimensioni-giardino-altro" name="Dimensioni-giardino-altro" type="text" class="form-control" rows="10" cols="33"/></textarea>
     </div>
     <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_next" value="https://www.giardiniere-potasiepe.fvg.it/grazie.html" />
 
   <br/>
-    <button type="submit" class="button" value="Submit">Invia</button>
+    <button id="sendMessage" type="submit" class="button" value="Submit">Invia</button>
   </form>
 </div>
+
+<script>
+var message = "";
+
+$("#sendMessage").on("click", function() {
+    message = $("#contactform").serialize();
+    $.ajax({
+        url: "https://formspree.io/giardiniere@potasiepe.com",
+        method: "POST",
+        data: {message: message},
+        dataType: "json"
+    });
+    alert('Grazie, Vi risponderò il prima possibile.');
+    return false;
+});
+</script>
