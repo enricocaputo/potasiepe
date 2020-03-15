@@ -231,7 +231,7 @@ footer {
 }
 
 @media (max-width: 400px) {
-.rc-anchor-normal {
+iframe {
     transform: matrix(0.8, 0, 0, 1, -30, 0);
   }
 }
