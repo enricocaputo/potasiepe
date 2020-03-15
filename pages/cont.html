@@ -8,7 +8,7 @@ last_modified_at: 2020-03-15
 ---
 <h1>Preventivo Gratuito</h1>
 <div role="form">
-  <form id="contactform" method="POST" >
+  <form action="https://formspree.io/giardiniere@potasiepe.com" method="POST" >
       <input type="hidden" name="_language" value="it" />
       <input type="hidden" name="_subject" value="Richiesta info da Cliente PotaSiepe.com" />
   <br/>
@@ -30,9 +30,9 @@ last_modified_at: 2020-03-15
     <div class="form-group">
     <label for="Richiesta">Avrei bisogno di ...</label><br/>
     <select id="Richiesta" name="Richiesta" class="form-control">
-      <option value="Potare-Siepe" class="form-control">Potare la Siepe</option>
-      <option value="Tagliare-Erba" class="form-control">Tagliare l'erba</option>
-      <option value="Richiesta-Specificata-Sotto" class="form-control">Altro: lo specifico qui sotto</option>
+      <option value="Potare-Siepe" class="form-control"/>Potare la Siepe<option>
+      <option value="Tagliare-Erba" class="form-control"/>Tagliare l'erba<option>
+      <option value="Richiesta-Specificata-Sotto" class="form-control"/>Altro: lo specifico qui sotto<option>
     </select>
     </div>
   <br/>
@@ -43,22 +43,11 @@ last_modified_at: 2020-03-15
     <input type="text" name="_gotcha" style="display:none" />
 
   <br/>
-    <button id="sendMessage" type="submit" class="button" value="Submit">Invia</button>
+    <button type="submit" class="button" value="Submit" onclick="myAlert()">Invia</button>
   </form>
 </div>
-
 <script>
-var message = "";
-
-$("#sendMessage").on("click", function() {
-    message = $("#contactform").serialize();
-    $.ajax({
-        url: "https://formspree.io/giardiniere@potasiepe.com",
-        method: "POST",
-        data: {message: message},
-        dataType: "json"
-    });
-    alert('Grazie, Vi risponderò il prima possibile.');
-    return false;
-});
+function myAlert() {
+  alert("Grazie, Vi risponderò il prima possibile!");
+}
 </script>
