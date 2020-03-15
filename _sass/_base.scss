@@ -230,12 +230,6 @@ footer {
   font-size: 11px;
 }
 
-@media (max-width: 400px) {
-iframe {
-    transform: matrix(0.8, 0, 0, 1, -30, 0);
-  }
-}
-
 @media (max-width: 700px) {
   h1 {
     font-size: 1.9em;
