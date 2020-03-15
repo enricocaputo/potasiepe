@@ -58,7 +58,7 @@ h3 {
     font-size: 0.75em;
     letter-spacing: 0.75px;
   }
-  a {  
+  a {
     background-color: #000;
     color: #fff;
     text-decoration: underline;
@@ -109,7 +109,15 @@ ul {
   padding-top: 130px;
   border-radius: 10px;
 }
-
+#g-recaptcha-response {
+    display: block;
+    position: absolute;
+    margin: -78px 0 0 0;
+    width: 302px;
+    height: 76px;
+    z-index: -999999;
+    opacity: 0;
+}
 img {
   display: block;
   margin-left: auto;
