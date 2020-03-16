@@ -9,7 +9,7 @@ last_modified_at: 2020-03-15
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <h1>Preventivo Gratuito</h1>
 <div role="form">
-  <form action="https://submit-form.com/8poWqhCEov1I5HGkPP6CB" target="_self">
+  <form id="Myform" action="https://submit-form.com/8poWqhCEov1I5HGkPP6CB" target="_self">
       <input type="hidden" name="_email.subject" value="Richiesta dal sito Potasiepe" />
       <input type="checkbox" name="Custom" style="display:none" tabindex="-1" autocomplete="off"/>
       <input type="hidden" name="_redirect" value="https://www.giardiniere-potasiepe.fvg.it/grazie"/>
@@ -43,16 +43,11 @@ last_modified_at: 2020-03-15
       <textarea id="Dimensioni-giardino-altro" name="Dimensioni-giardino-altro" class="form-control" rows="10" cols="33"></textarea>
     </div>
   <br/>
-    <div class="g-recaptcha" data-sitekey="6Lf-ZuEUAAAAAMzEfDUm0SaaeipsRyrBEx7SlFzT"></div>
-  <br/>
-    <button type="submit" class="button" value="Submit">Invia</button>
+    <button type="submit" class="button g-recaptcha" data-sitekey="6Le-l-EUAAAAAK2mxB0N30Nz83qVUKXcn-Cvvcej" data-callback='onSubmit' value="Submit">Invia</button>
   </form>
 </div>
 <script>
-  window.onload = function() {
-    var $recaptcha = document.querySelector('#g-recaptcha-response');
-    if($recaptcha) {
-        $recaptcha.setAttribute("required", "required");
-    }
-};
+  function onSubmit(token) {
+    document.getElementById("Myform").submit();
+  }
 </script>
