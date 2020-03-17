@@ -8,10 +8,9 @@ last_modified_at: 2020-03-15
 ---
 <h1>Preventivo Gratuito</h1>
 <div role="form">
-  <form id="Myform" action="https://submit-form.com/8poWqhCEov1I5HGkPP6CB" target="_self">
-      <input type="hidden" name="_email.subject" value="Richiesta dal sito Potasiepe" />
-      <input type="checkbox" name="Custom" style="display:none" tabindex="-1" autocomplete="off"/>
-      <input type="hidden" name="_redirect" value="https://www.giardiniere-potasiepe.fvg.it/grazie"/>
+  <form action="https://formspree.io/giardiniere@potasiepe.com" method="POST" >
+      <input type="hidden" name="_language" value="it" />
+      <input type="hidden" name="_subject" value="Richiesta info da Cliente PotaSiepe.com" />
   <br/>
     <div class="form-group">
       <label for="nome">Mi chiamo ...</label><br/>
@@ -39,10 +38,12 @@ last_modified_at: 2020-03-15
   <br/>
     <div class="form-group">
       <label for="Dimensioni-giardino-altro">Dimensioni giardino e altro ...</label><br/>
-      <textarea id="Dimensioni-giardino-altro" name="Dimensioni-giardino-altro" class="form-control" rows="10" cols="33"></textarea>
+      <textarea id="Dimensioni-giardino-altro" name="Dimensioni-giardino-altro" type="text" class="form-control" rows="10" cols="33"></textarea>
     </div>
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="https://www.giardiniere-potasiepe.fvg.it/grazie.html" />
+
   <br/>
-    <div>
     <button type="submit" class="button" value="Submit">Invia</button>
   </form>
 </div>
