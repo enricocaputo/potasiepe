@@ -7,6 +7,11 @@ permalink: /contatti/
 last_modified_at: 2020-03-15
 ---
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+  function onSubmit(token) {
+    document.getElementById("Myform").submit();
+  }
+</script>
 <h1>Preventivo Gratuito</h1>
 <div role="form">
   <form id="Myform" action="https://submit-form.com/8poWqhCEov1I5HGkPP6CB" target="_self">
@@ -43,11 +48,8 @@ last_modified_at: 2020-03-15
       <textarea id="Dimensioni-giardino-altro" name="Dimensioni-giardino-altro" class="form-control" rows="10" cols="33"></textarea>
     </div>
   <br/>
-    <button type="submit" class="button g-recaptcha" data-sitekey="6Le-l-EUAAAAAK2mxB0N30Nz83qVUKXcn-Cvvcej" data-callback='onSubmit' value="Submit">Invia</button>
+    <div>
+    <button class="button g-recaptcha" data-sitekey="6Le-l-EUAAAAAK2mxB0N30Nz83qVUKXcn-Cvvcej" data-callback='onSubmit' value="Submit">Invia</button>
+    </div>
   </form>
 </div>
-<script>
-  function onSubmit(token) {
-    document.getElementById("Myform").submit();
-  }
-</script>
