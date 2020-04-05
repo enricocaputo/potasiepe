@@ -6,6 +6,7 @@ title: Manutenzione del Verde Commerciale e Industriale
 excerpt: 'Affida a Potasiepe la progettazione parchi, prenota la pulizia dei piazzali e la manutenzione del verde di hotel, ristoranti, negozi e stabilimenti industriali.'
 image_path: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 order: 2
+last_modified_at: 2020-04-05T6:51
 ---
 <br/>
 <div class="carousel" >

@@ -6,6 +6,7 @@ title: Recinzioni in rete metallica
 excerpt: 'Posa in opera di recinzioni in rete metallica con pali in legno o ferro, rete plastificata atossica per animali, zincata, elettrosaldata. Udine e Gorizia.'
 image_path: /img/servizi/recinzione-rete-pali-legno.jpg
 order: 7
+last_modified_at: 2020-04-05T6:48
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
 
