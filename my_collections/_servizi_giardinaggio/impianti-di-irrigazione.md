@@ -8,7 +8,7 @@ image_path: /img/servizi/impianto-irrigazione-interrata-udine.jpg
 order: 4
 last_modified_at: 2019-11-25
 ---
-<img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
+<img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 Un valido impianto di irrigazione è determinante per ottenere un **prato folto e rigoglioso**. Inoltre, consente un notevole **risparmio idrico** e ha bisogno di poca manutenzione.
 

@@ -8,7 +8,7 @@ image_path: /img/servizi/recinzione-rete-pali-legno.jpg
 order: 7
 last_modified_at: 2020-04-05T6:48
 ---
-<img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
+<img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 Potasiepe si occupa della realizzazione di **staccionate in legno** e recinzioni con **rete elettrosaldata** e a  **maglia sciolta**, rete **plastificata atossica per animali**, rete **zincata** e recinzioni **in pvc**.
 

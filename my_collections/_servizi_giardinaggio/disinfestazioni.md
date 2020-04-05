@@ -8,7 +8,7 @@ image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 order: 6
 last_modified_at: 2020-04-05T6:47
 ---
-<img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
+<img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 Hai problemi di **zanzare**? **Scarafaggi** e **formiche** hanno preso d'assalto la tua casa? **Afidi** e **cocciniglia** attanagliano le tue piante? Rivolgiti con fiducia a *Giardiniere Potasiepe* per una **disinfestazione professionale** ed efficace a **[prezzi contenuti](/prezzi/ "Vedi i prezzi in dettaglio")**.
 

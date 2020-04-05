@@ -8,7 +8,7 @@ image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 order: 1
 last_modified_at: 2019-11-25
 ---
-<img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}"/>
+<img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 <br/><br/>
 
