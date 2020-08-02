@@ -1,42 +1,57 @@
 ---
 layout: page
 name: Progettazione giardini
-subtitle: Regalati un progetto originale, bello da vedere e unico.
-title: Affidati a Potasiepe per progettare il tuo giardino
-excerpt: 'Categoria: giardinaggio. Servizio: progettazione di giardini. Un giardiniere competente e pronto ad ascoltarti per realizzare l’area verde che hai sempre sognato.'
-image_path: /img/servizi/progettazione-giardini-Udine-Gorizia.jpg
-order: 3
-last_modified_at: 2020-04-05T7:08
+subtitle: Progettazione di giardini a bassa manutenzione.
+title: Progettazione Giardini
+excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Garden design.'
+image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
+order: 1
+last_modified_at: 2020-08-02T12:21
 ---
-<picture>
- <source media="(max-width: 768px)" srcset="/img/servizi/progettazione-giardini-Udine-Gorizia.jpg">
- <img src="/img/servizi/progettazione-giardini-garden-designer.jpg" alt="{{ page.name }}" title="{{ page.name }}">
-</picture>
+<br/>
+<div class="carousel">
+  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\planimetria.jpg" alt="planimetria di progetto giardino" title="planimetria di progetto giardino"/>
+  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto1.jpg" alt="progetto di un giardino" title="progetto di un giardino"/>
+  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto2.jpg" alt="progettazione giardini" title="progettazione giardini"/>
+  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto3.jpg" alt="garden design" title="garden design"/>
+</div>
 
-## Servizio di giardinaggio: Progettazione giardini
+## Passione e professionalità per realizzare spazi verdi che emozionano
 
-Potasiepe è un giardiniere competente e pronto ad ascoltarti per realizzare l’area verde che hai sempre sognato, così da valorizzare gli spazi esterni della tua villa e trasformare il tuo giardino in un angolo di natura che rappresenti il più possibile la tua personalità e le tue esigenze.
+Esistono diversi stili di giardini ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri gusti personali e le vostre esigenze in relazione all'ambiente in cui vivete.
+
+### Perché affidarsi a Potasiepe Garden designer?
+
+La conoscenza botanica, la lunga esperienza accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di terrazzi e giardini meravigliosi.
+
+### Il target dei giardini Potasiepe
+
+Il servizio di progettazione giardini è rivolto a proprietari di case indipendenti, aziende, ristoranti, hotel e imprese di costruzioni.
+
+### Progettazione giardini in tre fasi
+
+Il metodo di progettazione dei giardini Potasiepe si basa su fasi attentamente studiate e affinate nel corso degli anni. Un percorso creativo, progettuale e tecnico che sarà facile e piacevole percorrere in compagnia di un giardiniere paesaggista a vostra disposizione dalla fase progettuale a quella esecutiva, fino ai dettagli finali.
+
+1. A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
+
+2. Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino ti proporrò una lista di piante tra cui scegliere.
+
+3. Infine, grazie a tutti questi dati sarò in grado di preparare il **computo metrico** e il **preventivo dettagliato**.
+
+## Progettazione giardini per aziende e privati
+
+Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere.
 
 >> ### "Come il giardino in cui s’iscrive, il progetto è un’opera in fieri, aperta, ferma nelle intenzioni, anche se variabile nei dettagli."
 >
 >> -- <cite> Tatiana Bilbao </cite>
 
-A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
-
-Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino ti proporrò una lista di piante tra cui scegliere.
-
-Infine, grazie a tutti questi dati sarò in grado di preparare il **computo metrico** e il **preventivo dettagliato**.
-
->> ### "Bisogna accettare che il ruolo del giardiniere è di pari dignità a quello dell'architetto."
->
->> -- <cite> Brian Eno </cite>
-
-Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e a rotoli (posa di zolle già pronte). Il risultato è sempre lo stesso: un giardino bello da vedere e su misura per ogni tua necessità.
+Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e a rotoli (posa di zolle già pronte). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
 
 <br/>
 <div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+  <h2>Desideri un preventivo per il tuo progetto?</h2>
+  <a title="Richiedi preventivo" href="/contatti/" aria-label="Richiedi preventivo" class="button">RICHIEDILO ORA</a>
 </div>
 <br/><br/>
 
@@ -57,3 +72,4 @@ Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, 
 	{% endfor %}
 </ul>
 </div>
+<script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>
