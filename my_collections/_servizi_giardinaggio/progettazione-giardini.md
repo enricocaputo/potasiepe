@@ -6,7 +6,7 @@ title: Progettazione Giardini
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Garden design.'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 1
-last_modified_at: 2020-08-03T09:33
+last_modified_at: 2020-08-03T17:00
 ---
 <br/>
 <div class="carousel">
@@ -17,15 +17,17 @@ last_modified_at: 2020-08-03T09:33
 
 ## Passione e professionalità per realizzare spazi verdi che emozionano
 
-Esistono diversi stili di giardini ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri gusti personali e le vostre esigenze in relazione all'ambiente in cui vivete.
+Progettazione di **giardini moderni a bassa manutenzione**, giardini e **terrazzi contemporanei** unici, realizzati **su misura**.
+
+Esistono **diversi stili di giardini** ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri **gusti personali** e le vostre **esigenze** tenendo in considerazione le **caratteristiche dell'ambiente** che vi circonda.
 
 ### Perché affidarsi a Potasiepe Garden designer?
 
-La conoscenza botanica, la lunga esperienza accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di terrazzi e giardini meravigliosi.
+La **conoscenza botanica**, la **lunga esperienza** di [giardiniere e garden designer](/chi-sono/ "Chi sono") accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di terrazzi e giardini meravigliosi.
 
 ### Il target dei giardini Potasiepe
 
-Il servizio di progettazione giardini è rivolto a proprietari di case indipendenti, aziende, ristoranti, hotel e imprese di costruzioni.
+Il servizio di progettazione giardini è rivolto a **proprietari di case indipendenti**, **aziende**, ristoranti, hotel e **imprese di costruzioni**.
 
 ### Progettazione giardini in tre fasi
 
@@ -33,11 +35,11 @@ Il metodo di progettazione dei giardini Potasiepe si basa su fasi attentamente s
 
 1. A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
 
-2. Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino ti proporrò una lista di piante tra cui scegliere.
+2. Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino ti proporrò una lista di piante e manufatti tra cui scegliere.
 
 ![Progettazione giardini: esempio di planimetria](\img\slides\progettazione-giardini\planimetria.jpg "Progettazione giardini: esempio di planimetria")
 
-3. Infine, grazie a tutti questi dati sarò in grado di preparare il **computo metrico** e il **preventivo dettagliato**.
+3. Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "guarda i video dei giardini progettati da Potasiepe su YouTube"){:target="_blank"}.
 
 ## Progettazione giardini per aziende e privati
 
