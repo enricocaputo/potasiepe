@@ -2,11 +2,11 @@
 layout: page
 name: Progettazione giardini
 subtitle: Progettazione di giardini a bassa manutenzione.
-title: Progettazione Giardini
+title: Progettazione Giardini Udine e Gorizia
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Garden design.'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 1
-last_modified_at: 2020-08-03T19:18
+last_modified_at: 2020-08-03T20:04
 ---
 <br/>
 <div class="carousel">
@@ -27,7 +27,7 @@ La **conoscenza botanica**, la **lunga esperienza** di [giardiniere e garden des
 
 ### Il target dei giardini Potasiepe
 
-Il servizio di progettazione giardini è rivolto a **proprietari di case indipendenti**, **aziende**, ristoranti, hotel e **imprese di costruzioni**.
+Il servizio di progettazione giardini è rivolto a **proprietari di case indipendenti**, **aziende**, ristoranti, hotel e **imprese di costruzioni** nelle province di **Udine** e **Gorizia**.
 
 ### Progettazione giardini in tre fasi
 
@@ -43,7 +43,7 @@ Il metodo di progettazione dei giardini Potasiepe si basa su fasi attentamente s
 
 3. Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "guarda i video dei giardini progettati da Potasiepe su YouTube"){:target="_blank"}.
 
-## Progettazione giardini per aziende e privati
+## Progettazione giardini per aziende e privati a Udine e Gorizia
 
 Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere.
 
