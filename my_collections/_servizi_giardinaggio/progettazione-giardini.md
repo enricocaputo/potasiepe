@@ -3,7 +3,7 @@ layout: page
 name: Progettazione giardini
 subtitle: Progettazione di giardini a bassa manutenzione.
 title: Progettazione Giardini Udine e Gorizia
-excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Garden design.'
+excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Udine, Gorizia'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 1
 last_modified_at: 2020-08-03T20:04
