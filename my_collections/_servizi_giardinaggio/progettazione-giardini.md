@@ -6,11 +6,10 @@ title: Progettazione Giardini
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Garden design.'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 1
-last_modified_at: 2020-08-02T12:21
+last_modified_at: 2020-08-03T09:33
 ---
 <br/>
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\planimetria.jpg" alt="planimetria di progetto giardino" title="planimetria di progetto giardino"/>
   <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto1.jpg" alt="progetto di un giardino" title="progetto di un giardino"/>
   <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto2.jpg" alt="progettazione giardini" title="progettazione giardini"/>
   <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto3.jpg" alt="garden design" title="garden design"/>
@@ -35,6 +34,8 @@ Il metodo di progettazione dei giardini Potasiepe si basa su fasi attentamente s
 1. A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
 
 2. Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino ti proporrò una lista di piante tra cui scegliere.
+
+![Progettazione giardini: esempio di planimetria](\img\slides\progettazione-giardini\planimetria.jpg "Progettazione giardini: esempio di planimetria")
 
 3. Infine, grazie a tutti questi dati sarò in grado di preparare il **computo metrico** e il **preventivo dettagliato**.
 
