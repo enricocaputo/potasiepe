@@ -6,7 +6,7 @@ title: Progettazione Giardini
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Garden design.'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 1
-last_modified_at: 2020-08-03T17:00
+last_modified_at: 2020-08-03T19:10
 ---
 <br/>
 <div class="carousel">
@@ -34,6 +34,8 @@ Il servizio di progettazione giardini è rivolto a **proprietari di case indipen
 Il metodo di progettazione dei giardini Potasiepe si basa su fasi attentamente studiate e affinate nel corso degli anni. Un percorso creativo, progettuale e tecnico che sarà facile e piacevole percorrere in compagnia di un giardiniere paesaggista a vostra disposizione dalla fase progettuale a quella esecutiva, fino ai dettagli finali.
 
 1. A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
+
+![Bozza di progetto di un giardino](\img\slides\progettazione-giardini\bozza-progetto-giardino.jpg "Bozza di progetto di un giardino")
 
 2. Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino ti proporrò una lista di piante e manufatti tra cui scegliere.
 
