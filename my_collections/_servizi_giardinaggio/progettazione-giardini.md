@@ -6,13 +6,13 @@ title: Progettazione Giardini Udine e Gorizia
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Udine, Gorizia'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 1
-last_modified_at: 2020-08-03T20:04
+last_modified_at: 2020-08-03T20:16
 ---
 <br/>
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto1.jpg" alt="progetto di un giardino" title="progetto di un giardino"/>
-  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto2.jpg" alt="progettazione giardini" title="progettazione giardini"/>
-  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto3.jpg" alt="garden design" title="garden design"/>
+  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine"/>
+  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto2.jpg" alt="progetto di un giardino a Gorizia" title="progetto di un giardino a Gorizia"/>
+  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto3.jpg" alt="progetto orto e giardino a Udine" title="progetto orto e giardino a Udine"/>
 </div>
 
 ## Passione e professionalità per realizzare spazi verdi che emozionano
@@ -35,13 +35,13 @@ Il metodo di progettazione dei giardini Potasiepe si basa su fasi attentamente s
 
 1. A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
 <br/><br/>
-![Bozza di progetto di un giardino](\img\slides\progettazione-giardini\bozza-progetto-giardino.jpg "Bozza di progetto di un giardino")
+![Bozza di progetto di un giardino](\img\slides\progettazione-giardini\bozza-progetto-giardino.jpg "Bozza di progetto di un giardino a Udine")
 
 2. Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino vi proporrò una lista di piante e manufatti tra cui scegliere.
 <br/><br/>
-![Progettazione giardini: esempio di planimetria](\img\slides\progettazione-giardini\planimetria.jpg "Progettazione giardini: esempio di planimetria")
+![Progettazione giardini: esempio di planimetria](\img\slides\progettazione-giardini\planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
-3. Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "guarda i video dei giardini progettati da Potasiepe su YouTube"){:target="_blank"}.
+3. Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
 
 ## Progettazione giardini per aziende e privati a Udine e Gorizia
 
