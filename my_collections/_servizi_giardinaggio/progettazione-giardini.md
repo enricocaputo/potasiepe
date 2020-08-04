@@ -55,7 +55,7 @@ Di seguito i **prezzi onnicomprensivi**, riferiti a un **incarico completo** di 
 
 <br/>
 <div class="text-center">
-  <p class="h2">Desideri progettare il tuo nuovo giardino?</p>
+  <h2>Desideri progettare il tuo nuovo giardino?</h2>
   <a title="Inizia ora a progettare il tuo nuovo giardino" href="/contatti/" aria-label="Inizia ora a progettare il tuo nuovo giardino" class="button">INIZIAMO SUBITO!</a>
 </div>
 <br/><br/>
