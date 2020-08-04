@@ -6,7 +6,7 @@ title: Progettazione Giardini Udine e Gorizia
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Udine, Gorizia'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 3
-last_modified_at: 2020-08-04T08:49
+last_modified_at: 2020-08-04T11:31
 ---
 <br/>
 <div class="carousel">
@@ -43,6 +43,23 @@ Il metodo di progettazione dei giardini Potasiepe si basa su fasi attentamente s
 
 3. Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
 
+### Quanto costa progettare un giardino?
+Di seguito i **prezzi onnicomprensivi**, riferiti a un **incarico completo** di sopralluogo, bozza e progetto definitivo.
+
+| Metri quadrati                        | Prezzo               |
+| ------------------------------------  | -------------------- |
+| fino a 500 m²                         | € 400,00             |
+| 501 - 1000 m²                         | € 900,00             |
+| 1001 - 2000 m²                        | € 1.500,00           |
+| a partire da 2001 m²                  | prezzo da concordare |
+
+<br/>
+<div class="text-center">
+  <p class="h2">Desideri progettare il tuo nuovo giardino?</p>
+  <a title="Inizia ora a progettare il tuo nuovo giardino" href="/contatti/" aria-label="Inizia ora a progettare il tuo nuovo giardino" class="button">INIZIAMO SUBITO!</a>
+</div>
+<br/><br/>
+
 ## Progettazione giardini per aziende e privati a Udine e Gorizia
 
 Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere.
@@ -53,11 +70,6 @@ Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino 
 
 Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e a rotoli (posa di zolle già pronte). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
 
-<br/>
-<div class="text-center">
-  <h2>Desideri un preventivo per il tuo progetto?</h2>
-  <a title="Richiedi preventivo" href="/contatti/" aria-label="Richiedi preventivo" class="button">RICHIEDILO ORA</a>
-</div>
 <br/><br/>
 
 ## Scopri tutti i servizi offerti da Potasiepe:
