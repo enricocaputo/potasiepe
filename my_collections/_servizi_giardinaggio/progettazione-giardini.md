@@ -6,7 +6,7 @@ title: Progettazione Giardini Udine e Gorizia
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Udine, Gorizia'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 1
-last_modified_at: 2020-08-03T20:16
+last_modified_at: 2020-08-04T08:49
 ---
 <br/>
 <div class="carousel">
@@ -27,7 +27,7 @@ La **conoscenza botanica**, la **lunga esperienza** di [giardiniere e garden des
 
 ### Il target dei giardini Potasiepe
 
-Il servizio di progettazione giardini è rivolto a **proprietari di case indipendenti**, **aziende**, ristoranti, hotel e **imprese di costruzioni** nelle province di **Udine** e **Gorizia**.
+Il servizio di progettazione giardini è rivolto a **proprietari di case indipendenti**, **aziende**, ristoranti, hotel e **imprese di costruzioni** in **Friuli-Venezia Giulia**.
 
 ### Progettazione giardini in tre fasi
 
