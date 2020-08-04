@@ -4,6 +4,7 @@ title: Condizioni generali di vendita - POTASIEPE
 excerpt: Termini e Condizioni del contratto di acquisto per le macchine agricole e da giardino, gli articoli da giardino e le piante venduti da Giardiniere Potasiepe
 permalink: /condizioni-generali-di-vendita/
 last_modified_at: 2017-11-09
+sitemap: false
 ---
 Nel negozio PotaSiepe potete acquistare in assoluta tranquillità e sicurezza. La vendita dei nostri prodotti è accompagnata da  **regolare FATTURA** intestata a vostro nome, da conservare per la **garanzia**.
 
