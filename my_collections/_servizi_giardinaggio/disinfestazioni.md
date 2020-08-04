@@ -5,8 +5,8 @@ subtitle: Liberati dalle zanzare, proteggi le tue piante dagli insetti.
 title: Disinfestazioni a Udine e Gorizia
 excerpt: 'Disinfestazione zanzare Udine. Prodotti efficaci e a basso impatto ambientale contro le zanzare e altri insetti.'
 image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
-order: 5
-last_modified_at: 2020-08-02T12:43
+order: 6
+last_modified_at: 2020-08-04T09:40
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
