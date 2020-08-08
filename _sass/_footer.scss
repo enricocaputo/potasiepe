@@ -125,16 +125,6 @@ footer {
 	}
 }
 
-.blink {
-  animation: blinker 1s linear infinite;
-}
-
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
-}
-
 @media(max-width: 1400px) {
 	footer {
 		margin-top: -5em;
