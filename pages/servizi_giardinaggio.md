@@ -1,11 +1,19 @@
 ---
 layout: page
 title: "Servizi di Giardinaggio"
-excerpt: "Progettazione giardini, potatura alberi e siepi, lotta alle zanzare, realizzazione impianti di irrigazione, manutenzione aree verdi commerciali e industriali."
-image: /img/potatura-siepe-1.jpg
+excerpt: "Per la cura del verde affidati ai servizi di giardinaggio di POTASIEPE: gestione giardini privati e spazi verdi aziendali, irrigazione. Servizi di giardinaggio."
+image: /img/servizi/servizi-giardinaggio.jpg
 permalink: /servizi-di-giardinaggio/
-last_modified_at: 2019-11-18
+last_modified_at: 2020-08-09T17:16
 ---
+<img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
+
+<br/>
+
+<div class="text-center">
+  <a title="Richiedi un Preventivo Gratuito" href="/contatti/" class="button">Richiedi un Preventivo Gratuito</a>
+</div>
+
 <div class="list-collection">
 <ul>
   {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
@@ -13,7 +21,7 @@ last_modified_at: 2019-11-18
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
       <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
       </div>
