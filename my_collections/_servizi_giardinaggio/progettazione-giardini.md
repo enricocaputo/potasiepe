@@ -6,7 +6,7 @@ title: Progettazione Giardini Udine e Gorizia
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Udine, Gorizia'
 image_path: /img/servizi/progettazione-giardini-garden-designer-udine.jpg
 order: 3
-last_modified_at: 2020-08-04T11:31
+last_modified_at: 2020-08-09T10:30
 ---
 <br/>
 <div class="carousel">
@@ -19,7 +19,7 @@ last_modified_at: 2020-08-04T11:31
 
 Progettazione di **giardini moderni a bassa manutenzione**, giardini e **terrazzi contemporanei** unici, realizzati **su misura**.
 
-Esistono **diversi stili di giardini** ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri **gusti personali** e le vostre **esigenze** tenendo in considerazione le **caratteristiche dell'ambiente** che vi circonda.
+Esistono [**diversi stili di giardini**](/consigli-di-giardinaggio/come-progettare-il-giardino "guida agli stili e alla progettazione di giardini") ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri **gusti personali** e le vostre **esigenze** tenendo in considerazione le **caratteristiche dell'ambiente** che vi circonda.
 
 ### Perché affidarsi a Potasiepe Garden designer?
 
