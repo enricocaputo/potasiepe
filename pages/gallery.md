@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Foto Gallery manutenzione giardini
-excerpt: "Nel corso degli anni ho svolto un gran numero di manutenzioni del verde, progetti e installazione di impianti di irrigazione, qui trovi qualche esempio."
+excerpt: "Una raccolta di fotografie a testimonianza del lavoro svolto da giardiniere POTASIEPE nel corso degli anni: progetti di giardini, irrigazioni, potature ecc."
 permalink: /gallery/
-last_modified_at: 2019-11-18
+last_modified_at: 2020-08-11T13:50
 
 images:
   - image_path: /img/gallery/10.jpg
@@ -81,16 +81,9 @@ images:
 ---
 # Fotogallery
 
-Nel corso degli anni ho realizzato molti **progetti di giardini e terrazze**, installato un gran numero di **impianti di irrigazione**, svolto una montagna di **manutenzioni del verde** e potature, qui trovi qualche esempio. [Mi presento..](/chi-sono/ "Chi sono")
+Una raccolta di fotografie a testimonianza del lavoro svolto da il **Giardiniere Potasiepe** nel corso degli anni: progetti di giardini, irrigazioni, potature ecc. [Mi presento..](/chi-sono/ "Chi sono")
 
 <br/>
-
-<div class="text-center">
-  <p><strong>Preventivo Gratuito</strong></p>
-  <a title="numero di telefono di Potasiepe Giardiniere +393889005888" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
-</div>
-
-<br/><br/>
 
 <div class="list-collection">
 <ul class="photo-gallery">

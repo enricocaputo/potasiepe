@@ -1,14 +1,12 @@
 ---
 layout: page
-name: Impianti di irrigazione
-subtitle: Progettazione, realizzazione, manutenzione di impianti di irrigazione.
-title: Impianti di irrigazione Udine
+title: Impianti di irrigazione a Udine e Gorizia
 excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione a Udine e Gorizia. Installatore autorizzato TORO – RAIN BIRD – CLABER – HUNTER'
-image_path: /img/servizi/impianto-irrigazione-interrata-udine.jpg
-order: 2
-last_modified_at: 2020-08-04T09:36
+image: /img/servizi/impianto-irrigazione-interrata-udine.jpg
+permalink: /impianti-di-irrigazione/
+last_modified_at: 2020-08-11T20:35
 ---
-<img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
+<img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 Un valido impianto di irrigazione è determinante per ottenere un **prato folto e rigoglioso**. Inoltre, consente un notevole **risparmio idrico** e ha bisogno di poca manutenzione.
 
@@ -20,7 +18,7 @@ Giardiniere Potasiepe è **installatore autorizzato** delle migliori marche del 
 
 Grazie all'installazione di impianti di irrigazione progettati da un professionista potrai evitare i più comuni problemi: un sistema mal bilanciato non permette all'acqua di raggiungere l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
 
-Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi con una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di *Giardiniere Potasiepe* la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
+Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi con una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
 
 ## Irrigazione fuoriterra
 
@@ -43,7 +41,7 @@ E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qua
 - &#10004; Modifica del programma in base all’andamento climatico e le esigenze di irrigazione del paesaggio
 - &#10004; Attivazione di ogni zona e ricerca eventuali danni al sistema.
 
-Contattaci per **un sopralluogo e un preventivo gratuito**
+**[Contattaci](/contatti/ "contatti") per un sopralluogo e un preventivo gratuito**
 
 <br/>
 <div class="text-center">

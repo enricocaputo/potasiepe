@@ -5,11 +5,11 @@ excerpt: 'Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno
 image: /img/lavoraconnoi.jpg
 permalink: /lavora-con-noi/
 sitemap: true
-last_modified_at: 2020-08-04T14:14
+last_modified_at: 2020-08-11T14:30
 ---
 ![Lavora con noi](/img/lavoraconnoi.jpg  "Lavora con noi")
 
-**Cerchiamo persone dinamiche e brillanti** per garantire la migliore qualità di servizio in termini di affidabilità, puntualità, creatività e pulizia. **Il Cliente è sempre al centro di ogni nostra decisione.**
+**Opportunità di lavoro** - cerchiamo **persone dinamiche e brillanti** per garantire la migliore qualità di servizio in termini di affidabilità, puntualità, creatività e pulizia. Il Cliente è sempre al centro di ogni nostra decisione.
 
 ## I nostri valori
 

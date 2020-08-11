@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mappa del sito
-excerpt: Usa la mappa del sito per orientarti su giardiniere-potasiepe.fvg.it. Acquista i nostri attrezzi da giardino, prenota i nostri servizi di giardinaggio.
+excerpt: "Usa la mappa per orientarti all'interno del sito Giardiniere Potasiepe. Trova gli argomenti che cercavi, ottieni supporto per i nostri servizi di giardinaggio."
 permalink: /sitemap.html
 ---
 # Mappa del sito Potasiepe
@@ -14,37 +14,42 @@ permalink: /sitemap.html
   <li><h3>POTASIEPE</h3></li>
   <li>
     <h4>
-      	<a class="page-link" href="/chi-sono/"> Chi sono </a>
+      	<a class="page-link" href="/chi-sono/" title="Chi sono"> Chi sono </a>
     </h4>
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/gallery/"> Gallery </a>
+        <a class="page-link" href="/gallery/" title="Foto Gallery"> Gallery </a>
     </h4>
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/prezzi/"> Prezzi </a>
+        <a class="page-link" href="/prezzi/" title="Prezzi"> Prezzi </a>
     </h4>
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/contatti/"> Contatti </a>
+        <a class="page-link" href="/contatti/" title="Contatti"> Contatti </a>
     </h4>
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/cookie/"> Privacy e cookie </a>
+        <a class="page-link" href="/lavora-con-noi/" title="Opportunità di lavoro"> Lavora con noi </a>
     </h4>
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/consigli-di-giardinaggio/"> Consigli di giardinaggio </a>
+        <a class="page-link" href="/cookie/" title="Privacy e cookie"> Privacy e cookie </a>
     </h4>
   </li>
   <li>
     <h4>
-        <a class="page-link" href="/calendario-di-giardinaggio/"> Calendario orto e giardino  </a>
+        <a class="page-link" href="/consigli-di-giardinaggio/" title="Blog"> Consigli di giardinaggio </a>
+    </h4>
+  </li>
+  <li>
+    <h4>
+        <a class="page-link" href="/calendario-di-giardinaggio/" title="Calendario orto e giardino"> Calendario orto e giardino </a>
     </h4>
   </li>
 </ul>
@@ -56,7 +61,7 @@ permalink: /sitemap.html
 	{% for servizi_giardinaggio in site.servizi_giardinaggio %}
 		<li>
       <h4>
-			<a class="page-link" href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}">{{ servizi_giardinaggio.name }}</a>
+			<a class="page-link" href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}">{{ servizi_giardinaggio.name }}</a>
       </h4>
     </li>
 	{% endfor %}
@@ -68,17 +73,22 @@ permalink: /sitemap.html
   <li><h3>SCOPRI E ACQUISTA</h3></li>
     <li>
       <h4>
-      <a class="page-link" href="/vivaio/"> Vivaio </a>
-      </h4>
-    </li>
-		<li>
-      <h4>
-			<a class="page-link" href="/vendita-online-prodotti-per-giardinaggio/"> Attrezzi </a>
+      <a class="page-link" href="/vivaio/" title="Vivaio"> Vivaio </a>
       </h4>
     </li>
     <li>
       <h4>
-          <a class="page-link" href="/condizioni-generali-di-vendita/"> Vendite e rimborsi </a>
+      <a class="page-link" href="/prato-a-rotoli/" title=" Prato a rotoli"> Prato a rotoli </a>
+      </h4>
+    </li>
+    <li>
+      <h4>
+      <a class="page-link" href="/progettazione-giardini/" title="Progettazione giardini"> Progettazione giardini </a>
+      </h4>
+    </li>
+    <li>
+      <h4>
+      <a class="page-link" href="/impianti-di-irrigazione/" title="Impianti di irrigazione"> Impianti di irrigazione </a>
       </h4>
     </li>
 </ul>

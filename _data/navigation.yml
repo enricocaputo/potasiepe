@@ -1,11 +1,13 @@
 links:
 - name: Home
   link: /
-- name: Servizi
+- name: Servizi di giardinaggio
   link: /servizi-di-giardinaggio/
+- name: Progettazione giardini
+  link: /progettazione-giardini/
+- name: Impianti d'irrigazione
+  link: /impianti-di-irrigazione/
+- name: Prato a rotoli
+  link: /prato-a-rotoli/
 - name: Prezzi
   link: /prezzi/
-- name: Vivaio
-  link: /vivaio/
-- name: Calendario
-  link: /calendario-di-giardinaggio/
