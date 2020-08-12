@@ -4,6 +4,7 @@ name: Potatura siepi
 subtitle: 'Potare le siepi è la nostra specialità: più accurato non si può!'
 title: 'La potatura di siepi è la nostra specialità!'
 excerpt: 'Il Giardiniere Potasiepe è specializzato in potatura di siepi a Udine e Gorizia: taglio accurato, esperienza, puntualità, prezzi onesti e preventivo gratuito.'
+image: /img/servizi/potatura-siepe-udine-gorizia.jpg
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
 order: 1
 last_modified_at: 2020-08-04T09:37

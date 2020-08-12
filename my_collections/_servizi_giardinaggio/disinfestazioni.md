@@ -4,6 +4,7 @@ name: Disinfestazione zanzare e blatte
 subtitle: Liberati dalle zanzare, proteggi le tue piante dagli insetti.
 title: Disinfestazione zanzare a Udine e Gorizia
 excerpt: 'La ditta POTASIEPE è specializzata in disinfestazione zanzare, a Udine e Gorizia, trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti, costo.'
+image: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 order: 3
 last_modified_at: 2020-08-12T17:25

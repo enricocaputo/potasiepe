@@ -4,6 +4,7 @@ name: Verde Commerciale e Industriale
 subtitle: Affida a Giardiniere Potasiepe la gestione degli spazi esterni della tua attività.
 title: Manutenzione del Verde Commerciale e Industriale
 excerpt: 'Affida a Potasiepe la progettazione parchi, prenota la pulizia dei piazzali e la manutenzione del verde di hotel, ristoranti, negozi e stabilimenti industriali.'
+image: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 image_path: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 order: 4
 last_modified_at: 2020-08-04T09:39
