@@ -4,7 +4,7 @@ title: Impianti di irrigazione a Udine e Gorizia
 excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione a Udine e Gorizia. Installatore autorizzato TORO – RAIN BIRD – CLABER – HUNTER'
 image: /img/servizi/impianto-irrigazione-interrata-udine.jpg
 permalink: /impianti-di-irrigazione/
-last_modified_at: 2020-08-11T20:35
+last_modified_at: 2020-08-12T11:27
 ---
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
@@ -12,7 +12,7 @@ Un valido impianto di irrigazione è determinante per ottenere un **prato folto 
 
 Giardiniere Potasiepe è **installatore autorizzato** delle migliori marche del settore: **CLABER, HUNTER, RAIN BIRD e TORO.**
 
-## Progetti, installazione e manutenzione di impianti di irrigazione interrata
+## Progettazione, installazione e manutenzione di impianti di irrigazione interrata
 
 ![impianti-di-irrigazione-udine](/img/progettazione-impianti-irrigazione-udine.jpg  "progettazione, installazione di impianti di irrigazione a Udine e Gorizia")
 
