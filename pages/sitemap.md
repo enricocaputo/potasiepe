@@ -2,7 +2,7 @@
 layout: default
 title: Mappa del sito
 excerpt: "Usa la mappa per orientarti all'interno del sito Giardiniere Potasiepe. Trova gli argomenti che cercavi, ottieni supporto per i nostri servizi di giardinaggio."
-permalink: /sitemap.html
+permalink: /sitemap/
 ---
 # Mappa del sito Potasiepe
 
