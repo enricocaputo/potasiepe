@@ -14,7 +14,7 @@ Offro i miei servizi di giardinaggio a Udine, Spilimbergo, Aquileia, Codroipo, F
 Chi sono? Uno che fin da bambino amava i fiori e le piante!<br/>
 Sono un giardiniere professionista e qualificato al vostro servizio.
 
-[Progetto giardini](/servizi-di-giardinaggio/progettazione-giardini/ "Affida a Potasiepe il progetto del tuo giardino"), realizzo aiuole, poso [impianti di irrigazione](/servizi-di-giardinaggio/impianti-di-irrigazione/ "Ottieni un impianto di irrigazione a regola d'arte") interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
+[Progetto giardini](/progettazione-giardini/ "Affida a Potasiepe il progetto del tuo giardino"), realizzo aiuole, poso [impianti di irrigazione](/impianti-di-irrigazione/ "Ottieni un impianto di irrigazione a regola d'arte") interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
 
 ## Come lavoro:
 Sia che stabiliamo un [prezzo](/prezzi/ "Scopri i prezzi di giardiniere Potasiepe") forfettario sia che decidiamo per un compenso orario e a metro, cerco di lavorare alacremente, con precisione, rapidamente e con la massima pulizia.

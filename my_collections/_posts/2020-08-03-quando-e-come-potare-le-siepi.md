@@ -3,7 +3,7 @@ title: 'Quando e come potare una siepe'
 excerpt: 'Quando e come tagliare la siepe? Potare la siepe di bosso, fotinia, tuia, lauroceraso, aucuba, siepe fiorita, siepe sempreverde, siepe formale e informale.'
 image: /img/blog/siepe/potatura.jpg
 image_featured: true
-last_modified_at: 2018-10-29
+last_modified_at: 2020-08-07T10:32
 ---
 ## Siepi sempreverdi
 Le **siepi sempreverdi** (nella foto il [Buxus](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")) come ad esempio il [lauroceraso](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe") e la [fotinia](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe") vanno potate preferibilmente da metà settembre a inizio dicembre perché in quel momento lo sviluppo si rallenta e la nuova vegetazione che si produce ha il tempo per rafforzarsi prima dell'arrivo del gelo invernale.
@@ -11,7 +11,7 @@ Le **siepi sempreverdi** (nella foto il [Buxus](/consigli-di-giardinaggio/siepe-
 ![siepe-di-buxus](/img/posts/siepe-di-buxus.jpg  "La potatura della siepe di buxus")
 
 Una seconda potatura leggera andrebbe invece eseguita in primavera: è il momento ideale per verificare se le nostre piante hanno bisogno di concime nutritivo e di trattamenti per difendersi da funghi, parassiti e insetti dannosi.
-Fanno eccezzione i **[cipressi](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")** come ad esempio la **tuja** e il **[leylandii](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")** che vanno potati una sola volta all'anno indifferentemente in autunno oppure in primavera.
+Fanno eccezione i **[cipressi](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")** come ad esempio la **tuja** e il **[leylandii](/consigli-di-giardinaggio/siepe-quale-scegliere "scopri le caratteristiche della siepe")** che vanno potati una sola volta all'anno indifferentemente in autunno oppure in primavera.
 
 Una seconda osservazione riguarda la forma: la nostra siepe può avere un aspetto non geometrico e a volte può essere composta di specie diverse (siepe informale); siepe formale: con linee regolari e solitamente tutta della stessa varietà.
 

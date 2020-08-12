@@ -6,7 +6,7 @@ image_featured: true
 last_modified_at: 2020-08-09T10:32
 ---
 ## Stili a cui ispirarsi
-Esistono molti stili di giardini ma per [ottenere il massimo](/servizi-di-giardinaggio/progettazione-giardini/ "progettazione giardini - garden designer") dai vostri spazi verdi dovete scegliere
+Esistono molti stili di giardini ma per [ottenere il massimo](/progettazione-giardini/ "progettazione giardini - garden designer") dai vostri spazi verdi dovete scegliere
 quello che meglio si adatta al vostro stile di vita e alla vostra casa.
 
 ### Stile formale

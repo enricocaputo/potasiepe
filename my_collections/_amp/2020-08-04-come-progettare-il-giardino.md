@@ -3,10 +3,10 @@ title: "Creare il giardino - Stili e progettazione di giardini"
 excerpt: "Come progettare il giardino, dividere gli spazi, scegliere e coltivare alberi e piante, creare un arredo verde per ottenere il massimo effetto decorativo."
 image: /img/posts/giardini/progettazione-giardini-contemporanei.jpg
 image_featured: true
-last_modified_at: 2020-08-09T10:33
+last_modified_at: 2020-08-09T10:32
 ---
 ## Stili a cui ispirarsi
-Esistono molti stili di giardini ma per [ottenere il massimo](/servizi-di-giardinaggio/progettazione-giardini/ "progettazione giardini - garden designer") dai vostri spazi verdi dovete scegliere
+Esistono molti stili di giardini ma per [ottenere il massimo](/progettazione-giardini/ "progettazione giardini - garden designer") dai vostri spazi verdi dovete scegliere
 quello che meglio si adatta al vostro stile di vita e alla vostra casa.
 
 ### Stile formale
@@ -110,4 +110,4 @@ Si può usare il colore anche per attirare l'attenzione verso un particolare ele
 Potete sfruttare anche l'alterazione della percezione della distanza prodotta dai colori. Ad esempio, se mettete in fondo a un giardino dei rossi e degli arancio, si produce un effetto di scorcio che fa sembrare il giardino più corto, mentre i colori pallidi lo fanno sembrare più lungo.
 
 <br/><br/>
-**Fonte**: *L'enciclopedia di piante e fiori*, RHS, 2018, Feltrinelli editore.
+**Fonte**: RHS, *L'enciclopedia di piante e fiori*, Feltrinelli editore, 2018, ISBN 9788858021903.

@@ -1,9 +1,9 @@
 ---
 title: I migliori tipi di semi per prato
-excerpt: "Scegliere il prato per il giardino, calpestabile e piacevole, non delicato. Impiego sportivo e ornamentale. Quanto impegno: festuca, poa, agrostide, dicondra."
+excerpt: "Scegliere il prato per il giardino, calpestabile, piacevole e non delicato. Impiego sportivo e ornamentale. Quanto impegno: festuca, poa, agrostide, dicondra."
 image: /img/posts/erbe.png
 image_featured: true
-last_modified_at: 2018-12-27T13:14:00+00:00
+last_modified_at: 2020-08-12T09:48
 ---
 Esistono tre fondamentali tipologie di prato: il **prato ornamentale** e di piacere, quello **sportivo** e l'**inerbimento tecnico**. Il primo è quello che ci interessa; a sua volta, si suddivide in numerose varianti riconducibili a due interpretazioni: il prato più o meno grande ma privo di altre piante; il prato di un giardino con alberi, arbusti e fiori dove si instaura  una competizione tra le piante per l'utilizzo di acqua, fattori nutritivi, luce e aria.
 
@@ -17,7 +17,7 @@ Ma quali specie di graminacee e quali loro varietà intervengono nella composizi
 
 **Le aziende sementiere** sono alla continua ricerca di nuove essenze in grado di migliorare la **resistenza alla malattie** e la **durata nel tempo** del prato e per garantire una **crescita lenta** che dilati l'intervallo tra le tosature.
 
-Se volete sperimentare **il prato mono-essenza** di seguito trovate le specie più importanti e il quantitativo necessario per seminare un metro quadro. Sappiate però che questo tipo di prato, a differenza delle composizioni di miscuglio ben calibrate, **ha scarse capacità di adattamento e di resistenza!**
+Se volete avventurarvi nella semina di **un prato mono-essenza** di seguito trovate le specie più importanti e il quantitativo necessario per seminare un metro quadro.
 
 ## Le specie di prato più importanti
 
@@ -54,12 +54,16 @@ Si diffonde tramite sottili **rizomi**. Ottima nei miscugli per la sua capacità
 ### *Poa trivialis* (20 g/mq)
 Specifica **per terreni parzialmente ombreggiati**, ha fogliame molto fine e sottile, di un bel colore verde chiaro. Ideale **per suoli pesanti e sempre umidi**. Si presta poco ai forti calpestii.
 
-## Una buona alternativa: la Dicondra
-
+### *Dicondra* (10 g/mq)
 Appartenente alle campanulacee, la ***Dichondra repens*** si differenzia dalle graminacee prative per la piccola foglia tondeggiante, che la rende una pianta tappezzante, adatta a formare un folto tappeto verde smeraldo, a **bassa manutenzione**. In posizione soleggiata non necessita nemmeno del taglio mentre all'ombra gli steli tendono a filare e si deve tosare una volta al mese. È idonea a prati ornamentali e poco calpestati.
 
-## Quanto costano i semi per il prato?
+## Quanto costa la semina del prato?
 
-Il prezzo minimo dei semi per prato è di 30 centesimi di euro per metro quadro di terreno. L'essenza più costosa è la dicondra: costa dalle 7 alle 10 volte in più delle altre. Il prezzo varia in base alla marca e al peso, una confezione da 250 grammi costa di più di una da 10 kg.
+Il prezzo minimo dei semi per prato è di 30 centesimi di euro per metro quadro di terreno. Le sementi più costose sono l'agrostide stolonifera e la dicondra. I prezzi varia in base alla marca e alla quantità acquistata, una confezione da 250 grammi costerà in proporzione molto di più di una da 10 kg.
 
-**Forse ti interessa anche [come scegliere il tosaerba più adatto](/consigli-di-giardinaggio/tagliaerba-quale-scegliere "Guida all'acquisto del tosaerba più adatto").**
+Moltiplicate il costo iniziale delle sementi x 2 perché per quasi sicuramente nell'arco del prossimo anno e mezzo dovrete intervenire a più riprese con delle tra-semine per aggiustare le zone dove non ha attecchito. Inoltre, tenete in considerazione che molto probabilmente dovrete diserbare. Un diserbo totale iniziale e uno o più diserbi selettivi successivi per estirpare le erbacce che cresceranno in mezzo alle sementi buone. Ovviamente il terreno andrà nutrito prima, durante e dopo la semina con concimi appositi. Infine, la preparazione del fondo è di fondamentale importanza per una buona riuscita e se non avete una motozappa dovrete noleggiarne una.
+
+## Una buona alternativa: il prato a rotoli
+Il [**prato a rotoli**](/prato-a-rotoli/ "scopri tutto su il prato a rotoli ") in zolla è un prato vero a pronto effetto. I vantaggi del tappeto erboso in zolla rispetto a un semina sono davvero tanti. In primo luogo, il prato sarà immediatamente calpestabile. In secondo luogo è esente da erbacce. In terzo luogo è un prato adulto e stabile con radici ben sviluppate che è stato curato, nutrito e rasato a giorni alterni durante gli ultimi otto / dodici mesi. Quarto, si può realizzare tutto l'anno. Infine, il costo non è molto più elevato di un prato seminato, il risultato è garantito e l'effetto di un bel prato verde è immediato.
+
+**Forse ti interessa anche [Bonus Verde 2020: detrazione IRPEF 36% del costo di rifacimento del prato](/consigli-di-giardinaggio/bonus-verde "Bonus Verde 2020").**

@@ -56,6 +56,8 @@ Di seguito i **prezzi onnicomprensivi**, riferiti a un **incarico completo** di 
 | 1001 - 2000 m²                        | € 1.500,00           |
 | a partire da 2001 m²                  | prezzo da concordare |
 
+Il [**Bonus Verde 2020**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su Bonus Verde 2020") prevede una detrazione IRPEF del 36% per le spese di sistemazione e progettazione di giardini, tetti verdi e aree scoperte private in genere.
+
 <br/>
 <div class="text-center">
   <h2>Desideri progettare il tuo nuovo giardino?</h2>
