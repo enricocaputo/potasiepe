@@ -25,15 +25,12 @@ social:
 permalink: pretty
 collections_dir: my_collections
 collections:
-  tagliaerba_rasaerba:
-    output: true
-    permalink: /vendita-online-prodotti-per-giardinaggio/:title
   servizi_giardinaggio:
     output: true
     permalink: /servizi-di-giardinaggio/:title/
   posts:
     output: true
-    permalink: /consigli-di-giardinaggio/:title
+    permalink: /consigli-di-giardinaggio/:title/
   calendario:
     output: true
     permalink: /calendario-di-giardinaggio/:title/
@@ -56,24 +53,6 @@ defaults:
       category: "Orto & Giardino"
       comments: "true"
       image: "/img/share-potasiepe.jpg"
-  - scope:
-      path: "_casette_giardino"
-    values:
-      layout: "product"
-      seo:
-        type: "webPage"
-  - scope:
-      path: "_piante_fiori"
-    values:
-      layout: "product"
-      seo:
-        type: "webPage"
-  - scope:
-      path: "_tagliaerba_rasaerba"
-    values:
-      layout: "product"
-      seo:
-        type: "webPage"
   - scope:
       path: "_calendario"
     values:
