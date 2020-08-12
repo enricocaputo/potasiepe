@@ -5,7 +5,7 @@ excerpt: 'La dittà Potsiepe è specializzata in prato a rotoli, posa e vendita 
 image: /img/p.jpg
 permalink: /prato-a-rotoli/
 sitemap: true
-last_modified_at: 2020-08-11T11:30
+last_modified_at: 2020-08-12T14:42
 ---
 <br/>
 <div class="carousel">
@@ -40,6 +40,56 @@ Il prezzo per la **sola fornitura** (trasporto e posa esclusi) del prato pronto 
 Un rotolo ha le seguenti dimensioni (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 10 rotoli, spese di trasporto escluse.
 
 *Tutti i prezzi si intendono IVA esclusa*
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Prato a rotoli",
+      "image": [
+        "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato1x1.jpg",
+        "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato4x3.jpg",
+        "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato16x9.jpg"
+       ],
+      "description": "Prato a rotoli, vendita di vero tappeto erboso in zolla, prato pronto effetto, esperienza decennale nei prati in rotolo migliori.",
+      "sku": "prato_mix_festuche",
+      "mpn": "prato_1",
+      "brand": {
+        "@type": "Brand",
+        "name": "POTASIEPE"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Alfredo Pappacena"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "16"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.giardiniere-potasiepe.fvg.it/prato-a-rotoli/",
+        "priceCurrency": "EUR",
+        "price": "5",
+        "priceValidUntil": "2021-12-31",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "POTASIEPE"
+        }
+      }
+    }
+    </script>
 
 ## Vantaggi del prato vero in rotoli
 
