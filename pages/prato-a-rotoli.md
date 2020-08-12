@@ -5,7 +5,7 @@ excerpt: 'La dittà Potsiepe è specializzata in prato a rotoli, posa e vendita 
 image: /img/p.jpg
 permalink: /prato-a-rotoli/
 sitemap: true
-last_modified_at: 2020-08-11T18:37
+last_modified_at: 2020-08-12T111:16
 ---
 <br/>
 <div class="carousel">
@@ -14,7 +14,7 @@ last_modified_at: 2020-08-11T18:37
   <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia"/>
 </div>
 <br/><br/>
-La dittà Potsiepe è specializzata in prato a rotoli, posa e vendita di tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
+La ditta Potsiepe è specializzata in prato a rotoli, posa e vendita di tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
 
 ## Quanto costa il prato a rotoli?
 
