@@ -2,7 +2,6 @@
 title: Calendario Orto e Giardino
 excerpt: "Calendario dei lavori in orto e giardino 2020: calendario lunare, consigli per semina, trapianto, potatura. Scaricalo gratuitamente in formato PDF"
 permalink: /calendario-di-giardinaggio/
-last_modified_at: 2019-11-27
 ---
 Il **calendario e lunario 2020** è un regalo che il *Giardiniere Potasiepe* dedica a tutti gli appassionati di giardinaggio. Un promemoria dei lavori in giardino, orto e frutteto. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato.
 

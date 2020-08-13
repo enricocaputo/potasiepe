@@ -7,7 +7,6 @@ excerpt: 'Il Giardiniere Potasiepe è specializzato in potatura di siepi a Udine
 image: /img/servizi/potatura-siepe-udine-gorizia.jpg
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
 order: 1
-last_modified_at: 2020-08-04T09:37
 ---
 ![Potatura di siepi a Udine e Gorizia](/img/servizi/potatura-di-siepi-udine-gorizia.jpg "Potatura di siepi a Udine e Gorizia")
 

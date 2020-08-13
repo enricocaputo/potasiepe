@@ -4,7 +4,6 @@ title: Giardinaggio in provincia di Udine
 excerpt: 'Impresa di giardinaggio a Udine, progettazione giardini e aiuole, manutenzione programmata delle aree a verde aziendale, sistemazione giardini privati e potatura siepe.'
 image: /img/udine.jpg
 permalink: /giardinaggio-udine/
-last_modified_at: 2019-11-20
 ---
 <img src="/img/udine.jpg" alt="Giardiniere a Udine per tutti i lavori di giardinaggio di cui hai bisogno" title="Giardiniere a Udine per tutti i lavori di giardinaggio di cui hai bisogno">
 

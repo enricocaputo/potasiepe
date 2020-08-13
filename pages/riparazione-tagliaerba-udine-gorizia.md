@@ -3,7 +3,6 @@ layout: page
 title: Riparazione tagliaerba a Udine e Gorizia
 excerpt: 'Centro Riparazione Tagliaerba, manutenzione tosaerba a scoppio di tutte le marche. Professionalità, Rapidità e Prezzi Onesti. Servizio di assistenza a Udine e Gorizia.'
 permalink: /riparazione-tagliaerba-udine-gorizia/
-last_modified_at: 2018-12-29
 ---
 
 ![riparazione-tagliaerba-udine-gorizia](/img/giardiniere-potasiepe-fvg-riparazione-di-rasaerba-e-tagliaerba.jpg  "Riparazione Tagliaerba Udine e Gorizia")

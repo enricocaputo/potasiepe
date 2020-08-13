@@ -4,8 +4,6 @@ title: Prato a Rotoli a Udine e Gorizia
 excerpt: 'La dittà Potsiepe è specializzata in prato a rotoli, posa e vendita di tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.'
 image: /img/prato/prato4x3.jpg
 permalink: /prato-a-rotoli/
-sitemap: true
-last_modified_at: 2020-08-12T18:04
 ---
 <br/>
 <div class="carousel">

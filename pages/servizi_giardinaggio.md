@@ -4,7 +4,6 @@ title: "Servizi di Giardinaggio"
 excerpt: "Per la cura del verde affidati ai servizi di giardinaggio di POTASIEPE: gestione giardini privati e spazi verdi aziendali, irrigazione. Servizi di giardinaggio."
 image: /img/servizi/servizi-giardinaggio.jpg
 permalink: /servizi-di-giardinaggio/
-last_modified_at: 2020-08-09T17:16
 ---
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 

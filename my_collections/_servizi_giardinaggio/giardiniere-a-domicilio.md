@@ -7,7 +7,6 @@ excerpt: 'Giardiniere a domicilio a Udine e Gorizia. Che si tratti di terrazzo, 
 image: /img/servizi/giardiniere-a-domicilio-udine.jpg
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 order: 2
-last_modified_at: 2020-08-02T12:42
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 

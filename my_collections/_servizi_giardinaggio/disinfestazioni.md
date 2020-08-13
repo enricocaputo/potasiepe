@@ -7,7 +7,6 @@ excerpt: 'La ditta POTASIEPE è specializzata in disinfestazione zanzare, a Udin
 image: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 order: 3
-last_modified_at: 2020-08-12T17:25
 ---
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 

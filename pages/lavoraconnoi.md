@@ -4,8 +4,6 @@ title: Lavora con noi
 excerpt: 'Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessariamente bisogno di qualifiche precedenti, solamente passione per il giardinaggio.'
 image: /img/lavoraconnoi.jpg
 permalink: /lavora-con-noi/
-sitemap: true
-last_modified_at: 2020-08-11T14:30
 ---
 ![Lavora con noi](/img/lavoraconnoi.jpg  "Lavora con noi")
 

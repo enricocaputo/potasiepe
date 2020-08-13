@@ -4,7 +4,6 @@ title: Giardinaggio in provincia di Gorizia
 excerpt: 'Impresa di giardinaggio a Gorizia, progettazione giardini e aiuole, manutenzione programmata delle aree a verde aziendale, sistemazione giardini privati e potatura siepe.'
 image: /img/gorizia.jpg
 permalink: /giardinaggio-gorizia/
-last_modified_at: 2019-11-20
 ---
 <img src="/img/gorizia.jpg" alt="Giardiniere a Gorizia per tutti i lavori di giardinaggio di cui hai bisogno" title="Giardiniere a Gorizia per tutti i lavori di giardinaggio di cui hai bisogno">
 

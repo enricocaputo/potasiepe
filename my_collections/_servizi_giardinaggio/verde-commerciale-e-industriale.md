@@ -7,7 +7,6 @@ excerpt: 'Affida a Potasiepe la progettazione parchi, prenota la pulizia dei pia
 image: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 image_path: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 order: 4
-last_modified_at: 2020-08-04T09:39
 ---
 <br/>
 <div class="carousel">
