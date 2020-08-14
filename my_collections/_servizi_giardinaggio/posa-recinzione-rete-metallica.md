@@ -2,7 +2,7 @@
 layout: page
 name: Posa recinzioni
 subtitle: Richiedi un preventivo per la tua nuova recinzione.
-title: Recinzioni in rete metallica
+title: Recinzioni in rete Udine e Gorizia
 excerpt: 'Posa in opera di recinzioni in rete metallica con pali in legno o ferro, rete plastificata atossica per animali, zincata, elettrosaldata. Udine e Gorizia.'
 image: /img/servizi/recinzione-rete-pali-legno.jpg
 image_path: /img/servizi/recinzione-rete-pali-legno.jpg
@@ -37,10 +37,14 @@ Si eseguono interventi di riparazione, rinforzo e rifacimento delle **staccionat
 Sostituzione totale e parziale di vecchie recinzioni in rete metallica e in PVC. Innalzamento della recinzione con
 aggiunta e sostituzione di pali, cavi, tendi cavi ecc.
 
+## Zona servita
+
+Installiamo reti e recinzioni a Udine e Gorizia e in tutto il Friuli-Venezia Giulia, in un raggio di 40Km da Cervignano del Friuli (UD).
+
 <br/>
 <div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+  <p class="h3">Desideri un sopralluogo o un preventivo per la tua recinzione?</p>
+  <a title="Richiedi un sopralluogo o un preventivo per la tua recinzione" href="/contatti/" class="button">RICHIEDILO ORA</a>
 </div>
 <br/><br/>
 

@@ -17,11 +17,12 @@ order: 4
   <img class="mySlides" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide5.jpg" alt="pulizia e manutenzione a verde del giardino di un ristorante" title="pulizia e manutenzione a verde del giardino di un ristorante"/>
 </div>
 <br/><br/>
+
 **La forza dell'esperienza al tuo servizio**. Giardiniere Potasiepe vanta un'esperienza pluriennale testimoniata da centinaia di opere a verde, manutenzione di parchi e installazioni di impianti di irrigazione.
 
 **La cura della vegetazione è un importante biglietto da visita**. Un piazzale pulito e ben curato, un'area esterna prestigiosa rappresentano la prima buona impressione che potete offrire ai vostri clienti e dipendenti. Studi scientifici hanno rivelato che la presenza di alberi e piante ha un legame forte con il benessere personale. **La presenza e la cura del verde testimoniano la vostra sensibilità per il benessere dei lavoratori, mettono a loro agio i vostri clienti e aumentano la reputazione della vostra azienda**.
 
-## Che cosa offriamo
+## Manutenzione del verde aziendale: i nostri servizi
 
 Ci occupiamo della **pulizia dei piazzali** e della **manutenzione delle aree verdi di hotel, ristoranti, negozi e stabilimenti industriali**.
 
@@ -31,7 +32,7 @@ Se avete già affidato la parte progettuale ad un architetto saremo lieti di occ
 
 **[Una gran varietà di alberi e piante](/vivaio/ "Scopri i Vivai Potasiepe")**, tutte forti, sane, ben nutrite e adeguatamente protette dalle infestanti.
 
-## Come
+## Come avviene la gestione del verde
 
 **[Chiavi in mano](/prezzi/ "prezzi")**, dalla movimentazione di terra alla posa in opera e assistenza.
 
@@ -39,14 +40,34 @@ Se avete già affidato la parte progettuale ad un architetto saremo lieti di occ
 
 **Programmazione a [calendario](/calendario-di-giardinaggio/ "calendario di giardinaggio")** con possibilità di invio promemoria e rapporti di avvenuta esecuzione lavori.
 
-## Dove
+## Manutenzione del verde per aziende a Udine e Gorizia
 
 Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiepe lavora in provincia di Udine")** e **[Gorizia](/gorizia/ "Potasiepe serve anche la provincia di Gorizia")** in un raggio di circa 40 km dalla nostra sede di Cervignano del Friuli (UD).
 
 <br/>
 <div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+  <h2>Desiderate concordare un sopralluogo o richiedere un preventivo?</h2>
+  <a title="Compila il modulo online" href="/contatti/" class="button"> &#9993; &nbsp; SCRIVI </a>
 </div>
+<br/><br/>
+
+## Scopri tutti i servizi offerti da Potasiepe:
+
+<div class="list-collection">
+<ul>
+  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
+  {% for servizi_giardinaggio in servizi_giardinaggio %}
+		<li>
+      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
+      <div>
+      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <p>{{ servizi_giardinaggio.subtitle }}</p>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </div>
+    </li>
+	{% endfor %}
+</ul>
+</div>
+
 
 <script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>

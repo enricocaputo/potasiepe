@@ -35,10 +35,11 @@ La frequenza degli interventi di manutenzione dipende generalmente dall'utilizzo
 
 **Forse ti interessa [come scegliere il tosaerba adatto](/consigli-di-giardinaggio/tagliaerba-quale-scegliere "tagliaerba: quale scegliere").**
 
+
 <br/>
 <div class="text-center">
-  <p class="h3">PRENOTA ADESSO</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+  <h2>Desideri prenotare il ritiro a domicilio del tuo tosaerba?</h2>
+  <a title="Prenota il ritiro a domicilio del tuo tosaerba" href="/contatti/" class="button">PRENOTA ORA</a>
 </div>
 <br/><br/>
 
