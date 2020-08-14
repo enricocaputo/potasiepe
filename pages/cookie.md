@@ -2,6 +2,7 @@
 layout: default
 title: Informativa Privacy e Cookie
 excerpt: Il presente sito utilizza cookie tecnici. Potrai comunque impostare il tuo browser in maniera da rifiutare automaticamente la ricezione dei cookie.
+image: /img/amp-logo-60x600px.png
 permalink: /cookie/
 ---
 # Privacy e Cookie
