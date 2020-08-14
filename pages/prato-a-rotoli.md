@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prato a Rotoli a Udine e Gorizia
-excerpt: 'La dittà Potsiepe è specializzata in prato a rotoli, posa e vendita di tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.'
+excerpt: 'Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori'
 image: /img/prato/prato4x3.jpg
 permalink: /prato-a-rotoli/
 ---
@@ -12,7 +12,7 @@ permalink: /prato-a-rotoli/
   <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia"/>
 </div>
 <br/><br/>
-La ditta Potsiepe è specializzata in prato a rotoli, posa e vendita di tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
+Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
 
 ## Quanto costa il prato a rotoli?
 
@@ -66,7 +66,9 @@ Un rotolo ha le seguenti dimensioni (L x W x H): 112cm x 45cm x 3cm. Acquisto mi
         "author": {
           "@type": "Person",
           "name": "Alfredo Pappacena"
-        }
+        },
+        "description": "Enrico ha posato il mio nuovo prato a rotoli in tempi record, sono molto soddisfatto.",
+        "name": "Il prato che sognavo!"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
