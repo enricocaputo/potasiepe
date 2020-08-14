@@ -12,8 +12,9 @@ permalink: /servizi-di-giardinaggio/
 
 <br/>
 
-<p><strong>Una vasta gamma di servizi di giardinaggio</strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi" aria-label="Scopri i prezzi di Giardinere Potasiepe">prezzi onesti</a></strong>. Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande. <a href="/chi-sono/" aria-label="Chi sono"><strong>Scopri di più</strong> &gt;</a></p>
+<p>Per la cura del verde affidati ai servizi di giardinaggio di <a href="/chi-sono/" aria-label="Chi sono"><strong>Giardiniere Potasiepe</strong>: manutenzione giardini privati, gestione di spazi verdi aziendali, pulizia del giardino, raccolta foglie, trattamenti anti zanzare, disinfestazioni blatte e altri insetti, realizzazione aiuole e terrazzi, ripristino impianti di irrigazione, recinzioni, potature, bordure in tufo, e ogni altro servizio di giardinaggio di cui puoi avere bisogno.</p>
 
+<p>Tutti i servizi di giardinaggio sono svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, e vengono offerti a <strong><a href="/prezzi/" aria-label="Scopri i prezzi"> prezzi onesti e trasparenti</a></strong>.</p>
 
 <div class="text-center">
 <h2>Desideri un preventivo gratuito?</h2>
