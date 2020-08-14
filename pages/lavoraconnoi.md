@@ -5,9 +5,13 @@ excerpt: 'Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno
 image: /img/lavoraconnoi.jpg
 permalink: /lavora-con-noi/
 ---
-![Lavora con noi](/img/lavoraconnoi.jpg  "Lavora con noi")
+<div class="carousel">
+<img src="/img/lavoraconnoi.jpg" alt="Lavora con noi" title="Lavora con noi">
+</div>
 
-**Opportunità di lavoro** - cerchiamo **persone dinamiche e brillanti** per garantire la migliore qualità di servizio in termini di affidabilità, puntualità, creatività e pulizia. Il Cliente è sempre al centro di ogni nostra decisione.
+## Opportunità di lavoro
+
+**Cerchiamo persone dinamiche e brillanti** per garantire la migliore qualità di servizio in termini di affidabilità, puntualità, creatività e pulizia. Il Cliente è sempre al centro di ogni nostra decisione.
 
 ## I nostri valori
 

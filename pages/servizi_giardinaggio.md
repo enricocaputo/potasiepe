@@ -19,7 +19,7 @@ permalink: /servizi-di-giardinaggio/
 <div class="text-center">
 <h2>Desideri un preventivo gratuito?</h2>
 <br/>
-<a title="Richiedi un preventivo gratuito" href="/contatti/" class="button">&#9993; &nbsp; SCRIVI</a>
+<a title="Richiedi un preventivo gratuito" href="/contatti/" class="button"><b>SCRIVI</b></a>
 </div>
 
 <div class="list-collection">
