@@ -7,9 +7,9 @@ permalink: /prato-a-rotoli/
 ---
 <br/>
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato1.jpg" alt="prato a rotoli" title="prato a rotoli, in Udine e Gorizia"/>
-  <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato2.jpg" alt="prato a rotoli" title="posa di tappeto erbosa in zolla a rotoli"/>
-  <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia"/>
+  <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato1.jpg" alt="prato a rotoli" title="prato a rotoli, in Udine e Gorizia">
+  <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato2.jpg" alt="prato a rotoli" title="posa di tappeto erbosa in zolla a rotoli">
+  <img class="mySlides" src="{{ site.baseurl }}\img\prato\prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia">
 </div>
 <br/><br/>
 Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
