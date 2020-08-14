@@ -29,7 +29,7 @@ permalink: /prezzi/
 - **0,123 €** al mq - con superfici tra i 500 e i 2000 mq
 - **0,097 €** al mq - con superfici tra i 2000 e i 5000 mq
 
-## <img src="{{ site.baseurl }}/img/icon-pdf.svg" style="display:inline"> [**LISTINO PREZZI IN DETAGLIO**](/download/prezzi-potasiepe-2018.pdf)
+## <img src="{{ site.baseurl }}/img/icon-pdf.svg" style="display:inline"> [**LISTINO PREZZI IN DETAGLIO**](/download/prezzi-potasiepe-2020.pdf)
 
 Se trovi difficile calcolare il prezzo al metro oppure se preferisci stabilire un **prezzo a forfait** non esitare a [contattarmi](/contatti/ "Richiedi maggiori informazioni").
 
