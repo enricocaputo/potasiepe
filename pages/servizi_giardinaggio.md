@@ -5,6 +5,7 @@ excerpt: "Per la cura del verde affidati ai servizi di giardinaggio di POTASIEPE
 image: /img/servizi/servizi-giardinaggio.jpg
 permalink: /servizi-di-giardinaggio/
 ---
+<br/>
 <div class="carousel">
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 </div>
@@ -13,10 +14,10 @@ permalink: /servizi-di-giardinaggio/
 
 <p><strong>Una vasta gamma di servizi di giardinaggio</strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi" aria-label="Scopri i prezzi di Giardinere Potasiepe">prezzi onesti</a></strong>. Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande.</p>
 
-<br/>
 
 <div class="text-center">
 <h2>Desideri un preventivo gratuito?</h2>
+<br/>
 <a title="Richiedi un preventivo gratuito" href="/contatti/" class="button">&#9993; &nbsp; SCRIVI</a>
 </div>
 
