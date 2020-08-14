@@ -7,9 +7,9 @@ permalink: /progettazione-giardini/
 ---
 <br/>
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine">
-  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto2.jpg" alt="progetto di un giardino a Gorizia" title="progetto di un giardino a Gorizia">
-  <img class="mySlides" src="{{ site.baseurl }}\img\slides\progettazione-giardini\progetto3.jpg" alt="progetto orto e giardino a Udine" title="progetto orto e giardino a Udine">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto2.jpg" alt="progetto di un giardino a Gorizia" title="progetto di un giardino a Gorizia">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto3.jpg" alt="progetto orto e giardino a Udine" title="progetto orto e giardino a Udine">
 </div>
 <br/><br/>
 
@@ -36,12 +36,12 @@ Un percorso creativo, progettuale e tecnico che sarà facile e piacevole percorr
 ### Fase 1: bozza di progetto
 A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
 <br/><br/>
-![Bozza di progetto di un giardino](\img\slides\progettazione-giardini\bozza-progetto-giardino.jpg "Bozza di progetto di un giardino a Udine")
+![Bozza di progetto di un giardino](/img/slides/progettazione-giardini/bozza-progetto-giardino.jpg "Bozza di progetto di un giardino a Udine")
 
 ### Fase 2: progetto definitivo
 Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino vi proporrò una lista di piante e manufatti tra cui scegliere.
 <br/><br/>
-![Progettazione giardini: esempio di planimetria](\img\slides\progettazione-giardini\planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
+![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
 ### Fase 3: video e renderig 3d
 Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
