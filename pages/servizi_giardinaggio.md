@@ -5,8 +5,9 @@ excerpt: "Per la cura del verde affidati ai servizi di giardinaggio di POTASIEPE
 image: /img/servizi/servizi-giardinaggio.jpg
 permalink: /servizi-di-giardinaggio/
 ---
+<div class="carousel">
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
-
+</div>
 <br/>
 
 <div class="text-center">
