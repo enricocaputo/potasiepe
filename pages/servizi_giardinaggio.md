@@ -9,9 +9,11 @@ permalink: /servizi-di-giardinaggio/
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 </div>
 <br/>
-
+<p>Una vasta gamma di servizi di giardinaggio svolti con la massima serietà, competenza e puntualità, offerti a prezzi onesti. Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande.</p>
 <div class="text-center">
-  <a title="Richiedi un Preventivo Gratuito" href="/contatti/" class="button">Richiedi un Preventivo Gratuito</a>
+<br/>
+<h2>Desideri un preventivo gratuito?</h2>
+<a title="Richiedi un preventivo gratuito" href="/contatti/" class="button">&#9993; &nbsp; SCRIVI</a>
 </div>
 
 <div class="list-collection">
