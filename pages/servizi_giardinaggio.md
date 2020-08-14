@@ -12,7 +12,7 @@ permalink: /servizi-di-giardinaggio/
 
 <br/>
 
-<p><strong>Una vasta gamma di servizi di giardinaggio</strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi" aria-label="Scopri i prezzi di Giardinere Potasiepe">prezzi onesti</a></strong>. Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande.</p>
+<p><strong>Una vasta gamma di servizi di giardinaggio</strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi" aria-label="Scopri i prezzi di Giardinere Potasiepe">prezzi onesti</a></strong>. Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande. <a href="/chi-sono/" aria-label="Chi sono"><strong>Scopri di più</strong> &gt;</a></p>
 
 
 <div class="text-center">
