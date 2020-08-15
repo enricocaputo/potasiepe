@@ -78,23 +78,8 @@ Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino 
 
 Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e a rotoli (posa di zolle già pronte). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
 
-<br/><br/>
+<br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
+![Progettazione giardini, landscape design, paesaggista, in Udine e Gorizia](\img\posts\giardini\giardino-acquatico.jpg "Progettazione giardini, landscape design, paesaggista, in Udine e Gorizia")
 
-<div class="list-collection">
-<ul>
-  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
-  {% for servizi_giardinaggio in servizi_giardinaggio %}
-		<li>
-      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
-      <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
-    </li>
-	{% endfor %}
-</ul>
-</div>
 <script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>

@@ -5,7 +5,9 @@ excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione 
 image: /img/posts/irrigazione/pozzetto-irrigazione.jpg
 permalink: /impianti-di-irrigazione/
 ---
+<div class="carousel">
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
+</div>
 
 Un valido impianto di irrigazione è determinante per ottenere un **prato folto e rigoglioso**. Inoltre, consente un notevole **risparmio idrico** e ha bisogno di poca manutenzione.
 
@@ -49,20 +51,4 @@ E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qua
 </div>
 <br/><br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
-
-<div class="list-collection">
-<ul>
-  {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
-  {% for servizi_giardinaggio in servizi_giardinaggio %}
-		<li>
-      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
-      <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
-    </li>
-	{% endfor %}
-</ul>
-</div>
+![Impianti di irrigazione a Udine e Gorizia](\img\servizi\irrigazione.png "Impianti di irrigazione a Udine e Gorizia")
