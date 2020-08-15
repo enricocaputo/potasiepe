@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Calendario Orto e Giardino
 excerpt: "Calendario dei lavori in orto e giardino 2020: calendario lunare, consigli per semina, trapianto, potatura. Scaricalo gratuitamente in formato PDF"
 image: /img/posts/calendario-e-lunario-2020.jpg
