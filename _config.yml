@@ -1,10 +1,10 @@
 ---
-version: 3.7.4
+version: 4.1.1
 title: Potasiepe • Giardiniere
 description: Realizzazione e manutenzione di giardini in provincia di Udine e Gorizia
 url: https://www.giardiniere-potasiepe.fvg.it
 baseurl:
-repository: https://github.com/enricocaputo/potasiepe-giardiniere-fvg
+repository: https://github.com/enricocaputo/potasiepe
 timezone: Europe/Rome
 encoding: UTF-8
 lang: it-IT
