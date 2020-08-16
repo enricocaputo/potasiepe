@@ -56,12 +56,12 @@ Inoltre, potreste desiderare ricevere solamente una bozza di progetto con alcune
 
 Di seguito i **prezzi onnicomprensivi**, riferiti a un **incarico completo** di sopralluogo, bozza e progetto definitivo.
 
-| Dimensione giardino mq                | Costo progettazione |
-| ------------------------------------  | -------------------- |
-| fino a 500 m²                         | € 400,00             |
-| 501 - 1000 m²                         | € 900,00             |
-| 1001 - 2000 m²                        | € 1.500,00           |
-| a partire da 2001 m²                  | prezzo da concordare |
+| Costo progettazione giardino | Superficie mq |
+| ------------------  | ---------------- |
+| € 400,00            | fino a 500 m²    |
+| € 900,00            | 501 - 1000 m²    |
+| € 1.500,00          | 1001 - 2000 m²   |
+| Da concordare       | oltre 2000 m²  |
 
 Il [**Bonus Verde 2020**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su Bonus Verde 2020") prevede una detrazione IRPEF del 36% per le spese di sistemazione e progettazione di giardini, tetti verdi e aree scoperte private in genere.
 
