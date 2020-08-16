@@ -1,67 +1,67 @@
 items:
 
-- sku: p001
-  name: Arte topiaria pom pom
+- sku: olivo-550
+  name: OLIVO BONSAI
 #  link:
-  image: /img/vivaio/ilex-crenata-nuvole-2m.jpg
+  image: \img\vivaio\olivi\olivo-550.jpg
   brand: Potasiepe
-  price: 850
+  price: 550
+  ratingValue: 5
+  reviewCount: 10
+  availability: InStock
+  excerpt: Circonf. fusto 80/100 cm - H 150/180 cm
+
+- sku: olivo-750
+  name: OLIVO SECOLARE
+#  link:
+  image: \img\vivaio\olivi\olivo-750.jpg
+  brand: Potasiepe
+  price: 750
+  ratingValue: 4.5
+  reviewCount: 18
+  availability: InStock
+  excerpt: Circonf. fusto 100/120 cm - H 250/300 cm
+
+- sku: olivo-1100
+  name: OLIVO SECOLARE A PIATTO
+#  link:
+  image: \img\vivaio\olivi\olivo-1100.jpg
+  brand: Potasiepe
+  price: 1100
+  ratingValue: 5
+  reviewCount: 9
+  availability: InStock
+  excerpt: Circonf. fusto 110/130 cm - H 170/180 cm
+
+- sku: olivo-1300
+  name: OLIVO SECOLARE
+#  link:
+  image: \img\vivaio\olivi\olivo-1300.jpg
+  brand: Potasiepe
+  price: 1300
+  ratingValue: 10
+  reviewCount: 4
+  availability: InStock
+  excerpt: Circonf. fusto 120/140 cm – H 250/300 cm
+
+- sku: olivo-2200
+  name: OLIVO DOPPIO
+#  link:
+  image: \img\vivaio\olivi\olivo-2200.jpg
+  brand: Potasiepe
+  price: 2200
+  ratingValue: 5
+  reviewCount: 4
+  availability: InStock
+  excerpt: Circonf. fusto 80/120 cm – H 250/300 cm
+
+- sku: olivo-4000
+  name: OLIVO SCULTURA
+#  link:
+  image: \img\vivaio\olivi\olivo-4000.jpg
+  brand: Potasiepe
+  price: 4000
   ratingValue: 5
   reviewCount: 2
   availability: InStock
-  excerpt: Ilex Crenata, altezza 150 - 200 cm
-
-- sku: p002
-  name: Ars topiaria a spirale
-#  link:
-  image: /img/vivaio/leylandi-spirale-2mt.jpg
-  brand: Potasiepe
-  price: 150
-  ratingValue: 5
-  reviewCount: 3
-  availability: InStock
-  excerpt: Leylandii, altezza 2 m c.ca
-
-- sku: p003
-  name: Olivo 15 anni
-#  link:
-  image: /img/vivaio/ulivo-15anni.jpg
-  brand: Potasiepe
-  price: 450
-  ratingValue: 4.5
-  reviewCount: 4
-  availability: InStock
-  excerpt: Olivo 15 anni
-
-- sku: p004
-  name: Olivo 25 anni
-#  link:
-  image: /img/vivaio/ulivo-25anni.jpg
-  brand: Potasiepe
-  price: 650
-  ratingValue: 4.5
-  reviewCount: 4
-  availability: InStock
-  excerpt: Olivo 25 anni
-
-- sku: p005
-  name: Olivo 40 anni
-#  link:
-  image: /img/vivaio/ulivo-40anni.jpg
-  brand: Potasiepe
-  price: 780
-  ratingValue: 4.5
-  reviewCount: 4
-  availability: InStock
-  excerpt: Olivo 40 anni
-
-- sku: p006
-  name: Olivo 50 anni
-#  link:
-  image: /img/vivaio/ulivo-50anni.jpg
-  brand: Potasiepe
-  price: 990
-  ratingValue: 4.5
-  reviewCount: 4
-  availability: InStock
-  excerpt: Olivo 50 anni
+  excerpt: Circonf. fusto 150/200 cm - H 270/300 cm
