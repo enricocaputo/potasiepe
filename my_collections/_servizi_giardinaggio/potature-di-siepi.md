@@ -12,7 +12,7 @@ order: 1
 
 ![Potatura di siepi a Udine e Gorizia](/img/servizi/potatura-di-siepi-udine-gorizia.jpg "Potatura di siepi a Udine e Gorizia")
 
-Effettuiamo **potature di [siepi di ogni dimensione e genere](/consigli-di-giardinaggio/siepe-quale-scegliere "Quale siepe scegliere")**: Agazzino, Alloro, Bosso, Lauroceraso, Photinia, Tasso, Viburno ecc.
+Effettuiamo il taglio di [piante da siepe](/consigli-di-giardinaggio/siepe-quale-scegliere "Piante da siepe: quale scegliere") di ogni dimensione e genere: Agazzino, Alloro, Bosso, Lauroceraso, Fotinia, Tasso, Viburno, Phyllirea ecc.
 
 Potatura di mantenimento, potatura di siepi formale, potatura di siepi informale, potatura di siepi ad arco, potatura di arbusti su più livelli, potatura a schermo, potatura di ringiovanimento.
 
@@ -21,13 +21,13 @@ Potatura artistica di singoli esemplari: potatura a spirale, potatura sferica a 
 ## Più accurato non si può
 
 **Accuratezza del taglio** - Ti faresti operare da un chirurgo che usa un bisturi sporco di sangue infetto? Beh, non credo proprio! Pretendi la stessa cautela per la tua siepe. <br/>
-La potatura della siepe deve essere accurata, il taglio preciso e netto, le lame ben affilate e disinfettate. Lo sapevi che la linfa di alcune piante è tossica per altre specie? Dopo aver potato un oleandro non si dovrebbe toccare un bosso senza aver prima disinfettato le lame delle cesoie troncarami e del tagliasiepe. Se una siepe è malata e non si disinfettano le lame è probabile che le avversità si propaghino da un giardino all'altro.
+La potatura delle piante da siepe deve essere accurata, il taglio preciso e netto, le lame ben affilate e disinfettate. Lo sapevi che la linfa di alcune piante è tossica per altre specie? Dopo aver potato un oleandro non si dovrebbe toccare un bosso senza aver prima disinfettato le lame delle cesoie troncarami e del tagliasiepe. Se una siepe è malata e non si disinfettano le lame è probabile che le avversità si propaghino da un giardino all'altro.
 
 **Accuratezza della forma** – Garantiamo la precisione di misure, altezze e sporgenze tanto della più comune potatura di siepi con linee squadrate quanto dei tagli ad arco ed informali.
 
 **Accuratezza nella composizione** – Se una o più piante delle tua siepe si sono seccate disponiamo di un [vivaio](/vivaio/ "Visita i Vivai Potasiepe") con un’ampia varietà di piante da siepe di ogni famiglia, specie e varietà.
 
-**Accuratezza nel metodo** – Le nostre potature di siepi usano un metodo particolare e un procedere metodico frutto di studio, esperienza e confronto con altri maestri giardinieri e con case costruttrici di attrezzi tagliasiepe.
+**Accuratezza nel metodo** – Le nostre potature di piante per siepi usano un metodo particolare e un procedere metodico frutto di studio, esperienza e confronto con altri maestri giardinieri e con case costruttrici di attrezzi tagliasiepe.
 
 **Accuratezza nella pulizia** – La pulizia sotto la siepe è importante per evitare la formazione di edere, per la salute del tronco, per tenere lontani insetti, zanzare e roditori. <br/>
 Alla fine della giornata, anche quando la potatura dovesse prolungarsi al giorno successivo, ripuliremo il giardino, la strada e il cortile dei vicini dal materiale di risulta.
@@ -35,11 +35,11 @@ Alla fine della giornata, anche quando la potatura dovesse prolungarsi al giorno
 ## Dove? Anche dai tuoi vicini
 
 Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 40 Km da Cervignano del Friuli, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br/>
-Il **preventivo è gratuito** e nella sezione [prezzi](/prezzi/ "prezzi") puoi farti un'idea abbastanza precisa del costo per potare la siepe.
+Il **preventivo è gratuito** e nella sezione prezzi puoi farti un'idea abbastanza precisa del [costo taglio siepe al metro lineare](/prezzi/ "costo taglio siepe al metro lineare").
 
-## Mesi ideali e luna clante per potare le siepi
+## Mesi ideali e luna clante per il taglio della siepe
 
-A seconda del **periodo di fioritura** ti sapremo consigliare il periodo più indicato per sfoltire la tua varietà di siepe.
+A seconda del **periodo di fioritura** ti sapremo consigliare il periodo più indicato per sfoltire la tua varietà di piante per siepe.
 
 Anche la luna è importante! Se il taglio della siepe avviene nel periodo di **luna calante**, meglio se subito a ridosso del plenilunio, le piante mantengono più a lungo la forma e sopportano meglio le potature drastiche.
 
