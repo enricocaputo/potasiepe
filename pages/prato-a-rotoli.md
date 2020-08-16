@@ -14,7 +14,7 @@ permalink: /prato-a-rotoli/
   <img class="mySlides" src="{{ site.baseurl }}/img/prato/prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia">
 </div>
 <br/><br/>
-Vendita dei migliori tipi di prato a rotoli a Udine e Gorizia, azienda specializzata in posa tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
+Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli.
 
 ## Quanto costa il prato a rotoli?
 
