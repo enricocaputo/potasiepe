@@ -48,7 +48,7 @@ L’irrigazione fuoriterra è il modo più semplice di annaffiare le piante ed i
 
 E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qualità, per ottenere un’irrigazione veramente efficace. Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto.
 
-**Installatore autorizzato** di impianti di irrigazione fuoriterra <a href="https://www.claber.com/it/servizio-assistenza/ title="assistenza irrigazione giardino CLABER" rel="noopener nofollow"><strong>Claber</strong></a>.
+Installatore autorizzato di impianti di irrigazione fuoriterra <a href="https://www.claber.com/it/servizio-assistenza/ title="assistenza irrigazione giardino CLABER" rel="noopener nofollow"><strong>Claber</strong></a>.
 
 ## La manutenzione
 
