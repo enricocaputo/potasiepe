@@ -16,9 +16,9 @@ permalink: /prato-a-rotoli/
 <br/><br/>
 Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli.
 
-## Quanto costa il prato a rotoli?
+## Costo prato a rotoli
 
-Di seguito i **prezzi prato a rotoli** riferiti a un **lavoro di posa completo** di:
+Di seguito i **prezzi del prato a rotoli** riferiti a un **lavoro di posa completo** di:
 
 - &#10004; Dissodamento terreno
 - &#10004; Discarica materiale di risulta
