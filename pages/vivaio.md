@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VIVAI POTASIEPE
-excerpt: "Potasiepe a Udine e Gorizia vivaista e vendita diretta di piante da giardino, fiori, alberi sempreverdi da giardino e da frutto. Piante sane, nutrite e protette"
+title: Vivaio vendita piante
+excerpt: "Vendita piante da siepe, piante da ombra, piante grasse da esterno, piante sempreverdi, piante invernali, vendita olivi secolari. Piante sane, nutrite, protette"
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
@@ -9,21 +9,19 @@ permalink: /vivaio/
 
 <br/>
 
-Disponiamo di **un'ampia varietà di piante ornamentali e da frutto, alberi giovani e di molti anni, fiori e bulbi**.
-
-Tutte le nostre piante godono di ottima salute, vengono nutrite e protette dalla presenza di infestanti.
+Vendita piante da siepe, piante da ombra, piante grasse da esterno, piante sempreverdi, piante invernali, vendita olivi secolari. Piante sane, nutrite, protette.
 
 <br/>
 
-![Vivai Potasiepe](/img/vivai-potasiepe.jpg "Vivai Potasiepe")
+![vendita piante online](/img/vivai-potasiepe.jpg "vendita piante online")
 
 <br/>
 
-Se ti piacciono le **rose** ne abbiamo di ogni colore, grandezza e portamento. Le nostre rose sono facili da coltivare e tutte sono **rifiorenti**: fioriscono a ondate successive da maggio a giugno e fino alle gelate invernali.
+Se ti piacciono le rose ne abbiamo di ogni colore, grandezza e portamento. Le nostre rose sono facili da coltivare e tutte sono rifiorenti: fioriscono a ondate successive da maggio a giugno e fino alle gelate invernali.
 
-Molte sono le varietà e le età dei nostri **alberi da frutto**. La nostra è una selezione di cultivar e di **piante rustiche** ovvero *refrattarie alle malattie* e che *ben si adattano ai vari contesti pedoclimatici*.
+Molte sono le varietà e le età dei nostri alberi da frutto. La nostra è una selezione di cultivar e di piante rustiche ovvero refrattarie alle malattie e che ben si adattano ai vari contesti pedoclimatici.
 
-I nostri frutti in breve (per ogni specie disponiamo di diverse varietà):
+I nostri frutti in breve (abbiamo più varietà per ogni specie):
 
 - *ALBICOCCO*
 - *CILIEGIO*
@@ -49,7 +47,7 @@ I nostri frutti in breve (per ogni specie disponiamo di diverse varietà):
 
 <br/><br/>
 
-<h2 class="text-center">Olivi e Ars Topiaria</h2>
+<h2 class="text-center">Vendita olivi secolari</h2>
 
 <div class="list-collection">
 <ul>

@@ -1,10 +1,14 @@
 ---
-title: "Quale siepe scegliere"
-excerpt: "Siepi: gli arbusti e i piccoli alberi più adatti. Acero Campestre, arancio trifogliato, biancospino, bosso, lauroceraso, piracanta, osmanto, leyland, fotinia.."
+title: "Piante da siepe: quale scegliere"
+excerpt: "Piante per siepi, gli arbusti e i piccoli alberi più adatti, siepi profumate, siepe elegante, phyllirea, tasso, bosso, lauroceraso, osmanto, leyland, fotinia."
 image: /img/posts/siepi/quale-siepe-scegliere.jpg
 image_featured: true
-last_modified_at: 2019-01-09T17:48
+last_modified_at: 2020-08-16T16:48
 ---
+Piante per siepi, gli arbusti e i piccoli alberi più adatti, siepi profumate, siepe elegante, phyllirea, tasso, bosso, lauroceraso, osmanto, leyland, fotinia.
+
+Ecco un elenco completo di piante da siepe, caratteristiche (siepe profumata, siepe elegante, piante sempreverdi), potatura, messa a dimora.
+
 ## Acero Campestre
 ![siepe di Acero Campestre](/img/posts/siepi/acero-campestre.jpg "pianta da siepe: acero campestre")
 (*Acer campestre*)
