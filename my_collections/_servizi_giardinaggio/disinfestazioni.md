@@ -83,11 +83,13 @@ Con uno-due cicli di disinfestazione il problema viene risolto quasi del tutto.
   {% assign servizi_giardinaggio = site.servizi_giardinaggio | sort: 'order' %}
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
-      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
       <article>
+      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
+      <div>
       <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
 			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </div>
       </article>
     </li>
 	{% endfor %}
