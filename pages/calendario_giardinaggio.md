@@ -19,6 +19,8 @@ ___
 
 ![calendario giardinaggio 2020](/img/posts/calendario-e-lunario-2020.jpg "calendario giardinaggio 2020")
 
+<br/>
+
 RICHIEDI il **Calendario Giardinaggio 2020** stampato a colori su preziosa carta patinata da 200 gr. ti verrà recapitato nel giro di 3-4 gg. al prezzo di **€ 14,00** - **Spedizione GRATUITA**.
 
 <br/>
