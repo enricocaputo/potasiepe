@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prato a Rotoli a Udine e Gorizia
-excerpt: 'Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori'
+excerpt: 'Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli.'
 image: /img/prato/prato4x3.jpg
 permalink: /prato-a-rotoli/
 ---
@@ -14,7 +14,7 @@ permalink: /prato-a-rotoli/
   <img class="mySlides" src="{{ site.baseurl }}/img/prato/prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia">
 </div>
 <br/><br/>
-Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
+Vendita dei migliori tipi di prato a rotoli a Udine e Gorizia, azienda specializzata in posa tappeto erboso in zolla, prato pronto, esperienza decennale nei prati in rotolo migliori.
 
 ## Quanto costa il prato a rotoli?
 
@@ -51,7 +51,7 @@ Un rotolo ha le seguenti dimensioni (L x W x H): 112cm x 45cm x 3cm. Acquisto mi
         "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato4x3.jpg",
         "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato16x9.jpg"
        ],
-      "description": "Prato a rotoli, vendita di vero tappeto erboso in zolla, prato pronto effetto, esperienza decennale nei prati in rotolo migliori.",
+      "description": "Prato a rotoli, vendita di vero tappeto erboso in zolla, prato pronto effetto, esperienza decennale nei migliori tipi di prato in rotolo.",
       "sku": "prato_mix_festuche",
       "mpn": "prato_1",
       "brand": {
@@ -93,9 +93,9 @@ Un rotolo ha le seguenti dimensioni (L x W x H): 112cm x 45cm x 3cm. Acquisto mi
     }
     </script>
 
-## Vantaggi del prato vero in rotoli
+## Vantaggi prato a rotoli
 
-I vantaggi del tappeto erboso in zolla rispetto a un semina sono davvero tanti. In primo luogo, il prato sarà immediatamente calpestabile. In secondo luogo è esente da erbacce. In terzo luogo è un prato adulto e stabile con radici ben sviluppate che è stato curato, nutrito e rasato a giorni alterni durante gli ultimi otto / dodici mesi. Infine, si può realizzare tutto l'anno, **il costo non è molto più elevato di un** [**prato seminato**](/consigli-di-giardinaggio/i-migliori-semi-per-il-prato "i migliori semi per il prato"), il risultato è garantito e l'effetto di un bel prato verde è immediato.
+Il prato a rotoli è uno dei migliori [tipi di prato](/consigli-di-giardinaggio/i-migliori-semi-per-il-prato/ "tipi di prato"). I vantaggi del tappeto erboso in zolla rispetto a un semina sono davvero tanti. In primo luogo, il prato sarà immediatamente calpestabile. In secondo luogo è esente da erbacce. In terzo luogo è un prato adulto e stabile con radici ben sviluppate che è stato curato, nutrito e rasato a giorni alterni durante gli ultimi otto / dodici mesi. Infine, si può realizzare tutto l'anno, **il costo non è molto più elevato di un** [**prato seminato**](/consigli-di-giardinaggio/i-migliori-semi-per-il-prato "i migliori semi per il prato"), il risultato è garantito e l'effetto di un bel prato verde è immediato.
 
 [**Bonus Verde 2020: detrazione IRPEF 36% per le spese di rifacimento del prato**](/consigli-di-giardinaggio/bonus-verde "Bonus Verde 2020").
 
