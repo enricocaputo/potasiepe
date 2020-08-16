@@ -18,7 +18,7 @@ Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in
 
 ## Quanto costa il prato a rotoli?
 
-Di seguito i **prezzi onnicomprensivi** riferiti a un **lavoro di posa completo** di:
+Di seguito i **prezzi prato a rotoli** riferiti a un **lavoro di posa completo** di:
 
 - &#10004; Dissodamento terreno
 - &#10004; Discarica materiale di risulta
