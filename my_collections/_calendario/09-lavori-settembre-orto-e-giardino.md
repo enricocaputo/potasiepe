@@ -85,10 +85,5 @@ ZUCCHINO
 La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la coltivazione di **ortaggi diversi**. In questo modo **si evitavano le conseguenze negative della monocoltura**: impoverimento del suolo, proliferazione di parassiti, malerbe ecc.
 
 ## Download
-<p>
-  <strong>
-    Scarica il <a href="/download/calendari/2020/calendario-e-lunario-2020.pdf" download="calendario-e-lunario-2020.pdf" title="Scarica in formato PDF il calendario-e-lunario-2020.pdf"> calendario e lunario 2020</a> in formato PDF.
-  </strong>
-</p>
 
 <p><strong>Scarica la <a href="/download/la-rotazione-degli-ortaggi-per-piccoli-orti-familiari.pdf" download="rotazioneOrtaggi.pdf" title="La Rotazione degli Ortaggi per Piccoli Orti Familiari">tabella delle rotazioni e associazioni degli ortaggi</a> in formato PDF.</strong></p>
