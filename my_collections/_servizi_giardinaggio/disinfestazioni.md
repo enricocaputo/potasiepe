@@ -12,11 +12,11 @@ order: 3
 
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
-La ditta POTASIEPE è **specializzata in disinfestazione zanzare**, a **Udine e Gorizia**, trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti a [**costi contenuti**](#costo "scopri quanto costa la disinfestazione zanzare").
+La ditta POTASIEPE è **specializzata in disinfestazione zanzare**, a Udine, a Gorizia, trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti a [**costi contenuti**](#costo "scopri quanto costa la disinfestazione zanzare").
 
-Con i trattamenti disinfestazione zanzare potrai ritornare a goderti le sere d’estate in giardino, organizzare cene con gli amici all'aperto senza preoccuparti delle punture d'insetti, rilassarti in piscina assieme ai tuoi bambini perché i metodi di lotta alle zanzare del  [giardiniere POTASIEPE](/chi-sono/ "chi sono") sono davvero mirati ed efficaci.  
+Con il **trattamento zanzare giardino** zanzare potrai ritornare a goderti le sere d’estate in giardino, organizzare cene con gli amici all'aperto senza preoccuparti delle punture d'insetti, rilassarti in piscina assieme ai tuoi bambini perché i metodi di lotta alle zanzare del  [giardiniere POTASIEPE](/chi-sono/ "chi sono") sono davvero mirati ed efficaci.  
 
-## Quando è meglio iniziare le disinfestazioni?
+## Quando è meglio iniziare il trattamento antizanzare?
 
 I trattamenti di disinfestazione andrebbero iniziati non appena le zanzare ritornano attive in primavera, quando le temperature notturne raggiungono i 15 gradi.
 
@@ -34,9 +34,9 @@ Per questo motivo la disinfestazione della zanzara tigre può essere svolta anch
 
 La **lotta anti larvale** consente di eliminare in breve tempo un grande numero di “potenziali” zanzare adulte, agendo in aree limitate ed impiegando quantità modeste di specifici insetticidi anti-larvali. Si tratta di una forma di lotta caratterizzata da un impatto ambientale minore rispetto a quello che accompagna la lotta contro le zanzare adulte.
 
-<h2 id="costo">Quanto costa la disinfestazione zanzare?</h2>
+<h2 id="costo">Costo disinfestazione zanzare</h2>
 
-**Il costo di un trattamento disinfestazione zanzare dipende da diversi fattori**, ad esempio, la dimensione del giardino e il numero di tombini, ristagni d’acqua, canali d’irrigazione e pozzetti di fognatura. Gli interventi possono poi riguardare uno solo oppure entrambi i tipi di disinfestazione:
+**Il costo di un trattamento zanzare dipende da diversi fattori**, ad esempio, la dimensione del giardino e il numero di tombini, ristagni d’acqua, canali d’irrigazione e pozzetti di fognatura. Gli interventi possono poi riguardare uno solo oppure entrambi i tipi di disinfestazione:
 
 - trattamento per le uova di zanzara
 - trattamento per gli adulti di zanzara
