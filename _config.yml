@@ -1,7 +1,7 @@
 ---
 version: 4.1.1
-title: Potasiepe • Giardiniere
-description: Realizzazione e manutenzione di giardini in provincia di Udine e Gorizia
+title: Potasiepe
+description: "Potasiepe: giardiniere a Udine e Gorizia per progettazione giardini, realizzazione giardini, sistemazione giardini, servizi giardinaggio, manutenzione del verde"
 url: https://www.giardiniere-potasiepe.fvg.it
 baseurl:
 repository: https://github.com/enricocaputo/potasiepe
