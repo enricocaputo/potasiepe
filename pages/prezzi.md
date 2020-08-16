@@ -13,25 +13,31 @@ permalink: /prezzi/
 
 ## Costo taglio siepe al metro lineare
 
-- **4 €** al m - con perimetro sezione e altezza fino a 200 cm
-- **6 €** al m - con perimetro sezione e altezza fino a 350 cm
-- **9 €** al m - con perimetro sezione e altezza fino a 500 cm
-- **14 €** al m - con perimetro sezione e altezza fino a 800 cm
+| Costo taglio siepe | Altezza siepe |
+|--------------------|---------------|
+|€ 4,00  al metro |fino a 200 cm di altezza
+|€ 6,00  al metro |da 201 a 300 cm di altezza
+|€ 9,00  al metro |da 301 a 500 cm di altezza
+|€ 14,00 al metro |da 501 a 800 cm di altezza
 
 ## Costo taglio prato
 
-- **0,40 €** al mq - con superfici tra i 200 e i 300 mq
-- **0,30 €** al mq - con superfici tra i 300 e i 500 mq
-- **0,20 €** al mq - con superfici tra i 500 e i 2000 mq
-- **0,10 €** al mq - con superfici tra i 2000 e i 5000 mq
+| Costo taglio prato | Dimensione giardino |
+|--------------------|------------------|
+| € 0,40 al mq | superfici tra 200 e 300 mq |
+| € 0,30 al mq | superfici tra 300 e 500 mq |
+| € 0,20 al mq | superfici tra 500 e 2.000 mq |
+| € 0,10 al mq | superfici oltre i 2.000 mq |
 
 ## Diritto di chiamata
 
-- **10 €** - Entro un raggio di 10 km da Cervignano, UD
-- **20 €** - Entro un raggio di 20 km da Cervignano, UD
-- **30 €** - Entro un raggio di 30 km da Cervignano, UD
-- **40 €** - Entro un raggio di 40 km da Cervignano, UD
-- *Le Zone Oltre i 40 km NON SONO SERVITE*
+|Costo | Distanza |
+|-----|---------|
+|€ 10 | entro un raggio di 10 km da Cervignano, UD|
+|€ 20 | entro un raggio di 20 km da Cervignano, UD|
+|€ 30 | entro un raggio di 30 km da Cervignano, UD|
+|€ 40 | entro un raggio di 40 km da Cervignano, UD|
+|     | Le Zone Oltre i 40 km NON SONO SERVITE |
 
 ## <img src="{{ site.baseurl }}/img/icon-pdf.svg" style="display:inline"> [**LISTINO PREZZI COMPLETO**](/download/prezzi-potasiepe-2020.pdf)
 
