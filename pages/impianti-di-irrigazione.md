@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impianti di irrigazione a Udine e Gorizia
-excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione a Udine e Gorizia. Installatore autorizzato TORO – RAIN BIRD – CLABER – HUNTER'
+excerpt: 'Impianti di irrigazione a Udine e Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato TORO – RAIN BIRD – HUNTER'
 image: /img/posts/irrigazione/pozzetto-irrigazione.jpg
 permalink: /impianti-di-irrigazione/
 ---
@@ -11,17 +11,34 @@ permalink: /impianti-di-irrigazione/
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 </div>
 
-Un valido impianto di irrigazione è determinante per ottenere un **prato folto e rigoglioso**. Inoltre, consente un notevole **risparmio idrico** e ha bisogno di poca manutenzione.
+Impianti di irrigazione a Udine e Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato
+<a href="https://www.hunterindustries.com/it" title="impianti di irrigazione HUNTER" rel="noopener nofollow"><strong>HUNTER</strong></a>
+<a href="https://www.rainbird.it/" title="impianti di irrigazione RAIN BIRD" rel="noopener nofollow"><strong>RAIN BIRD</strong></a>
+<a href="https://www.toro.com/it-it/irrigation" title="impianti di irrigazione TORO" rel="noopener nofollow"><strong>TORO</strong></a>.
 
-Giardiniere Potasiepe è **installatore autorizzato** delle migliori marche del settore: **CLABER, HUNTER, RAIN BIRD e TORO.**
+## Vantaggi irrigazione interrata automatica
 
-## Progettazione, installazione e manutenzione di impianti di irrigazione interrata
+I vantaggi di avere un impianto di irrigazione interrato automatico sono molti:
 
-![impianti-di-irrigazione-udine](/img/progettazione-impianti-irrigazione-udine.jpg  "progettazione, installazione di impianti di irrigazione a Udine e Gorizia")
+- &#10004; aumento del valore della proprietà
+- &#10004; comodità di irrigare automaticamente il giardino anche quando si è assenti o in vacanza
+- &#10004; certezza che ogni zona del giardino riceva la giusta quantità d’acqua, senza sprechi
+- &#10004; piacevolezza estetica per la mancanza di tubazioni fuori terra,
+- &#10004; facilità di tagliare il prato, gli irrigatori sono collocati a livello del manto erboso
+
+## Irrigazione giardino
+
+![impianto irrigazione giardino](/img/progettazione-impianti-irrigazione-udine.jpg  "impianto irrigazione giardino")
 
 Grazie all'installazione di impianti di irrigazione progettati da un professionista potrai evitare i più comuni problemi: un sistema mal bilanciato non permette all'acqua di raggiungere l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
 
-Ci occupiamo di installare impianti di irrigazione a spruzzo e a goccia. Possiamo risolvere i guasti improvvisi con una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
+Esperienza decennale in impianti di irrigazione. Possiamo risolvere i guasti improvvisi con una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
+
+## Irrigazione a goccia
+
+L’irrigazione a goccia consente di somministrare ad ogni singola pianta la giusta quantità d’acqua, all’orario desiderato: una soluzione ideale per tutte le piante in vaso, per le aiuole ed anche per l’orto.
+
+Dal programmatore elettrico o a batteria, l’acqua scorre in un tubo collettore flessibile e da questo, attraverso un ala gocciolante o appositi tubicini capillari, raggiunge le singole piante.  
 
 ## Irrigazione fuoriterra
 
@@ -31,7 +48,7 @@ L’irrigazione fuoriterra è il modo più semplice di annaffiare le piante ed i
 
 E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qualità, per ottenere un’irrigazione veramente efficace. Carrelli irrigatori, irrigatori di superfice, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto.
 
-**Installatore autorizzato** di impianti di irrigazione fuoriterra **Claber**.
+**Installatore autorizzato** di impianti di irrigazione fuoriterra <a href="https://www.claber.com/it/servizio-assistenza/ title="assistenza irrigazione giardino CLABER" rel="noopener nofollow"><strong>Claber</strong></a>.
 
 ## La manutenzione
 
