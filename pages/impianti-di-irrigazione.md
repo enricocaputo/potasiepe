@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impianti di irrigazione a Udine e Gorizia
-excerpt: 'Impianti di irrigazione a Udine e Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato TORO – RAIN BIRD – HUNTER'
+excerpt: 'Impianti di irrigazione a Udine e Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato HUNTER – RAIN BIRD – TORO'
 image: /img/posts/irrigazione/pozzetto-irrigazione.jpg
 permalink: /impianti-di-irrigazione/
 ---
@@ -12,8 +12,8 @@ permalink: /impianti-di-irrigazione/
 </div>
 
 Impianti di irrigazione a Udine e Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato
-<a href="https://www.hunterindustries.com/it" title="impianti di irrigazione HUNTER" rel="noopener nofollow"><strong>HUNTER</strong></a>,
-<a href="https://www.rainbird.it/" title="impianti di irrigazione RAIN BIRD" rel="noopener nofollow"><strong>RAIN BIRD</strong></a>, 
+<a href="https://www.hunterindustries.com/it" title="impianti di irrigazione HUNTER" rel="noopener nofollow"><strong>HUNTER</strong></a> -
+<a href="https://www.rainbird.it/" title="impianti di irrigazione RAIN BIRD" rel="noopener nofollow"><strong>RAIN BIRD</strong></a> -
 <a href="https://www.toro.com/it-it/irrigation" title="impianti di irrigazione TORO" rel="noopener nofollow"><strong>TORO</strong></a>.
 
 ## Vantaggi irrigazione interrata automatica
