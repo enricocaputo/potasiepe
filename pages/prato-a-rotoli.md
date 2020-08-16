@@ -18,15 +18,7 @@ Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in
 
 ## Costo prato a rotoli
 
-Di seguito i **prezzi del prato a rotoli** riferiti a un **lavoro di posa completo** di:
-
-- &#10004; Dissodamento terreno
-- &#10004; Discarica materiale di risulta
-- &#10004; Livellamento del piano
-- &#10004; Rullatura € 3,50 mq
-- &#10004; Concimazione € 0,50 mq
-- &#10004; Posa € 2,00 mq
-- &#10004; Fornitura prato a rotoli
+Di seguito i **prezzi del prato a rotoli** riferiti a un lavoro di **posa completa** di: &#10004; Dissodamento terreno &#10004; Smaltimento del materiale di risulta &#10004; Livellamento del piano &#10004; Rullatura &#10004; Concimazione &#10004; Fornitura prato a rotoli &#10004; Posa.
 
 | Dimensione giardino mq   | Costo prato a rotoli |
 | -----------------------  | -------------------- |
@@ -36,8 +28,8 @@ Di seguito i **prezzi del prato a rotoli** riferiti a un **lavoro di posa comple
 | 151 - 300 m²             | € 12,00              |
 | a partire da 301 m²      | prezzo da concordare |
 
-Il prezzo per la **sola fornitura** (trasporto e posa esclusi) del prato pronto in rotoli è di **€ 5,00 a rotolo**.
-Un rotolo ha le seguenti dimensioni (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 10 rotoli, spese di trasporto escluse.
+Sola fornitura (trasporto e posa esclusi): **prezzo prato a rotoli** è di **€ 5,00** a rotolo.
+Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 10 rotoli.
 
 *Tutti i prezzi si intendono IVA esclusa*
 
