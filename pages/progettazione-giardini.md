@@ -19,7 +19,7 @@ Progettazione di **giardini moderni a bassa manutenzione**, giardini e **terrazz
 
 ## Passione e professionalità per realizzare spazi verdi che emozionano
 
-Esistono diversi stili per progettare un giardino ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri **gusti personali** e le vostre **esigenze** tenendo in considerazione le **caratteristiche dell'ambiente** che vi circonda.
+Esistono diversi stili per progettare un giardino ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri gusti personali e le vostre esigenze tenendo in considerazione le caratteristiche dell'ambiente che vi circonda.
 
 ## Perché scegliere il giardiniere paesaggista Potasiepe
 
@@ -27,7 +27,7 @@ La conoscenza botanica, la lunga esperienza in giardini design accumulata negli 
 
 ## Il target dei giardini Potasiepe
 
-Il servizio di progettazione giardini è rivolto a **proprietari di case indipendenti**, **aziende**, ristoranti, hotel e **imprese di costruzioni** in **Friuli-Venezia Giulia**.
+Il servizio di progettazione giardini è rivolto a proprietari di case indipendenti, aziende, ristoranti, hotel e imprese di costruzioni in Friuli-Venezia Giulia.
 
 ## Progettazione giardini in tre fasi
 
@@ -74,7 +74,7 @@ Il [**Bonus Verde 2020**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su
 
 ## Progettazione giardini per aziende e privati, Udine, Gorizia
 
-Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere. A ognuno il suo  [**stile**](/consigli-di-giardinaggio/come-progettare-il-giardino "come progettare un giardino").
+Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere. A ognuno il suo  [stile](/consigli-di-giardinaggio/come-progettare-il-giardino "come progettare un giardino").
 
 ## Realizzazione giardini
 
