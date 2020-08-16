@@ -1,20 +1,20 @@
 ---
-title: "Creare il giardino - Stili e progettazione di giardini"
-excerpt: "Come progettare il giardino, dividere gli spazi, scegliere e coltivare alberi e piante, creare un arredo verde per ottenere il massimo effetto decorativo."
+title: "Come progettare un giardino"
+excerpt: "Come progettare un giardino: dividere gli spazi, scegliere e coltivare alberi e piante, creare un arredo verde per ottenere il massimo effetto decorativo."
 image: /img/posts/giardini/progettazione-giardini-contemporanei.jpg
 image_featured: true
-last_modified_at: 2020-08-09T10:32
+last_modified_at: 2020-08-16T13:32
 ---
-## Stili a cui ispirarsi
+## Stili di giardini
 Esistono molti stili di giardini ma per [ottenere il massimo](/progettazione-giardini/ "progettazione giardini - garden designer") dai vostri spazi verdi dovete scegliere
 quello che meglio si adatta al vostro stile di vita e alla vostra casa.
 
-### Stile formale
+### Stile giardino formale
 ![Giardino formale all'italiana](/img/posts/siepi/quale-siepe-scegliere.jpg "Giardino formale all'italiana")
 
 Lo stile formale, tipico dei **giardini all'italiana**, presenta simmetrie e geometrie ben equilibrate. La vegetazione è disciplinata lungo le linee rigorose di muri, viali e terrazze. Tradizionalmente vengono impiegate poche piante diverse, usate però in abbondanza per ottenere uniformità nella tessitura e nei colori.
 
-### Stile informale
+### Stile giardino informale
 ![Cottage garden](/img/posts/giardini/cottage-garden.jpg "Cottage garden")
 
 I giardini informali danno l'impressione di essere stati creati spontaneamente dalla natura. Le linee irregolari e morbide conferiscono a questi giardini un aria vagamente "spettinata". In realtà, la loro bellezza dipende da un progetto ben studiato e dalla capacità del giardiniere di mantenere l'ordine nella composizione. I **cottage garden** delle campagne inglesi ne sono un classico esempio.
@@ -84,7 +84,7 @@ Si può realizzare un giardino affascinante tutto l'anno combinando gruppi di pi
 
 In primavera, concentratevi sugli alberi fioriti - ciliegi, meli selvatici, magnolie e susini - e su bulbose colorate come giacinti, muscari, crocus, narcisi e tulipani. L'estate porta con sé un'esplosione di fiori di perenni, annuali e bulbose, di colori, altezze e forme fiorali innumerevoli. L'autunno accende di colori abbaglianti alberi e arbusti, fra cui aceri, cotoneaster e cotinus. Accompagnateli a perenni a fioritura tardiva, come astri. Il giardino può essere seducente anche in inverno, con i fiori profumati di hamamelis e sarcococche, i fusti colorati di cornioli e salici e le bacche di biancospini, agrifogli e viburni.
 
-## Usare i colori
+## I colori del giardino
 La scelta dei colori è sempre personale ma esistono alcune teorie utili su come combinare e mescolare i colori per ottenere combinazioni gradevoli.
 
 ### Combinare i colori
@@ -97,7 +97,7 @@ La **ruota dei colori** è utile per creare schemi armonici e contrastanti. Per 
 I colori adiacenti sono detti **armonici** o analoghi ed esprimono un senso di ordine. Esempi di colori armonici sono blu, viola e rosa e verde, giallo e arancio pallido.
 Gli **schemi di colore triadici** si ottengono scegliendo tre colori alla stessa distanza sulla ruota. Per esempio verde, arancio e viola.
 
-### Creare stati d'animo e punti focali
+### Stati d'animo e punti focali di un giardino
 Il colore può trasmettere uno stato d'animo o un messaggio e ha un effetto potente sull'atmosfera del giardino. Per esempio colori caldi, vivaci, come cremisi, scarlatto, magenta, giallo-oro e arancio danno un senso di eccitazione, mentre colori freddi come celeste, rosa pallido, malva, grigi tenui e blu-verde producono serenità.
 Usateli per creare situazioni diverse: uno schema cromatico super caldo vicino alla casa e toni più freddi in una zona ombrosa, a bosco, all'estremità del giardino.
 

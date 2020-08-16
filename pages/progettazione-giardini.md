@@ -45,7 +45,7 @@ Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la d
 <br/><br/>
 ![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
-### Fase 3: video e renderig 3d
+### Fase 3: giardini design e renderig 3d
 Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
 
 ## Progettazione giardini: quanto costa
@@ -54,7 +54,7 @@ Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futu
 
 Inoltre, potreste desiderare ricevere solamente una bozza di progetto con alcune indicazioni per mettervi sulla buona strada e poi procedere da soli, oppure potreste affidarmi un incarico completo.
 
-Di seguito i **prezzi onnicomprensivi**, riferiti a un **incarico completo** di sopralluogo, bozza e progetto definitivo.
+Di seguito i **prezzi onnicomprensivi**, riferiti a un **incarico completo** di sopralluogo, bozza e progetto giardino definitivo.
 
 | Costo progettazione giardino | Superficie mq |
 | ------------------  | ---------------- |
@@ -67,8 +67,8 @@ Il [**Bonus Verde 2020**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su
 
 <br/>
 <div class="text-center">
-  <h2>Desideri progettare il tuo nuovo giardino?</h2>
-  <a title="Inizia ora a progettare il tuo nuovo giardino" href="/contatti/" aria-label="Inizia ora a progettare il tuo nuovo giardino" class="button">INIZIAMO SUBITO!</a>
+  <h2>Desideri progettare un giardino?</h2>
+  <a title="contatti" href="/contatti/" aria-label="contatti" class="button">CONTATTAMI</a>
 </div>
 <br/><br/>
 
