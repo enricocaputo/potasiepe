@@ -19,7 +19,7 @@ Progettazione di **giardini moderni a bassa manutenzione**, giardini e **terrazz
 
 ## Passione e professionalità per realizzare spazi verdi che emozionano
 
-Esistono [**diversi stili di giardini**](/consigli-di-giardinaggio/come-progettare-il-giardino "guida agli stili e alla progettazione di giardini") ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri **gusti personali** e le vostre **esigenze** tenendo in considerazione le **caratteristiche dell'ambiente** che vi circonda.
+Esistono diversi stili per progettare un giardino ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri **gusti personali** e le vostre **esigenze** tenendo in considerazione le **caratteristiche dell'ambiente** che vi circonda.
 
 ## Perché scegliere il giardiniere paesaggista Potasiepe
 
@@ -45,7 +45,7 @@ Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la d
 <br/><br/>
 ![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
-### Fase 3: giardini design e renderig 3d
+### Fase 3: video e renderig 3d
 Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
 
 ## Progettazione giardini: quanto costa
@@ -72,16 +72,16 @@ Il [**Bonus Verde 2020**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su
 </div>
 <br/><br/>
 
-## Progettazione giardini per aziende e privati a Udine e Gorizia
+## Progettazione giardini per aziende e privati, Udine, Gorizia
 
-Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere.
+Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere. A ognuno il suo  [**stile**](/consigli-di-giardinaggio/come-progettare-il-giardino "come progettare un giardino").
 
 ## Realizzazione giardini
 
-Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e a rotoli (posa di zolle già pronte). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
+Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e [prato a rotoli](/prato-a-rotoli/ "prato a rotoli"). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
 
 <br/>
 
-![Progettazione giardini, landscape design, paesaggista, in Udine e Gorizia](\img\posts\giardini\giardino-acquatico.jpg "Progettazione giardini, landscape design, paesaggista, in Udine e Gorizia")
+![Giardini design, Udine, Gorizia](\img\posts\giardini\giardino-acquatico.jpg "Giardini design, Udine, Gorizia")
 
 <script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>
