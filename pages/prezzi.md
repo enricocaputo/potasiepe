@@ -15,7 +15,7 @@ permalink: /prezzi/
 - **40 €** - Entro un raggio di 40 km da Cervignano, UD
 - *Le Zone Oltre i 40 km NON SONO SERVITE*
 
-## Potature di Siepi (sui tre lati)
+## Costo taglio siepe al metro lineare
 
 - **3,718 €** al m - con perimetro sezione e altezza fino a 200 cm
 - **4,925 €** al m - con perimetro sezione e altezza fino a 350 cm

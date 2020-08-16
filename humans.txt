@@ -1,5 +1,5 @@
 /* TEAM */
-  Web designer: enrico caputo
+  Web designer: Enrico Caputo
   Contact: enricocaputo.1972@gmail.com
   From: Italy
 
@@ -7,7 +7,7 @@
   Blog and static website: jekyllrb.com
   Hosting: github.com
   Forms: formspree.io
-  Testing: search.google.com/test/rich-results?hl=it
+  Testing: search.google.com/test/rich-results
 
 /* SITE */
   Last update: 2020/08/13
