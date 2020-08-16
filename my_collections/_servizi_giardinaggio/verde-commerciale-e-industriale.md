@@ -1,14 +1,14 @@
 ---
 layout: page
-name: Verde Commerciale e Industriale
+name: Manutenzione verde aziendale
 subtitle: Affida a Giardiniere Potasiepe la gestione degli spazi esterni della tua attività.
-title: Manutenzione del Verde Commerciale e Industriale
+title: Manutenzione del Verde aziendale
 excerpt: 'Affida a Potasiepe la progettazione parchi, prenota la pulizia dei piazzali e la manutenzione del verde di hotel, ristoranti, negozi e stabilimenti industriali.'
 image: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 image_path: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 order: 4
 ---
-# Manutenzione del Verde Commerciale e Industriale
+# Manutenzione del Verde aziendale
 
 <br/>
 <div class="carousel">
@@ -42,7 +42,7 @@ Se avete già affidato la parte progettuale ad un architetto saremo lieti di occ
 
 **Programmazione a [calendario](/calendario-di-giardinaggio/ "calendario di giardinaggio")** con possibilità di invio promemoria e rapporti di avvenuta esecuzione lavori.
 
-## Manutenzione del verde per aziende a Udine e Gorizia
+## Manutenzione verde per aziende, Udine, Gorizia
 
 Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiepe lavora in provincia di Udine")** e **[Gorizia](/gorizia/ "Potasiepe serve anche la provincia di Gorizia")** in un raggio di circa 40 km dalla nostra sede di Cervignano del Friuli (UD).
 
