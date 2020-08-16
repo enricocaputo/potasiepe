@@ -23,7 +23,7 @@ Esistono diversi stili per progettare un giardino ma, se volete ottenere il mass
 
 ## Perché scegliere il giardiniere paesaggista Potasiepe
 
-La **conoscenza botanica**, la **lunga esperienza** di [giardiniere e garden designer](/chi-sono/ "Chi sono") accumulata negli anni, la **capacità di cogliere la personalità e le aspettative del committente** condurranno alla realizzazione di giardini meravigliosi.
+La conoscenza botanica, la lunga esperienza in giardini design accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno.
 
 ## Il target dei giardini Potasiepe
 
