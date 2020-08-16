@@ -8,6 +8,8 @@ image: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 image_path: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 order: 4
 ---
+# Manutenzione del Verde Commerciale e Industriale
+
 <br/>
 <div class="carousel">
   <img class="mySlides" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide1.jpg" alt="ottieni progetti di parchi di hotel" title="ottieni progetti di parchi di hotel">
@@ -51,7 +53,7 @@ Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiep
 </div>
 <br/><br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
+<p class="h3">Scopri tutti i <a href="/servizi-di-giardinaggio/" title="servizi di giardinaggio">servizi di giardinaggio</a> offerti da Potasiepe:</p>
 
 <div class="list-collection">
 <ul>
@@ -59,11 +61,11 @@ Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiep
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <article>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </article>
     </li>
 	{% endfor %}
 </ul>

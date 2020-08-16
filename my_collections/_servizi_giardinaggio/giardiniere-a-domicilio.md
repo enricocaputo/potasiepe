@@ -8,6 +8,8 @@ image: /img/servizi/giardiniere-a-domicilio-udine.jpg
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 order: 2
 ---
+# Giardiniere a domicilio a Udine e Gorizia
+
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 <br/><br/>
@@ -49,7 +51,7 @@ Mi muovo in tutta la provincia di **[Gorizia](/giardinaggio-gorizia/ "giardinier
 </div>
 <br/><br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
+<p class="h3">Scopri tutti i <a href="/servizi-di-giardinaggio/" title="servizi di giardinaggio">servizi di giardinaggio</a> offerti da Potasiepe:</p>
 
 <div class="list-collection">
 <ul>
@@ -57,11 +59,11 @@ Mi muovo in tutta la provincia di **[Gorizia](/giardinaggio-gorizia/ "giardinier
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <article>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </article>
     </li>
 	{% endfor %}
 </ul>

@@ -5,6 +5,8 @@ excerpt: 'Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in pos
 image: /img/prato/prato4x3.jpg
 permalink: /prato-a-rotoli/
 ---
+# Prato a Rotoli a Udine e Gorizia
+
 <br/>
 <div class="carousel">
   <img class="mySlides" src="{{ site.baseurl }}/img/prato/prato1.jpg" alt="prato a rotoli" title="prato a rotoli, in Udine e Gorizia">

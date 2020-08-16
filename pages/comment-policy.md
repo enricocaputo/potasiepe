@@ -5,6 +5,8 @@ excerpt: Comment policy del sito Giardiniere PotaSiepe
 image: /img/amp-logo-60x600px.png
 permalink: /comment-policy/
 ---
+#Moderazione dei commenti - POTASIEPE
+
 Benvenuto nella Community di PotaSiepe - Noi ci impegniamo per mantenere una community rispettosa e attivamente impegnata in vivaci dibattiti su notizie e post pubblicati su blog. Tuttavia, La preghiamo di tenere presente quanto segue prima di scrivere i Suoi commenti.
 
 Rispetti gli altri - La preghiamo di comportarsi educatamente con tutti i membri della nostra Community, comprese le altre persone che scrivono commenti e gli autori e i soggetti che costituiscono l'argomento degli articoli. Ricordi inoltre che i Suoi commenti vengono letti da persone reali.

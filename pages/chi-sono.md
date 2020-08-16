@@ -5,6 +5,8 @@ excerpt: 'Sono un giardiniere professionista, realizzo giardini e impianti di ir
 image: /img/enrico.jpg
 permalink: /chi-sono/
 ---
+# Chi sono
+
 ![Enrico](/img/enrico.jpg  "Enrico")
 
 <br/>

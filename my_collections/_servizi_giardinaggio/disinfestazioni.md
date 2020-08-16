@@ -8,6 +8,8 @@ image: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 order: 3
 ---
+# Disinfestazione zanzare a Udine e Gorizia
+
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 La ditta POTASIEPE è **specializzata in disinfestazione zanzare**, a **Udine e Gorizia**, trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti a [**costi contenuti**](#costo "scopri quanto costa la disinfestazione zanzare").
@@ -69,11 +71,12 @@ Con uno-due cicli di disinfestazione il problema viene risolto quasi del tutto.
 <br/>
 <div class="text-center">
   <p class="h3">Desideri un sopralluogo per una disinfestazione?</p>
+  <br/>
   <a title="Richiedi un sopralluogo" href="/contatti/" class="button">RICHIEDILO ORA</a>
 </div>
 <br/><br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
+<p class="h3">Scopri tutti i <a href="/servizi-di-giardinaggio/" title="servizi di giardinaggio">servizi di giardinaggio</a> offerti da Potasiepe:</p>
 
 <div class="list-collection">
 <ul>
@@ -81,11 +84,11 @@ Con uno-due cicli di disinfestazione il problema viene risolto quasi del tutto.
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <article>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </article>
     </li>
 	{% endfor %}
 </ul>

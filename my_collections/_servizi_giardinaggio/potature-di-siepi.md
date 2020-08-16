@@ -8,6 +8,8 @@ image: /img/servizi/potatura-siepe-udine-gorizia.jpg
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
 order: 1
 ---
+# La potatura di siepi è la nostra specialità!
+
 ![Potatura di siepi a Udine e Gorizia](/img/servizi/potatura-di-siepi-udine-gorizia.jpg "Potatura di siepi a Udine e Gorizia")
 
 Effettuiamo **potature di [siepi di ogni dimensione e genere](/consigli-di-giardinaggio/siepe-quale-scegliere "Quale siepe scegliere")**: Agazzino, Alloro, Bosso, Lauroceraso, Photinia, Tasso, Viburno ecc.
@@ -58,7 +60,7 @@ Prenotare il servizio è molto semplice: vai alla pagina [contatti](/contatti/ "
 </div>
 <br/><br/>
 
-## Scopri tutti i nostri servizi di giardinaggio:
+<p class="h3">Scopri tutti i <a href="/servizi-di-giardinaggio/" title="servizi di giardinaggio">servizi di giardinaggio</a> offerti da Potasiepe:</p>
 
 <div class="list-collection">
 <ul>
@@ -66,11 +68,11 @@ Prenotare il servizio è molto semplice: vai alla pagina [contatti](/contatti/ "
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <article>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </article>
     </li>
 	{% endfor %}
 </ul>

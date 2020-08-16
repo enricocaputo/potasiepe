@@ -5,6 +5,8 @@ excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e ter
 image: /img/posts/giardini/giardino-contemporaneo.png
 permalink: /progettazione-giardini/
 ---
+# Progettazione Giardini a Udine e Gorizia
+
 <br/>
 <div class="carousel">
   <img class="mySlides" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine">

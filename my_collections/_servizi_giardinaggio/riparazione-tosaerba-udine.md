@@ -8,6 +8,8 @@ image: /img/servizi/servizio-riparazione-tagliaerba.jpg
 image_path: /img/servizi/servizio-riparazione-tagliaerba.jpg
 order: 6
 ---
+# Riparazione tosaerba Udine
+
 **POTASIEPE** esegue la **manutenzione ordinaria** e la **riparazione di tagliaerba a scoppio** di tutte le dimensioni e marche (Honda, Ariens, Sandri Garden, McCulloch, Ibea, husqvarna etc.), professionali e non, potrai portare da noi il tuo tagliaerba o prenotare un ritiro direttamente a casa tua o presso la tua sede, e ti sarà restituito come nuovo in pochissimo tempo.
 
 ## Assitenza delle migliori marche di tosaerba: ritiro a domicilio
@@ -43,7 +45,7 @@ La frequenza degli interventi di manutenzione dipende generalmente dall'utilizzo
 </div>
 <br/><br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
+<p class="h3">Scopri tutti i <a href="/servizi-di-giardinaggio/" title="servizi di giardinaggio">servizi di giardinaggio</a> offerti da Potasiepe:</p>
 
 <div class="list-collection">
 <ul>
@@ -51,11 +53,11 @@ La frequenza degli interventi di manutenzione dipende generalmente dall'utilizzo
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <article>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </article>
     </li>
 	{% endfor %}
 </ul>

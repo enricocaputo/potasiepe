@@ -8,6 +8,8 @@ image: /img/servizi/recinzione-rete-pali-legno.jpg
 image_path: /img/servizi/recinzione-rete-pali-legno.jpg
 order: 5
 ---
+# Recinzioni in rete Udine e Gorizia
+
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
 Potasiepe si occupa della realizzazione di **staccionate in legno** e recinzioni con **rete elettrosaldata** e a  **maglia sciolta**, rete **plastificata atossica per animali**, rete **zincata** e recinzioni **in pvc**.
@@ -48,7 +50,7 @@ Installiamo reti e recinzioni a Udine e Gorizia e in tutto il Friuli-Venezia Giu
 </div>
 <br/><br/>
 
-## Scopri tutti i servizi offerti da Potasiepe:
+<p class="h3">Scopri tutti i <a href="/servizi-di-giardinaggio/" title="servizi di giardinaggio">servizi di giardinaggio</a> offerti da Potasiepe:</p>
 
 <div class="list-collection">
 <ul>
@@ -56,11 +58,11 @@ Installiamo reti e recinzioni a Udine e Gorizia e in tutto il Friuli-Venezia Giu
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <article>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </article>
     </li>
 	{% endfor %}
 </ul>

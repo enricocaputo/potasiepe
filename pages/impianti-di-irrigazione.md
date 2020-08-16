@@ -5,6 +5,8 @@ excerpt: 'Progettazione, realizzazione, manutenzione di impianti di irrigazione 
 image: /img/posts/irrigazione/pozzetto-irrigazione.jpg
 permalink: /impianti-di-irrigazione/
 ---
+# Impianti di irrigazione a Udine e Gorizia
+
 <div class="carousel">
 <img src="{{ page.image }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 </div>

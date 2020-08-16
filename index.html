@@ -31,7 +31,7 @@ permalink: /
       <strong>motore a quattro tempi</strong> in regola con le nuove normative sull'inquinamento. Quando lavoro nei
       centri urbani sono equipaggiato con <strong>attrezzature a batteria</strong>. <a href="/chi-sono/" aria-label="Chi sono"><strong>Scopri di più</strong> &gt;</a></p>
 <br/>
-    <h3>Giardiniere a Udine e Gorizia</h3>
+    <h2>Giardiniere a Udine e Gorizia</h2>
     <p>Il mio lavoro di giardiniere mi ha portato nei comuni di Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana,
     Manzano, Palmanova, San Giovanni al Natisone, Gorizia , Gradisca d'Isonzo, Grado, Monfalcone , Ronchi dei Legionari ecc.
     <br/>
@@ -44,8 +44,8 @@ permalink: /
 <br/>
 
 <h2>La scelta giusta</h2>
-<p>Una <strong>vasta gamma di <a href="/servizi-di-giardinaggio/" aria-label="Scopri tutti i servizi di giardinaggio disponibili">servizi </a>di giardinaggio</strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi/" aria-label="Scopri i prezzi"> prezzi</a> onesti</strong>.
-Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande. <a class="text-center" href="/contatti/" aria-label="Contattami"><strong>Contattami</strong> &gt;</a></p>
+<p>Una vasta gamma di <strong><a href="/servizi-di-giardinaggio/" aria-label="Scopri i servizi di giardinaggio di POTASIEPE">servizi di giardinaggio</a></strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi/" aria-label="Costo giardiniere"> prezzi onesti</a></strong>.
+Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande. <a class="text-center" href="/contatti/" aria-label="Contatti"><strong>Contattami</strong> &gt;</a></p>
 
 <div class="list-collection">
 <ul>
@@ -53,11 +53,11 @@ Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande. <a cla
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
-      <div>
-      <h3>{{ servizi_giardinaggio.name }}</h3>
+      <article>
+      <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
+			<a href="{{ site.baseurl }}{{ servizi_giardinaggio.url }}" title="{{ servizi_giardinaggio.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </article>
     </li>
 	{% endfor %}
 </ul>

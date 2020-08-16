@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Guida di Potasiepe
-excerpt: "Centro assistenza ufficiale di Potasiepe Giardiniere in cui puoi trovare servizi e prodotti di giardinaggio."
+title: "Cerca: come possiamo aiutarti?"
+excerpt: "Cerca all'interno del sito giardiniere-potasiepe.fvg.it, assistenza per trovare prodotti e servizi di giardinaggio offerti da POTASIEPE, ricerca personalizzata."
 image: /img/amp-logo-60x600px.png
 permalink: /cerca/
 ---
