@@ -10,7 +10,9 @@ order: 6
 ---
 # Riparazione tosaerba Udine
 
-**POTASIEPE** esegue la **manutenzione ordinaria** e la **riparazione di tagliaerba a scoppio** di tutte le dimensioni e marche (Honda, Ariens, Sandri Garden, McCulloch, Ibea, husqvarna etc.), professionali e non, potrai portare da noi il tuo tagliaerba o prenotare un ritiro direttamente a casa tua o presso la tua sede, e ti sarà restituito come nuovo in pochissimo tempo.
+POTASIEPE esegue la **riparazione di tosaerba** con motori a scoppio [**Honda**](https://www.honda.it/lawn-and-garden/owners/maintenance.html "MANUTENZIONE DEI PRODOTTI HONDA") e [**Briggs & Stratton**](https://www.briggsandstratton.com/eu/en_gb/campaigns/la-rete-service-briggs-stratton.html "LA RETE SERVICE BRIGGS & STRATTON: UNA GARANZIA DI QUALITÀ!"), delle marche più diffuse (Honda, Snapper, McCulloch, Echo, Husqvarna ecc.), di tutte le dimensioni, professionali e non. Anche manutenzione ordinaria tosaerba, riparazione decespugliatori e centro assistenza macchine e attrezzature per giardinaggio.
+
+Potrai portare da noi il tuo tosaerba o prenotare un ritiro direttamente a casa tua o presso la tua sede, e ti sarà restituito come nuovo in pochissimo tempo.
 
 ## Assitenza delle migliori marche di tosaerba: ritiro a domicilio
 
@@ -31,7 +33,7 @@ Ricorda sempre di effettuare i seguenti interventi costantemente:
 - &#10004; Controllare e se necessario affilare la lama
 - &#10004; Sostituire l'olio motore ogni 2/3 mesi per uso professionale oppure ogni anno per uso hobbistico, si consiglia di sostituire l'olio prima di fermare la macchina per lunghi periodi onde evitare che dei residui si depositino sul fondo.
 
-Seguendo questi brevi consigli avrete sempre un **tagliaerba** in perfetta forma, risparmierete un sacco di tempo rendendo il vostro lavoro piacevole ed efficente!
+Seguendo questi brevi consigli avrete sempre un **tagliaerba** in perfetta forma, risparmierete un sacco di tempo rendendo il vostro lavoro piacevole ed efficiente!
 
 La frequenza degli interventi di manutenzione dipende generalmente dall'utilizzo: per l’utilizzo **professionale** circa una volta ogni due/tre mesi, per quello hobbistico una volta l’anno.
 
