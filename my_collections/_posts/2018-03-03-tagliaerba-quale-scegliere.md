@@ -5,7 +5,7 @@ image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
 last_modified_at: 2018-12-27T18:21:00+00:00
 ---
-Prima di concretizzare l'acquisto del vostro nuovo tagliaerba leggete questa guida. Oltre a dei preziosi suggerimenti, Potasiepe vi offre una certa disponibilità di **[tagliaerba usati](/vendita-online-prodotti-per-giardinaggio/tosaerba-usato-udine "tagliaerba: vendita usato")**.
+Prima di concretizzare l'acquisto del vostro nuovo tagliaerba leggete questa guida. Oltre a dei preziosi suggerimenti, Potasiepe vi offre una certa disponibilità di tagliaerba usati.
 
 I moderni tosaerba montano motori a benzina 4 tempi, diesel, elettrici con cavo di alimentazione oppure a batteria.
 
@@ -56,4 +56,4 @@ Nella scelta del modello bisogna considerare la **superficie del giardino**; le 
 
 **Potasiepe esegue [manutenzione e riparazione di tagliaerba](/servizi-di-giardinaggio/riparazione-tosaerba-udine "servizio di manutenzione e riparazione tosaerba").**
 
-**Forse ti interessa anche [l'erba giusta per ogni prato](/consigli-di-giardinaggio/i-migliori-semi-per-il-prato "I principali tipi di prato").**
+**Forse ti interessa anche [i migliori tipi di prato](/consigli-di-giardinaggio/i-migliori-semi-per-il-prato "I principali tipi di prato").**
