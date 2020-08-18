@@ -54,7 +54,7 @@ Ho **prezzi onesti**. Lavoro con **competenza di giardinaggio**. Sono un giardin
 <section>
 <br/>
 <div>
-  <h2><a href="/consigli-di-giardinaggio/" title="blog di giardinaggio, orto e giardino">Per l'orto e il giardino</a></h2>
+  <h2><a href="/consigli-di-giardinaggio/" title="Consigli di Giardinaggio">Per l'orto e il giardino</a></h2>
   Le ultimissime notizie dal blog:
   <ul class="post-list">
     {% for post in site.posts limit: 5 %}

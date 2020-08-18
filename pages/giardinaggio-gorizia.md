@@ -52,18 +52,21 @@ Ho **prezzi onesti**. Lavoro con **competenza di giardinaggio**. Sono un giardin
 </div>
 <br/><br/>
 <section>
-<div class="comuni">
-  <h3>Consigli di Giardinaggio</h3>
+<br/>
+<div>
+  <h2><a href="/consigli-di-giardinaggio/" title="Consigli di Giardinaggio">Per l'orto e il giardino</a></h2>
+  Le ultimissime notizie dal blog:
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 5 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h4>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h4>
+      <article>
+        <h3>
+          &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> .. continua </a>
+        </h3>
+      </article>
       </li>
     {% endfor %}
   </ul>
 </div>
+<br/>
 </section>
