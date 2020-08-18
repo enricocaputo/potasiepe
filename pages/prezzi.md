@@ -24,8 +24,8 @@ permalink: /prezzi/
 
 | Costo taglio prato | Dimensione giardino |
 |--------------------|------------------|
-| € 0,40 al mq | superfici tra 200 e 300 mq |
-| € 0,30 al mq | superfici tra 300 e 500 mq |
+| € 0,40 al mq | superfici fino a 200 mq |
+| € 0,30 al mq | superfici tra 200 e 500 mq |
 | € 0,20 al mq | superfici tra 500 e 2.000 mq |
 | € 0,10 al mq | superfici oltre i 2.000 mq |
 
