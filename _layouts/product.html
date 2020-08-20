@@ -8,24 +8,36 @@ layout: default
 
       <h1 itemprop='name'>{{ page.name }}</h1>
       <div class="img-container">
-        <img src="{{ page.image_path }}" alt="{{ page.name}}" title="{{ page.name }}" itemprop='image'/>
+      <img src="{{ page.image }}" alt="{{ page.name}}" title="{{ page.name }}" itemprop='image'/>
       </div>
-      <h3>Pronta consegna</h3>
-      <p itemprop='itemCondition'><em>{{ page.condition }}</em></p>
-      <p itemprop='brand' content='{{ page.brand }}'><b>{{ page.brand }}</b></p>
+      <link itemprop="availability" href="http://schema.org/InStock" />
+      <meta itemprop="itemCondition" content="https://schema.org/NewCondition" />
+      <div itemprop='description' class='description'><p>Descrizione: <b>Olivo secolare {{ page.excerpt }}</b><p></div>
+      <p>Disponibilità: <b>Pronta consegna</b></p>
+      <p itemprop='brand' content='{{ page.brand }}'>Provenienza: <b>Vivai {{ page.brand }}</b></p>
+      <p itemprop='sku' content='{{ page.sku }}'>Codice: <b>{{ page.sku }}</b></p>
+      <meta itemprop="mpn" content='{{ page.sku }}-mpn' />
+      <meta itemprop="url" href='{{ page.url | prepend: site.baseurl | prepend: site.url }}' />
       <p itemprop='offers' itemscope itemtype='http://schema.org/Offer'>
-        <b>
+      <link itemprop="availability" href="http://schema.org/InStock" />
+      Prezzo:
+      <b>
+        <meta itemprop="priceValidUntil" content="2021-12-31" />
         <span itemprop='priceCurrency' content='EUR'>€</span>
         <span itemprop='price' content='{{ page.price }}'>{{ page.price }}</span>
-        </b>
+      </b>
       </p>
-
+      <br/>
       <div itemprop='aggregateRating'
         itemscope itemtype='http://schema.org/AggregateRating'>
+        Recensioni
         <span style="color: yellow; font-size:22px;">&#9733;&#9733;&#9733;&#9733;&#10025;</span>
-        <span itemprop='ratingValue' content='4.5'></span>
-        <span itemprop='reviewCount' content='{{ page.review }}'>{{ page.review }}</span> recensioni
+        <span itemprop='ratingValue' content='{{ page.ratingValue }}'></span>
+        <span itemprop='reviewCount' content='{{ page.reviewCount }}'>{{ page.review }}</span>
       </div>
-
-      <div itemprop='description' class='description'>{{ content }}</div>
+      <br/>
+      <p>
+      <a title="Contatti" href="/contatti/" class="button">CONTATTACI</a>
+      </p>
+      <br/>
 </main>

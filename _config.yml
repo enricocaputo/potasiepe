@@ -37,6 +37,9 @@ collections:
   amp:
     output: true
     permalink: /amp/:title/
+  vendita_piante_online:
+    output: true
+    permalink: /vivaio/:title/
 
 defaults:
   - scope:
@@ -67,6 +70,10 @@ defaults:
       layout: "amp-post"
       author: "potasiepe"
       category: "Orto & Giardino"
+  - scope:
+      path: "_vendita_piante_online"
+    values:
+      layout: "product"
 
 plugins:
   - jekyll-feed
