@@ -61,7 +61,7 @@ I nostri frutti in breve (abbiamo più varietà per ogni specie):
     <p>{{ item.excerpt }}</p>
     <p><strong>{{ item.price }},00 €</strong></p>
     <br/>
-    <a title="Contatti" href="/contatti/" class="button">CONTATTACI</a>
+    <a title="Acquista ora {{ item.name }}" href="{{ item.link }}" class="button">Acquista ora</a>
     </div>
     <br/>
 </li>
