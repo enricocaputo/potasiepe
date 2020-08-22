@@ -1,7 +1,7 @@
 ---
 sku: olivo-2200
 name: OLIVO DOPPIO
-image: \img\vivaio\olivi\olivo-2200.jpg
+image: /img/vivaio/olivi/olivo-2200.jpg
 brand: Potasiepe
 price: 2200
 ratingValue: 5

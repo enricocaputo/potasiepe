@@ -1,7 +1,7 @@
 ---
 sku: olivo-1100
 name: OLIVO SECOLARE A PIATTO
-image: \img\vivaio\olivi\olivo-1100.jpg
+image: /img/vivaio/olivi/olivo-1100.jpg
 brand: Potasiepe
 price: 1100
 ratingValue: 5

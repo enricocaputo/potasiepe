@@ -1,7 +1,7 @@
 ---
 sku: olivo-750
 name: OLIVO SECOLARE
-image: \img\vivaio\olivi\olivo-750.jpg
+image: /img/vivaio/olivi/olivo-750.jpg
 brand: Potasiepe
 price: 750
 ratingValue: 4.5
