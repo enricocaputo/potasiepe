@@ -47,7 +47,7 @@ I nostri frutti in breve (abbiamo più varietà per ogni specie):
 
 <br/><br/>
 
-<h2 class="text-center">Vendita olivi secolari</h2>
+<h2 class="text-center" id="ulivi">Vendita olivi secolari</h2>
 
 <div class="list-collection">
 <ul>
