@@ -24,6 +24,8 @@ Oltre a fornirti dei preziosi consigli per ogni stagione posso occuparmi di **po
 Saprò indicarti quali piante scegliere in base all’esposizione al sole, quali vasi sono più indicati, quando invasare, concimare e naturalmente quando e come potare. In caso di attacchi fungini o di qualche malattia saprò consigliarti il rimedio migliore per ogni tipo di pianta e applicherò il giusto **trattamento fitosanitario** avendo
 il **patentino ERSA**.
 
+Scopri di più &#10140; [Chi sono](/chi-sono/ "Chi sono")
+
 ## Come funziona
 
 Se hai bisogno dell’aiuto di un giardiniere per i tuoi spazi verdi chiamami o scrivimi, **dimmi dei tuoi progetti** per sistemare le tue piante, il giardino, l'orto. Una volta capite le tue esigenze fisseremo l’appuntamento per un **sopralluogo** dove insieme decideremo il da farsi e programmeremo un **calendario dei lavori**.
