@@ -3,7 +3,7 @@ title: "Tosaerba a batteria contro Tagliaerba a scoppio: quale scegliere"
 excerpt: "Hai mai sentito parlare dei rasaerba Briggs & Stratton con tecnologia QPT (Quiet Power Technology), conosci la differenza tra tosaerba a batteria da 18v o 50v?"
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
-last_modified_at: 2020-08-07T10:00
+last_modified_at: 2020-08-23T12:20
 ---
 Vi dico subito che odio i tosaerba elettrici a filo. Sono scomodi, fragili, e quando si rompono si devono buttare nell'indifferenziata tra i rifiuti ingombranti.
 
