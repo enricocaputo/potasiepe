@@ -14,7 +14,7 @@ order: 3
 
 La ditta POTASIEPE è **specializzata in disinfestazione zanzare**, a Udine, a Gorizia, trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti a [**costi contenuti**](#costo "scopri quanto costa la disinfestazione zanzare").
 
-Con il **trattamento zanzare giardino** zanzare potrai ritornare a goderti le sere d’estate in giardino, organizzare cene con gli amici all'aperto senza preoccuparti delle punture d'insetti, rilassarti in piscina assieme ai tuoi bambini perché i metodi di lotta alle zanzare del  [giardiniere POTASIEPE](/chi-sono/ "chi sono") sono davvero mirati ed efficaci.  
+Con il **trattamento zanzare giardino** zanzare potrai ritornare a goderti le sere d’estate in giardino, organizzare cene con gli amici all'aperto senza preoccuparti delle punture d'insetti, rilassarti in piscina assieme ai tuoi bambini perché i metodi di lotta alle zanzare di [**Giardiniere POTASIEPE**](/chi-sono/ "Chi sono") sono davvero mirati ed efficaci.  
 
 ## Quando è meglio iniziare il trattamento antizanzare?
 
@@ -52,7 +52,7 @@ Consigliamo di richiedere l'esecuzione di entrambi i trattamenti perché l’uno
 |101 - 150 m²  | € 90,00 |
 |oltre 150 m²  | prezzo da concordare |
 
-Il costo di una disinfestazione si aggira attorni ai 30 euro per un giardino ci circa 50 m². Si tratta di una cifra orientativa, che dipende dalla particolarità del giardino, dal tipo di trattamento proposto e dalla [zona in cui abitate](/prezzi/ "scopri il costo del diritto di chiamata").
+Il costo di una disinfestazione si aggira attorni ai 30 euro per un giardino ci circa 50 m². Si tratta di una cifra orientativa, che dipende dalla particolarità del giardino, dal tipo di trattamento proposto e dalla zona in cui abitate. Scopri di più sui &#10140; [costi del giardiniere](/prezzi/ "costi del giardiniere, diritto di chiamata").
 
 ## Vantaggi della disinfestazione
 
