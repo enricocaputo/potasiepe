@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Vivaio aceri, ulivi, e piante da siepe
+title: "Vivaio: aceri, ulivi, e piante da siepe"
 excerpt: "Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai, e piante da siepe. Piante sane, nutrite, e protette."
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
-# Vivaio aceri, ulivi, e piante da siepe
+# Vivaio: aceri, ulivi, e piante da siepe
 
 <br/>
 
