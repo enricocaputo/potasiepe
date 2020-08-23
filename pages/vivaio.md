@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vivaio vendita piante
-excerpt: "Vendita piante da siepe, piante da ombra, piante grasse da esterno, piante sempreverdi, piante invernali, vendita olivi secolari. Piante sane, nutrite, protette"
+title: Vivaio aceri, ulivi, e piante da siepe
+excerpt: "Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai, e piante da siepe. Piante sane, nutrite, e protette."
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
@@ -9,49 +9,19 @@ permalink: /vivaio/
 
 <br/>
 
-Vendita piante da siepe, piante da ombra, piante grasse da esterno, piante sempreverdi, piante invernali, vendita olivi secolari. Piante sane, nutrite, protette.
+Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai, e piante da siepe. Piante sane, nutrite, e protette.
 
 <br/>
 
-![vendita piante online](/img/vivai-potasiepe.jpg "vendita piante online")
+![POTASIEPE vendita piante online](/img/vivai-potasiepe.jpg "vendita piante online")
 
 <br/>
-
-Se ti piacciono le rose ne abbiamo di ogni colore, grandezza e portamento. Le nostre rose sono facili da coltivare e tutte sono rifiorenti: fioriscono a ondate successive da maggio a giugno e fino alle gelate invernali.
-
-Molte sono le varietà e le età dei nostri alberi da frutto. La nostra è una selezione di cultivar e di piante rustiche ovvero refrattarie alle malattie e che ben si adattano ai vari contesti pedoclimatici.
-
-I nostri frutti in breve (abbiamo più varietà per ogni specie):
-
-- *ALBICOCCO*
-- *CILIEGIO*
-- *FICO*
-- *KAKO*
-- *MELO*
-- *PERO*
-- *PESCO*
-- *PESCO NOCE*
-- *SUSINO*
-- *CASTAGNO*
-- *GELSO BIANCO*
-- *MANDORLO*
-- *NOCCIOLO*
-- *MELOGRANO*
-- *NESPOLO*
-- *NOCE*
-- *SORBO*
-- *BANANO DEL NORD*
-- *GIUGGIOLO*
-- *KIWI*
-- *VITI DA TAVOLA* (CARDINAL NERA, APIRENE ROSSA, ITALIA BIANCA, ZIBIBBO..)
-
 <br/><br/>
-
-<h2 class="text-center" id="ulivi">Vendita olivi secolari</h2>
+<h2 class="text-center" id="aceri">Aceri giapponesi</h2>
 
 <div class="list-collection">
 <ul>
-{% for item in site.data.plants.items %}
+{% for item in site.data.aceri.items %}
 <li>
     <a href="{{ item.link }}">
     <img src="{% include relative-src.html src=item.image %}" alt="{{ item.name }}">
@@ -69,40 +39,35 @@ I nostri frutti in breve (abbiamo più varietà per ogni specie):
 </ul>
 </div>
 
-<div>
-<p>
-<strong>Piante per giardini formali.</strong> Le piante sagomate, sia in siepi potate e squadrate sia in forme topiarie, sono un elemento importante del giardino formale. I profili sorprendenti delle sculture sempreverdi danno slancio verticale e forme di intensità drammatica al disegno, altrimenti bidimensionale.
+<h2 class="text-center" id="ulivi">Ulivi secolari</h2>
 
-Le piante sempreverdi a crescita lenta, come il tasso (Taxus baccata), il bosso
-(Buxus sempervirens), l'agrifoglio (Ilex aquifolium) e il leccio (Quercus ilex), sopportano una potatura ripetuta per molti anni.
-</p>
-
-<p>
-<strong>L'arte topiaria</strong> è un insieme di tecniche studiate per sagomare
-alberi e arbusti in forme artificiali molto decorative. Apprezzata sin dal tempo dei Romani, è sempre stata usata per ottenere forme geometriche di forte
-impatto architettonico o figure particolari come uccelli, animali ecc.
-</p>
-
-<p>
-<strong>Stili diversi. </strong> Nell'arte topiaria  si eseguono stili diversi a seconda dell'effetto che si vuole ottenere.
-
-Le forme come coni, obelischi e colonne fungono da forti elementi strutturali. Questo genere di topiaria si addice sia ai giardini formali, ad esempio per incorniciare una veduta o un viale, sia ai giardini informali per creare un contrasto con le forme libere degli altri vegetali.
-
-In alcuni giardini la parte superiore delle siepi viene trattata come una scultura verde, ritagliandovi sfere e cubi.
-
-L'arte topiaria dà interessanti risultati anche con le piante in vaso: usate una sola pianta scolpita come elemento decorativo centrale, o due ai lati di una porta, o molte disposte lungo un percorso.
-</p>
-
-<p>
-<strong>Olivi</strong>, o ulivi (Olea europaea) sono alberi sempreverdi secolari a crescita lenta che, se non vengono potati, raggiungono anche 9 - 12 metri di altezza e 7 - 9 metri di chioma. Con l'età aumenta la nodosità del tronco e con essa la bellezza e il fascino dell'olivo.
-
-A seconda dello stile di potatura e del clima possono produrre frutti, le olive.
-
-Gli olivi vanno potati appena piantati, eliminando il germoglio portante quando l'albero è alto circa 1,5 m; si scelgono tre o quattro forti rami laterali per creare la struttura portante dei rami dell'albero. La potatura seguente consiste nel rimuovere i rami più vecchi per favorire la crescita di nuovi germogli, dal momento che le olive sono prodotte su legno nuovo di un anno, soprattutto alle estremità dei rami.
-</p>
-
-<p>
-<strong>Vivaio e prezzi. </strong> Disponiamo di um'ampia selezione di <a title="piante da siepe" href="/consigli-di-giardinaggio/siepe-quale-scegliere"> piante da siepe</a> di ogni dimensione a partire da 10 euro. I prezzi dipendono dalla grandezza e dall'età degli esemplari e includono sempre le spese di consegna.
-</p>
-
+<div class="list-collection">
+<ul>
+{% for item in site.data.ulivi.items %}
+<li>
+    <a href="{{ item.link }}">
+    <img src="{% include relative-src.html src=item.image %}" alt="{{ item.name }}">
+    </a>
+    <div class="text-center">
+    <h3>{{ item.name }}</h3>
+    <p>{{ item.excerpt }}</p>
+    <p><strong>{{ item.price }},00 €</strong></p>
+    <br/>
+    <a title="Acquista ora {{ item.name }}" href="{{ item.link }}" class="button">Acquista ora</a>
+    </div>
+    <br/>
+</li>
+{% endfor %}
+</ul>
 </div>
+
+
+<h2 class="text-center">Piante da siepe</h2>
+
+Disponiamo di un vasto assortimento di piante da siepe in vaso: **fotinia**, **fillirea**, **piante sempreverdi** a crescita lenta, come il **tasso** (Taxus baccata), il **bosso** (Buxus sempervirens), l'**agrifoglio** (Ilex aquifolium) e il **leccio** (Quercus ilex), e **gelsomini** grandi e piccoli. Inoltre, **osmanto**, **euonimus**, **lonicera**, **ligustro**, e **lauroceraso**.
+
+Scopri di più &#10140; [Piante da siepe: quale scegliere](/consigli-di-giardinaggio/siepe-quale-scegliere/ "Piante da siepe: quale scegliere")
+
+<h2 class="text-center">Per ordini e informazioni</h2>
+
+Inviaci una richiesta &#10140; [Contatti](/contatti/ "contatta POTASIEPE")
