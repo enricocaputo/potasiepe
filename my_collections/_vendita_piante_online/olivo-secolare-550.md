@@ -1,5 +1,6 @@
 ---
 sku: olivo-550
+title: OLIVO BONSAI
 name: OLIVO BONSAI
 image: /img/vivaio/olivi/olivo-550.jpg
 brand: Potasiepe

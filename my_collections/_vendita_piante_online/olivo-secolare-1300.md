@@ -1,5 +1,6 @@
 ---
 sku: olivo-1300
+title: OLIVO SECOLARE
 name: OLIVO SECOLARE
 image: /img/vivaio/olivi/olivo-1300.jpg
 brand: Potasiepe

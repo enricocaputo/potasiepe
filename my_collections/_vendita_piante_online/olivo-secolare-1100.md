@@ -1,5 +1,6 @@
 ---
 sku: olivo-1100
+title: OLIVO SECOLARE A PIATTO
 name: OLIVO SECOLARE A PIATTO
 image: /img/vivaio/olivi/olivo-1100.jpg
 brand: Potasiepe

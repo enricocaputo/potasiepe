@@ -1,5 +1,6 @@
 ---
 sku: olivo-4000
+title: OLIVO SCULTURA
 name: OLIVO SCULTURA
 url: olivo-secolare-4000
 image: /img/vivaio/olivi/olivo-4000.jpg

@@ -1,5 +1,6 @@
 ---
 sku: olivo-2200
+title: OLIVO DOPPIO
 name: OLIVO DOPPIO
 image: /img/vivaio/olivi/olivo-2200.jpg
 brand: Potasiepe

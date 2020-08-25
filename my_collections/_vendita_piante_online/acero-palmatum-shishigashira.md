@@ -1,5 +1,6 @@
 ---
 sku: acer-pal-shi
+title: Acero Palmatum Shishigashira
 name: Acero Palmatum Shishigashira
 image: /img/vivaio/aceri/acer-palmatum-shishigashira.jpg
 brand: Potasiepe

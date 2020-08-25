@@ -1,5 +1,6 @@
 ---
 sku: acer-pal-blo
+title: Acero Palmatum Bloodgood
 name: Acero Palmatum Bloodgood
 image: /img/vivaio/aceri/acer-palmatum-bloodgood.jpg
 brand: Potasiepe

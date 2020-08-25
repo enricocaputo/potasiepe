@@ -1,18 +1,6 @@
 ---
-layout: compress
+layout: page
 ---
-<!DOCTYPE html>
-<html lang="it-IT">
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-  <link rel="icon" type="image/png" href="{{ site.baseurl }}/img/ico/favicon.png" sizes="192x192" />
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/img/ico/apple-touch-icon.png" />
-  <link rel="manifest" href="{{ site.baseurl }}/manifest.json" />
-  <meta name="theme-color" content="#004900" />
-  {% feed_meta %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org/",
@@ -58,75 +46,29 @@ layout: compress
     }
   }
   </script>
-  <link type="application/opensearchdescription+xml" rel="search" href="/PotasiepeRicercaPersonalizzata.xml" title="Potasiepe Ricerca Personalizzata" />
-  <style>
-    {% capture include_to_scssify %}
-      {% include screen.scss %}
-    {% endcapture %}
-    {{ include_to_scssify | scssify }}
-  </style>
-  <!--[if lt IE 9]>
-  <script src="/js/html5shiv.min.js"></script>
-  <script src="/js/respond.min.js"></script>
-  <![endif]-->
-</head>
-<body>
-{% include header.html %}
-<div class="wrapper">
-  {% include breadcrumbs.html path=page.path title=page.title %}
-  <div class="content">
-        <h1>{{ page.name }}</h1>
-        <div class="img-container">
-        <img src="{{ page.image }}" alt="{{ page.name}}" title="{{ page.name }}" itemprop='image'/>
-        </div>
-        <br/>
-        <div class="description">
-          <h2 class="h3">Dettagli prodotto </h2>
-          <p>Descrizione: <b>{{ page.name }}, {{ page.excerpt }}</b><p>
-          <p>Disponibilità: <b>Pronta consegna</b></p>
-          <p>Provenienza: <b>Vivai {{ page.brand }}</b></p>
-          <p>Codice: <b>{{ page.sku }}</b></p>
-          <p>Prezzo: <b>€ {{ page.price }}</b>
-          </p>
-        </div>
-        <br/>
-        <div>
-          Recensioni
-          <span style="color: yellow; font-size:22px;">&#9733;&#9733;&#9733;&#9733;&#10025;</span>
-          <span>{{ page.review }}</span>
-        </div>
-        <br/>
-        <p>
-        <a title="Contatti" href="/contatti/" class="button">CONTATTACI</a>
-        </p><br/>
-        {{ content}}
-  </div>
+
+<h1>{{ page.name }}</h1>
+<div class="img-container">
+<img src="{{ page.image }}" alt="{{ page.name}}" title="{{ page.name }}" itemprop='image'/>
 </div>
-{% include sidebar-shortcuts.html %}
-{% include footer.html %}
-<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
-<script>
-    $(document).ready(function() {
-      $.cookieBar();
-    });
-</script>
-<script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', function() {
-    navigator.serviceWorker.register('/sw.js');
-  });
-}
-</script>
-{% if page.comments %}
-<script>
-(function() {
-var d = document, s = d.createElement('script');
-s.src = '//potasiepe.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Abilita JavaScript per vedere i commenti <a href="https://disqus.com/?ref_noscript">powered by Disqus.</a></noscript>
-{% endif %}
-</body>
-</html>
+<br/>
+<div class="description">
+  <h2 class="h3">Dettagli prodotto </h2>
+  <p>Descrizione: <b>{{ page.name }}, {{ page.excerpt }}</b><p>
+  <p>Disponibilità: <b>Pronta consegna</b></p>
+  <p>Provenienza: <b>Vivai {{ page.brand }}</b></p>
+  <p>Codice: <b>{{ page.sku }}</b></p>
+  <p>Prezzo: <b>€ {{ page.price }}</b>
+  </p>
+</div>
+<br/>
+<div>
+  Recensioni
+  <span style="color: yellow; font-size:22px;">&#9733;&#9733;&#9733;&#9733;&#10025;</span>
+  <span>{{ page.review }}</span>
+</div>
+<br/>
+<p>
+<a title="Contatti" href="/contatti/" class="button">CONTATTACI</a>
+</p><br/>
+{{ content}}

@@ -1,5 +1,6 @@
 ---
 sku: acer-dis-gar
+title: Acero Dissectum Garnet
 name: Acero Dissectum Garnet
 image: /img/vivaio/aceri/acer-dissctum-garnet.jpg
 brand: Potasiepe

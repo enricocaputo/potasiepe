@@ -1,5 +1,6 @@
 ---
 sku: acer-dis-vir
+title: Acero Dissectum Viridis
 name: Acero Dissectum Viridis
 image: /img/vivaio/aceri/acer-dissectum-viridis.jpg
 brand: Potasiepe
