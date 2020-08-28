@@ -1,7 +1,7 @@
 ---
 sku: olivo-4000
-title: OLIVO SCULTURA
-name: OLIVO SCULTURA
+title: Olivo scultura
+name: Olivo scultura
 url: olivo-secolare-4000
 image: /img/vivaio/olivi/olivo-4000.jpg
 brand: Potasiepe

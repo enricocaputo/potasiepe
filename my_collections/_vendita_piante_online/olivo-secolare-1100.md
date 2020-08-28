@@ -1,7 +1,7 @@
 ---
 sku: olivo-1100
-title: OLIVO SECOLARE A PIATTO
-name: OLIVO SECOLARE A PIATTO
+title: Olivo secolare a piatto
+name: Olivo secolare a piatto
 image: /img/vivaio/olivi/olivo-1100.jpg
 brand: Potasiepe
 price: 1100

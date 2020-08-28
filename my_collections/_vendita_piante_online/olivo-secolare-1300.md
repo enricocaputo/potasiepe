@@ -1,7 +1,7 @@
 ---
 sku: olivo-1300
-title: OLIVO SECOLARE
-name: OLIVO SECOLARE
+title: Olivo secolare
+name: Olivo secolare
 image: /img/vivaio/olivi/olivo-1300.jpg
 brand: Potasiepe
 price: 1300
