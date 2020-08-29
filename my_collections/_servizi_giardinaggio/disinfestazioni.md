@@ -2,19 +2,19 @@
 layout: page
 name: Disinfestazione zanzare e blatte
 subtitle: Liberati dalle zanzare, proteggi le tue piante dagli insetti.
-title: Disinfestazione zanzare a Udine e Gorizia
+title: Disinfestazioni zanzare Udine, e Gorizia
 excerpt: 'La ditta POTASIEPE è specializzata in disinfestazione zanzare, a Udine e Gorizia, trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti, costo.'
 image: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 order: 3
 ---
-# Disinfestazione zanzare a Udine e Gorizia
+# Disinfestazioni zanzare Udine, e Gorizia
 
 <img src="{{ page.image_path }}" alt="{{ page.name }}" title="{{ page.name }}"/>
 
-La ditta POTASIEPE è **specializzata in disinfestazione zanzare**, a Udine, a Gorizia, trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti a [**costi contenuti**](#costo "scopri quanto costa la disinfestazione zanzare").
+La ditta Potasiepe esegue eccellenti disinfestazioni di zanzare in Udine, e Gorizia: trattamento antizanzare, blatte, cimice verde. Disinfestazione insetti a [**costi contenuti**](#costo "scopri quanto costa la disinfestazione zanzare").
 
-Con il **trattamento zanzare giardino** zanzare potrai ritornare a goderti le sere d’estate in giardino, organizzare cene con gli amici all'aperto senza preoccuparti delle punture d'insetti, rilassarti in piscina assieme ai tuoi bambini perché i metodi di lotta alle zanzare di [**Giardiniere POTASIEPE**](/chi-sono/ "Chi sono") sono davvero mirati ed efficaci.  
+Con il **trattamento zanzare giardino** potrai ritornare a goderti le sere d’estate in giardino, organizzare cene con gli amici all'aperto senza preoccuparti delle punture d'insetti, rilassarti in piscina assieme ai tuoi bambini perché i metodi di lotta alle zanzare di [**Giardiniere POTASIEPE**](/chi-sono/ "Chi sono") sono davvero mirati ed efficaci.  
 
 ## Quando è meglio iniziare il trattamento antizanzare?
 
@@ -24,7 +24,7 @@ I trattamenti di disinfestazione andrebbero iniziati non appena le zanzare ritor
 
 La ripetizione del trattamento aumenta l'efficacia della disinfestazione e ne prolunga sensibilmente la durata ma va effettuata al massimo dopo tre settimane.
 
-## Disinfestazione di zanzare comuni e tigre
+## Disinfestazione di zanzara comuni, e zanzara tigre
 
 Mentre **le zanzare comuni svernano in forma adulta e in stato di diapausa** (arresto spontaneo dello sviluppo, nel quale l’organismo è inattivo, non si alimenta e non si muove), **la zanzara tigre lo fa anche sotto forma di uova, resistenti alla siccità e alle basse temperature**.
 
@@ -54,7 +54,7 @@ Consigliamo di richiedere l'esecuzione di entrambi i trattamenti perché l’uno
 
 Il costo di una disinfestazione si aggira attorni ai 30 euro per un giardino ci circa 50 m². Si tratta di una cifra orientativa, che dipende dalla particolarità del giardino, dal tipo di trattamento proposto e dalla zona in cui abitate. Scopri di più sui &#10140; [costi del giardiniere](/prezzi/ "costi del giardiniere, diritto di chiamata").
 
-## Vantaggi della disinfestazione
+## Vantaggi della disinfestazione zanzare
 
 Se pensi che sia una cifra eccessiva, forse dovresti considerare che la disinfestazione rappresenta il miglior metodo per eliminare le zanzare dal giardino, un rimedio efficace che ti permetterà di risparmiare sull'acquisto al supermercato di spray antizanzare, piastrine e creme dopo-puntura.
 
