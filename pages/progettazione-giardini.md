@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Progettazione Giardini a Udine e Gorizia
+title: Progettazione Giardini Udine, e Gorizia
 excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Udine, Gorizia'
 image: /img/posts/giardini/giardino-contemporaneo.png
 permalink: /progettazione-giardini/
 ---
-# Progettazione Giardini a Udine e Gorizia
+# Progettazione Giardini Udine, e Gorizia
 
 <br/>
 <div class="carousel">

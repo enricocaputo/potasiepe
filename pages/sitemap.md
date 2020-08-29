@@ -29,6 +29,11 @@ permalink: /sitemap/
   </li>
   <li>
     <h4>
+        <a class="page-link" href="/brand/" title="Brand"> Brand </a>
+    </h4>
+  </li>
+  <li>
+    <h4>
         <a class="page-link" href="/contatti/" title="Contatti"> Contatti </a>
     </h4>
   </li>
