@@ -71,7 +71,7 @@ Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la d
 <br/><br/>
 ![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
-### 3. Video e renderig 3d
+### 3. Renderig 3d, e video
 Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
 
 ## Progettazione giardini prezzi
