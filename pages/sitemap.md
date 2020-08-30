@@ -47,16 +47,6 @@ permalink: /sitemap/
         <a class="page-link" href="/cookie/" title="Privacy e cookie"> Privacy e cookie </a>
     </h4>
   </li>
-  <li>
-    <h4>
-        <a class="page-link" href="/consigli-di-giardinaggio/" title="Blog"> Consigli di giardinaggio </a>
-    </h4>
-  </li>
-  <li>
-    <h4>
-        <a class="page-link" href="/calendario-di-giardinaggio/" title="Calendario orto e giardino"> Calendario orto e giardino </a>
-    </h4>
-  </li>
 </ul>
 
 <br/>
@@ -88,12 +78,22 @@ permalink: /sitemap/
     </li>
     <li>
       <h4>
+      <a class="page-link" href="/impianti-di-irrigazione/" title="Impianti di irrigazione"> Irrigazione giardino</a>
+      </h4>
+    </li>
+    <li>
+      <h4>
       <a class="page-link" href="/progettazione-giardini/" title="Progettazione giardini"> Progettazione giardini </a>
       </h4>
     </li>
     <li>
       <h4>
-      <a class="page-link" href="/impianti-di-irrigazione/" title="Impianti di irrigazione"> Impianti di irrigazione </a>
+          <a class="page-link" href="/consigli-di-giardinaggio/" title="Blog"> Consigli di giardinaggio </a>
+      </h4>
+    </li>
+    <li>
+      <h4>
+          <a class="page-link" href="/calendario-di-giardinaggio/" title="Calendario orto e giardino"> Calendario orto e giardino </a>
       </h4>
     </li>
 </ul>
