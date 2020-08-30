@@ -51,9 +51,9 @@ Il servizio di progettazione giardini è rivolto a proprietari di case indipende
 
 Se non abiti in Friuli-Venezia Giulia saremo a tua disposizione in videoconferenza e il progetto ti verrà consegnato via mail. La progettazione online offre il vantaggio dell'abbattimento dei costi e spesso anche una riduzione delle tempistiche per la consegna del progetto.
 
-## Perché scegliere il giardiniere paesaggista Potasiepe
+## Perché scegliere Giardiniere Potasiepe
 
-La conoscenza botanica, la lunga esperienza in giardini design accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno.
+La conoscenza botanica, la lunga esperienza in giardini design accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno. &#10140; [Chi sono](/chi-sono/ "About")
 
 ## Come avviene la progettazione del giardino
 
