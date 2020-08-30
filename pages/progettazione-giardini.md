@@ -101,7 +101,7 @@ Il [**Bonus Verde 2020**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su
 
 ## Realizzazione giardini
 
-Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, impianti di irrigazione e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e [prato a rotoli](/prato-a-rotoli/ "prato a rotoli"). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
+Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, [impianti di irrigazione](/impianti-di-irrigazione/ "irrigazione giardino") e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e [prato a rotoli](/prato-a-rotoli/ "prato a rotoli"). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
 
 <br/>
 
