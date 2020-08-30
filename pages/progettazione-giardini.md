@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Progettazione Giardini Udine, e Gorizia
-excerpt: 'Progettazione di giardini moderni a bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Udine, Gorizia'
+title: Progettazione giardini
+excerpt: 'Progettazione giardini moderni, Progettazione giardini privati, Progettazione giardini rocciosi. Progettazione giardini in Udine, Gorizia, Friuli-Venezia Giulia'
 image: /img/posts/giardini/giardino-contemporaneo.png
 permalink: /progettazione-giardini/
 ---
-# Progettazione Giardini Udine, e Gorizia
+# Progettazione giardini
 
 <br/>
 <div class="carousel">
@@ -15,40 +15,67 @@ permalink: /progettazione-giardini/
 </div>
 <br/><br/>
 
-Progettazione di **giardini moderni a bassa manutenzione**, giardini e **terrazzi contemporanei** unici, realizzati **su misura**.
+Progettazione di giardini moderni, bassa manutenzione, giardini e terrazzi contemporanei realizzati su misura in base alle esigenze del cliente. Giardini unici!
 
-## Passione e professionalità per realizzare spazi verdi che emozionano
+Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere.
 
-Esistono diversi stili per progettare un giardino ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri gusti personali e le vostre esigenze tenendo in considerazione le caratteristiche dell'ambiente che vi circonda.
+Esistono diversi [stili per progettare un giardino](/consigli-di-giardinaggio/come-progettare-il-giardino "stili progettazione giardino") ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri gusti personali e le vostre esigenze tenendo in considerazione le caratteristiche dell'ambiente che vi circonda.
+
+## Progettazione giardini rocciosi
+
+Gli appassionati di giardinaggio che desiderano coltivare un’ampia varietà di piante in uno spazio limitato o che vivono in una zona poco piovosa, potrebbero voler creare un giardino particolare con rocce e pietre.
+
+Molti di questi giardini imitano la natura d’alta montagna o il terreno cotto dal sole del deserto. Che si tratti di un classico giardino roccioso, di un’aiuola di ghiaia o di un’area pavimentata costellata di piante striscianti aromatiche e succulente, le soddisfazioni per gli appassionati sono assicurate.
+
+## Progettazione giardini moderni
+
+I giardini moderni e urbani possono assumere diversi ruoli: uno spazio dove far crescere le piante, rilassarsi, giocare e divertirsi. Sono spazi funzionali in cui prevalgono le superfici solide e l’arredamento, gli effetti luce e gli elementi acquatici.
+
+La configurazione di un giardino urbano si basa di solito su linee semplici, spesso a pianta asimmetrica, con materiali naturali che si combinano con quelli artificiali, come cemento, vetro, plastica, plexiglas e acciaio che forniscono interesse strutturale.
+
+## Progettazione giardini giapponesi
+
+Il giardino in stile giapponese è progettato per creare spazi tranquilli, contemplativi, che rispecchiano il paesaggio naturale con un numero limitato di piante. Il segreto per realizzare uno schema del genere è valutare il rapporto reciproco fra gli elementi principali - massi, ghiaia e piante - e la loro connessione simbolica e spirituale con il mondo naturale.
+
+Le composizioni sempreverdi sono spruzzate di colori stagionali: ciliegi in fiore e camelie in primavera, eleganti iris estivi e chiome di aceri fiammeggianti in autunno.
+
+## Progetto giardino mediterraneo
+
+Lo stile più accessibile per un giardino mediterraneo ha una struttura informale e un’atmosfera rilassata. Il principale materiale duro è la ghiaia, usata per collegare fra loro aiuole e vialetti. Spesso le piante hanno foglie argentate, verde salvia e sfumate di azzurro, che riflettono il forte sole estivo. Piante comuni sono gli olivi, gli agrumi, i fichi, la vite, le santoline e le artemisie, ma anche piante aromatiche come timo, salvia, lavanda e rosmarino.
+
+## Progettazione giardini privati
+
+Il servizio di progettazione giardini è rivolto a proprietari di case indipendenti, aziende, ristoranti, hotel e imprese di costruzioni in Friuli-Venezia Giulia, in provincia di Udine, Gorizia, Trieste.
+
+## Progettazione giardini online
+
+Se non abiti in Friuli-Venezia Giulia saremo a tua disposizione in videoconferenza e il progetto ti verrà consegnato via mail. La progettazione online offre il vantaggio dell'abbattimento dei costi e spesso anche una riduzione delle tempistiche per la consegna del progetto.
 
 ## Perché scegliere il giardiniere paesaggista Potasiepe
 
 La conoscenza botanica, la lunga esperienza in giardini design accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno.
 
-## Il target dei giardini Potasiepe
 
-Il servizio di progettazione giardini è rivolto a proprietari di case indipendenti, aziende, ristoranti, hotel e imprese di costruzioni in Friuli-Venezia Giulia.
+## Come avviene la progettazione del giardino
 
-## Progettazione giardini in tre fasi
+Il progetto del giardino è un percorso creativo e tecnico che sarà facile percorrere in compagnia di un giardiniere paesaggista sempre a vostra disposizione, dalla fase progettuale, a quella esecutiva, fino ai minimi dettagli.
 
-Il metodo di progettazione dei giardini Potasiepe si basa su tre fasi affinate nel corso degli anni.
+Il progetto del giardino si realizza in tre fasi:
 
-Un percorso creativo, progettuale e tecnico che sarà facile e piacevole percorrere in compagnia di un giardiniere paesaggista sempre a vostra disposizione, dalla fase progettuale, a quella esecutiva, fino ai dettagli finali.
-
-### Fase 1: bozza di progetto
+### 1. Bozza di progetto
 A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
 <br/><br/>
 ![Bozza di progetto di un giardino](/img/slides/progettazione-giardini/bozza-progetto-giardino.jpg "Bozza di progetto di un giardino a Udine")
 
-### Fase 2: progetto definitivo
+### 2. Progetto definitivo
 Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino vi proporrò una lista di piante e manufatti tra cui scegliere.
 <br/><br/>
 ![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
-### Fase 3: video e renderig 3d
+### 3. Video e renderig 3d
 Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
 
-## Progettazione giardini: quanto costa
+## Progettazione giardini prezzi
 
 **Il costo di progettazione dipende da diversi fattori**, ad esempio, la dimensione del giardino, il numero di piante, il progetto illuminotecnico, eventuali manufatti come ad esempio muretti in pietra, fontane ecc.
 
@@ -71,10 +98,6 @@ Il [**Bonus Verde 2020**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su
   <a title="contatti" href="/contatti/" aria-label="contatti" class="button">CONTATTAMI</a>
 </div>
 <br/><br/>
-
-## Progettazione giardini per aziende e privati, Udine, Gorizia
-
-Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere. A ognuno il suo  [stile](/consigli-di-giardinaggio/come-progettare-il-giardino "come progettare un giardino").
 
 ## Realizzazione giardini
 
