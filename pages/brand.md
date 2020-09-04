@@ -66,4 +66,8 @@ Le proporzioni sono 1:1, la dimensione minima per la stampa è 4 cm.
 
 <a href="http://www.giardinierepotasiepe.it" title="Giardinierepotasiepe.it" target="_blank" rel="noopener">Giardinierepotasiepe.it</a>
 
+<a href="http://www.giardinierepotasiepe.com" title="Giardinierepotasiepe.com" target="_blank" rel="noopener">Giardinierepotasiepe.com</a>
+
 <a href="http://www.potasiepegiardiniere.it" title="Potasiepegiardiniere.it" target="_blank" rel="noopener">Potasiepegiardiniere.it</a>
+
+<a href="http://www.potasiepegiardiniere.com" title="Potasiepegiardiniere.com" target="_blank" rel="noopener">Potasiepegiardiniere.com</a>
