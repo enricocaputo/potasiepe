@@ -5,7 +5,7 @@ excerpt: 'Icona di accuratezza, affidabilità, eccellenza. Il marchio Potasiepe,
 image: /img/potasiepe-logo-557x500.png
 permalink: /brand/
 ---
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","Brand":"Potasiepe","url":"https://www.giardiniere-potasiepe.fvg.it","logo":"https://www.giardiniere-potasiepe.fvg.it/img/potasiepe1x1.jpg"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","Brand":"Potasiepe","url":"https://www.potasiepegiardiniere.it","logo":"https://www.potasiepegiardiniere.it/img/potasiepe1x1.jpg"}</script>
 
 # Linee guida per l'utilizzo del brand Potasiepe
 

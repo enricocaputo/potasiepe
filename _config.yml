@@ -2,13 +2,13 @@
 version: 4.1.1
 title: Potasiepe
 description: "Potasiepe: giardiniere a Udine e Gorizia per progettazione giardini, realizzazione giardini, sistemazione giardini, servizi giardinaggio, manutenzione del verde"
-url: https://www.giardiniere-potasiepe.fvg.it
+url: https://www.potasiepegiardiniere.it
 baseurl:
 repository: https://github.com/enricocaputo/potasiepe
 timezone: Europe/Rome
 encoding: UTF-8
 lang: it-IT
-name: "potasiepe"
+name: "Potasiepe"
 logo: "/img/amp-logo-60x600px.png"
 twitter:
   username: potasiepe

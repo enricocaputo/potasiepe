@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Progettazione giardini
+title: Progettazione giardini - Potasiepe
 excerpt: 'Progettazione giardini moderni, Progettazione giardini privati, Progettazione giardini rocciosi. Progettazione giardini in Udine, Gorizia, Friuli-Venezia Giulia'
 image: /img/posts/giardini/giardino-contemporaneo.png
 permalink: /progettazione-giardini/

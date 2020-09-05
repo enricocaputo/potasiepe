@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Moderazione dei commenti - POTASIEPE
-excerpt: Comment policy del sito Giardiniere PotaSiepe
+title: Moderazione dei commenti
+excerpt: Comment policy del sito Potasiepe
 image: /img/amp-logo-60x600px.png
 permalink: /comment-policy/
 ---

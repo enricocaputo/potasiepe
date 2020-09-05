@@ -39,9 +39,9 @@ Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 10 rotoli.
       "@type": "Product",
       "name": "Prato a rotoli",
       "image": [
-        "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato1x1.jpg",
-        "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato4x3.jpg",
-        "https://www.giardiniere-potasiepe.fvg.it/img/prato/prato16x9.jpg"
+        "https://www.potasiepegiardiniere.it/img/prato/prato1x1.jpg",
+        "https://www.potasiepegiardiniere.it/img/prato/prato4x3.jpg",
+        "https://www.potasiepegiardiniere.it/img/prato/prato16x9.jpg"
        ],
       "description": "Prato a rotoli, vendita di vero tappeto erboso in zolla, prato pronto effetto, esperienza decennale nei migliori tipi di prato in rotolo.",
       "sku": "prato_mix_festuche",
@@ -71,7 +71,7 @@ Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 10 rotoli.
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.giardiniere-potasiepe.fvg.it/prato-a-rotoli/",
+        "url": "https://www.potasiepegiardiniere.it/prato-a-rotoli/",
         "priceCurrency": "EUR",
         "price": "5",
         "priceValidUntil": "2021-12-31",
