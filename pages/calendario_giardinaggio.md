@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Calendario giardinaggio 2020
-excerpt: "Calendario giardinaggio 2020: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. Scaricalo in PDF."
-image: /img/posts/calendario-e-lunario-2020.jpg
+title: Calendario giardinaggio 2021
+excerpt: "Calendario giardinaggio 2021: tutti i lavori in orto e giardino mese per mese, calendario lunare, consigli per semina, trapianto, potatura e 12 gustose ricette!"
+image: /img/posts/calendario2021.png
 permalink: /calendario-di-giardinaggio/
 ---
-<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","name":"Il Calendario del Giardiniere","image":"https://www.potasiepegiardiniere.it/img/posts/calendario-e-lunario-2020.jpg","description":"Il calendario del giardiniere con tutti i promemoria dei lavori in giardino, orto e frutteto. I segreti dei giardineiri, le cure da riservare a piante, alberi e prato.","sku":"claneda_giard_2020","mpn":"calenda_2020","brand":{"@type":"Brand","name":"POTASIEPE"},"review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Giancarlo"},"description":"Il calendario è magnifico e mi è stato consegnato a tempo di record.","name":"Calendario bellissimo e molto utile"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"10"},"offers":{"@type":"Offer","url":"https://www.potasiepegiardiniere.it/calendario-di-giardinaggio/","priceCurrency":"EUR","price":"14","priceValidUntil":"2021-12-31","itemCondition":"https://schema.org/NewCondition","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"POTASIEPE"}}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","name":"Il Calendario del Giardiniere","image":"https://www.potasiepegiardiniere.it/img/posts/calendario2021.png","description":"Il calendario del giardiniere 2021, tutti i lavori in orto e giardino mese per mese. I segreti del giardiniere, le cure da riservare a piante, alberi e prato. E in più 12 gustose ricette!","sku":"claneda_giard_2021","mpn":"calenda_2021","brand":{"@type":"Brand","name":"POTASIEPE"},"review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Giancarlo"},"description":"Il calendario è magnifico e mi è stato consegnato a tempo di record.","name":"Calendario bellissimo e molto utile"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"10"},"offers":{"@type":"Offer","url":"https://www.potasiepegiardiniere.it/calendario-di-giardinaggio/","priceCurrency":"EUR","price":"14","priceValidUntil":"2021-12-31","itemCondition":"https://schema.org/NewCondition","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"POTASIEPE"}}}</script>
 
-# Calendario Giardinaggio 2020
+# Calendario Giardinaggio 2021
 
-**Calendario giardinaggio 2020**: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato.
+**Calendario giardinaggio 2021**: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato. **E 12 gustosissime ricette!**
 
 ___
 
 <br/>
-## Acquista il Calendario Giardinaggio 2020
+## Acquista il Calendario Giardinaggio 2021
 <br/>
 
-![calendario giardinaggio 2020](/img/posts/calendario-e-lunario-2020.jpg "calendario giardinaggio 2020")
+![calendario giardinaggio 2021](/img/posts/calendario2021.png "calendario giardinaggio 2021")
 
 <br/>
 
-RICHIEDI il **Calendario Giardinaggio 2020** stampato a colori su preziosa carta patinata da 200 gr. ti verrà recapitato nel giro di 3-4 gg. al prezzo di **€ 14,00** - **Spedizione GRATUITA**.
+RICHIEDI il **Calendario Giardinaggio 2021** stampato a colori su preziosa carta patinata da 200 gr. ti verrà recapitato nel giro di 3-4 gg. al prezzo di **€ 14,00** - **Spedizione GRATUITA**.
 
 <br/>
 <div class="text-center">
