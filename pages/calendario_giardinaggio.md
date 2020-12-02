@@ -9,7 +9,7 @@ permalink: /calendario-di-giardinaggio/
 
 # Calendario Giardinaggio 2021
 
-**Calendario giardinaggio 2021**: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato. **E 12 gustosissime ricette!**
+**Calendario giardinaggio 2021**: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato. **12 gustosissime ricette!**
 
 ___
 
