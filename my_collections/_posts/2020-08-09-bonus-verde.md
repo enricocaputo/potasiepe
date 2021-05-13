@@ -1,11 +1,11 @@
 ---
-title: "Bonus Verde 2020"
-excerpt: "Il bonus verde 2020 prevede una detrazione fiscale del 36% fino a un importo di 5.000 euro per la progettazione e la sistemazione a verde di giardini e terrazzi"
+title: "Bonus Verde 2021"
+excerpt: "Il bonus verde 2021 prevede una detrazione fiscale del 36% fino a un importo di 5.000 euro per la progettazione e la sistemazione a verde di giardini e terrazzi"
 image: /img/posts/green-pig.png
 image_featured: true
-last_modified_at: 2020-08-18T08:21
+last_modified_at: 2021-05-13T18:21
 ---
-Il **bonus verde 2020** prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista").
+Il **bonus verde 2021* prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista").
 
 Come spiegato sul portale dell'<a href="https://www.agenziaentrate.gov.it/portale/web/guest/bonus-verde/infogen-bonus-verde-cittadini" aria-label="vai al portale Agenzia delle Entrate" target="_blank" rel="nofollow noopener"> Agenzia delle Entrate </a> la detrazione Irpef è possibile per i seguenti interventi:
 

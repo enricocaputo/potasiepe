@@ -27,12 +27,12 @@ Di seguito una tabella indicativa di costo per recinzione rete metallica:
 | Costo posa recinzione rete metallica | Altezza rete |
 |--------------------------------------|--------------|
 | € 20 al m   | 100 cm |
-| € 21 al m   | 125 cm |
-| € 22 al m   | 150 cm |
-| € 25 al m   | 175 cm |
-| € 28 al m   | 200 cm |
+| € 22 al m   | 125 cm |
+| € 23 al m   | 150 cm |
+| € 27 al m   | 175 cm |
+| € 31 al m   | 200 cm |
 
-I prezzi si riferiscono a una recinzione in rete metallica plastificata dello spessore di 2.5 mm e pali in ferro verniciati a tee.
+I prezzi si riferiscono alla fornitura di una recinzione in rete metallica plastificata elettrosaldata dello spessore di 2.5 mm e relativa posa su una superficie livellata dove sono già presenti i pali di sostegno.
 
 ## Posa recinzione rete metallica
 

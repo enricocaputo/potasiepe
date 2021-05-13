@@ -10,11 +10,11 @@ order: 6
 ---
 # Riparazione tosaerba Udine
 
-POTASIEPE esegue la **riparazione di tosaerba** con motori a scoppio [**Honda**](https://www.honda.it/lawn-and-garden/owners/maintenance.html "MANUTENZIONE DEI PRODOTTI HONDA") e [**Briggs & Stratton**](https://www.briggsandstratton.com/eu/en_gb/campaigns/la-rete-service-briggs-stratton.html "LA RETE SERVICE BRIGGS & STRATTON: UNA GARANZIA DI QUALITÀ!"), delle marche più diffuse (Honda, Snapper, McCulloch, Echo, Husqvarna ecc.), di tutte le dimensioni, professionali e non. Anche manutenzione ordinaria tosaerba, riparazione decespugliatori e centro assistenza macchine e attrezzature per giardinaggio.
+POTASIEPE esegue la **riparazione di tosaerba** con motori a scoppio [**Honda**](https://www.honda.it/lawn-and-garden/owners/maintenance.html "MANUTENZIONE DEI PRODOTTI HONDA") e [**Briggs & Stratton**](https://www.briggsandstratton.com/eu/en_gb/campaigns/la-rete-service-briggs-stratton.html "LA RETE SERVICE BRIGGS & STRATTON: UNA GARANZIA DI QUALITÀ!"), delle marche più diffuse (Honda, Snapper, McCulloch, Echo, Husqvarna ecc.).
 
-Potrai portare da noi il tuo tosaerba o prenotare un ritiro direttamente a casa tua o presso la tua sede, e ti sarà restituito come nuovo in pochissimo tempo.
+**Manutenzione ordinaria tagliaerba**: portaci il tuo rasaerba e te lo restituiremo come nuovo in brevissimo tempo.
 
-## Assistenza delle migliori marche di tosaerba: ritiro a domicilio
+## Assistenza delle migliori marche di tosaerba
 
 Molti sottovalutano l´importanza di una costante ed accurata manutenzione di questo indispensabile strumento per il mantenimento del giardino, ma essa è essenziale per una lunga durata della macchina e per il suo perfetto funzionamento, un tagliaerba ben manutenuto con piccole spese o nella maggior parte dei casi solo spendendo un po’ di tempo, vi eviterà grosse spese dovute a danneggiamenti per colpa della trascurata manutenzione, o dovute anche solo ad una scarsa pulizia.
 
