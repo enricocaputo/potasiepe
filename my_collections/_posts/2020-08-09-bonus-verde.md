@@ -5,7 +5,7 @@ image: /img/posts/green-pig.png
 image_featured: true
 last_modified_at: 2021-05-13T18:21
 ---
-Il **bonus verde 2021* prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista").
+Il **bonus verde 2021** prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista").
 
 Come spiegato sul portale dell'<a href="https://www.agenziaentrate.gov.it/portale/web/guest/bonus-verde/infogen-bonus-verde-cittadini" aria-label="vai al portale Agenzia delle Entrate" target="_blank" rel="nofollow noopener"> Agenzia delle Entrate </a> la detrazione Irpef è possibile per i seguenti interventi:
 
