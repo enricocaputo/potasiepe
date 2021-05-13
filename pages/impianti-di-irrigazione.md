@@ -26,6 +26,8 @@ I vantaggi di avere un impianto di irrigazione interrato automatico sono molti:
 - &#10004; piacevolezza estetica per la mancanza di tubazioni fuori terra,
 - &#10004; facilità di tagliare il prato, gli irrigatori sono collocati a livello del manto erboso
 
+[**Bonus Verde 2021: detrazione IRPEF 36% per le spese di rifacimento del prato**](/consigli-di-giardinaggio/bonus-verde "Bonus Verde 2021").
+
 ## Irrigazione giardino
 
 ![impianto irrigazione giardino](/img/progettazione-impianti-irrigazione-udine.jpg  "impianto irrigazione giardino")

@@ -34,6 +34,8 @@ Di seguito una tabella indicativa di costo per recinzione rete metallica:
 
 I prezzi si riferiscono alla fornitura di una recinzione in rete metallica plastificata elettrosaldata dello spessore di 2.5 mm e relativa posa su una superficie livellata dove sono già presenti i pali di sostegno.
 
+[**Bonus Verde 2021: detrazione IRPEF 36% per le spese di rifacimento del prato**](/consigli-di-giardinaggio/bonus-verde "Bonus Verde 2021").
+
 ## Posa recinzione rete metallica
 
 Per una recinzione con pali in legno e rete metallica, senza opere murarie, **non è necessaria la DIA**
