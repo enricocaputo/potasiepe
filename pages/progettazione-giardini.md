@@ -89,7 +89,7 @@ Di seguito i **prezzi onnicomprensivi**, riferiti a un **incarico completo** di 
 | € 1.500,00          | 1001 - 2000 m²   |
 | Da concordare       | oltre 2000 m²  |
 
-Il [**Bonus Verde 2021**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su Bonus Verde 2021") prevede una detrazione IRPEF del 36% per le spese di sistemazione e progettazione di giardini, tetti verdi e aree scoperte private in genere.
+Il [**Bonus Verde 2022**](/consigli-di-giardinaggio/bonus-verde "Scopri tutto su Bonus Verde 2022") prevede una detrazione IRPEF del 36% per le spese di sistemazione e progettazione di giardini, tetti verdi e aree scoperte private in genere.
 
 <br/>
 <div class="text-center">
