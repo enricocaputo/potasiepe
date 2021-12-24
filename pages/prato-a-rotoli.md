@@ -67,7 +67,7 @@ Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 10 rotoli.
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "16"
+        "reviewCount": "22"
       },
       "offers": {
         "@type": "Offer",

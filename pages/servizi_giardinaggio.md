@@ -45,7 +45,7 @@ permalink: /servizi-di-giardinaggio/
 <p class="h3">Il Giardiniere Potasiepe</p>
 Viale Stazione, 28, Cervignano del Friuli UD
 
-<span class="rtng">5,0</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 20 recensioni Google
+<span class="rtng">5,0</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 22 recensioni Google
 
 <hr/>
 
