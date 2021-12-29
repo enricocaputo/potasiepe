@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Giardiniere a Gorizia
-excerpt: Giardiniere a Gorizia, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutta la Provincia.
+excerpt: Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti i comuni della provincia di Gorizia.
 image: /img/gorizia.jpg
 permalink: /gorizia/
 ---
 # Giardiniere a Gorizia
 
-<img src="/img/gorizia.jpg" alt="Giardiniere a Gorizia" title="Giardiniere a Gorizia">
+<img src="/img/gorizia.jpg" alt="Giardiniere a Gorizia" title="Giardiniere a Monfalcone e Gorizia">
 
-Giardiniere a Gorizia, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti i comuni della Provincia.
+Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti gli altri comuni della Provincia di Gorizia.
 
 ## La mia specialità è tagliare la siepe e curare i giardini
 Sono un giardiniere professionista e qualificato. Offro i miei servizi di giardinaggio a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari, Capriva e in tutti i comuni della Provincia.
