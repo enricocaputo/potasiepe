@@ -43,7 +43,7 @@ Lavoro come giardiniere a **[Udine](/giardinaggio-udine/ "giardiniere a Udine pe
 
 ## Giardiniere a Gorizia
 
-Mi sposto spesso tra Monfalcone e Gorizia ma mi muovo volentieri in tutti gli altri comuni della **provincia di [Gorizia](/giardinaggio-gorizia/ "giardiniere a Gorizia e Monfalcone per potatura siepe e alberi e lavori di giardinaggio, massima serietà e costo onesto")**. Ho lavorato a Capriva, Cormons, Gradisca d'Isonzo, Grado, Monfalcone, Romans d'Isonzo, Ronchi dei Legionari ecc.
+Mi sposto spesso tra Monfalcone e Gorizia ma mi muovo volentieri in tutti gli altri comuni della **provincia di [Gorizia](/giardinaggio-gorizia/ "giardiniere a Gorizia e Monfalcone per potatura siepe e alberi e lavori di giardinaggio, massima serietà e costo onesto")**. Ho lavorato a Capriva, Cormons, Gradisca d'Isonzo, Grado, Romans d'Isonzo, Ronchi dei Legionari, San Pier d'Isonzo ecc.
 
 <br/><br/>
 
