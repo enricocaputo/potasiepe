@@ -1,32 +1,28 @@
 ---
 title: "Tosaerba a batteria contro Tagliaerba a scoppio: quale scegliere"
-excerpt: "Hai mai sentito parlare dei rasaerba Briggs & Stratton con tecnologia QPT (Quiet Power Technology), conosci la differenza tra tosaerba a batteria da 18v o 50v?"
+excerpt: "Hai mai sentito parlare dei rasaerba a cuscino d'aria e senza ruote? Conosci i tosaerba elicoidali e la differenza tra una batteria da 18v e 50v?"
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
-last_modified_at: 2020-08-23T12:20
+last_modified_at: 2021-12-30T18:07
 ---
-Vi dico subito che odio i tosaerba elettrici a filo. Sono scomodi, fragili, e quando si rompono si devono buttare nell'indifferenziata tra i rifiuti ingombranti.
+Vi anticipo che personalmente non amo i **tosaerba elettrici a filo**. Li trovo scomodi, poco potenti, e quando si rompono si devono buttare nell'indifferenziata tra i rifiuti ingombranti. Per contro, sono economici, leggeri e poco ingombranti. Tutto sommato se non volete spendere molto e avete un prato di dimensioni modeste potrebbero rappresentare una buona soluzione.
 
-## Tagliaerba a batteria
-I tagliaerba alimentati da batterie al litio sono la novità degli ultimi anni ma sono davvero comodi ed ecologici? Di certo **non sono economici**. Anche in fatto di inquinamento, lo smaltimento delle batterie esauste rappresenta un'incognita o addirittura un'ipoteca sull'ambiente che lasceremo alle generazioni future.
+## Il tagliaerba super ecologico
+La scelta più economica ed ecologica è sicuramente un **tosaerba elicoidale a spinta**. Leggero, pratico, poco ingombrante e il risultato sarà un taglio erba davvero invidiabile. Inoltre, vi terrete in forma!
 
-Sono più comodi dei taglierba elettrici a filo e meno rumorosi dei tradizionali motori a scoppio. Per contro l'autonomia è molto limitata. I modelli con trazione semovente assorbono l'energia delle batterie in pochi minuti. Anche i modelli a spinta comunque **hanno una autonomia molto limitata**, in media meno di mezz'ora.
+## Tagliaerba e trattorino a batteria
+I tagliaerba alimentati da batterie al litio sono la novità degli ultimi anni e per i giardini di medie e piccole dimensioni li consiglio. Però le batterie al litio non si trovano a buon mercato e in fatto di inquinamento lo smaltimento delle batterie esauste rappresenta un'incognita, addirittura un'ipoteca sull'ambiente che lasceremo in eredità alle generazioni future.
 
-## Il tagliaerba migliore per i piccoli prati
-Se il nostro prato ha pochi metri quadrati la scelta più economica, ecologica e meno rumorosa è un **tosaerba elicoidale a spinta**. Leggero, pratico, poco ingombrante e il risultato sarà un taglio erba davvero invidiabile.
+Sono più comodi dei taglierba con filo e decisamente meno rumorosi dei tradizionali motori a scoppio. Per contro l'autonomia è molto limitata. I modelli con trazione semovente assorbono l'energia delle batterie in men che non si dica ma anche i modelli a spinta **hanno una autonomia molto limitata**, spesso meno di mezz'ora.
 
-## Tosaerba con motori Briggs & Stratton QPT: Quiet Power Technology
-La tecnologia **QPT (*Quiet Power Technology*)  di Briggs & Stratton** riduce la rumorosità di circa il 60% rispetto ai tradizionali motori a scoppio. I tosaerba dotati di questi motori sono davvero silenziosi.
-Il problema è che da noi e in Europa sono ancora poco diffusi.
+Attualmente l'offerta di trattorini a batteria è limitata, i prezzi sono esorbitanti e perciò dedicati ai professionisti del verde.
 
-**Ascolta la differenza** &#10140; <a href="https://www.youtube.com/watch?v=KE8opBlvw-8" target="_blank" title="Quiet Power Technology, Briggs & Stratton" rel="noopener nofollow">www.youtube.com/watch?v=KE8opBlvw-8</a>
+## Tosaerba con motore a scoppio
+Sono i più diffusi e sono rumorosissimi: vi invito ad usarli in orari che non diano fastidio ai vostri vicini! Esistono modelli con sacco di raccolta, con scarico laterale, per taglio mulching e anche con tutte e tre le caratteristiche in un'unica macchina. Ancora, modelli a cuscino d'aria e senza ruote, con trazione cardanica e a quattro ruote motrici. Modelli a doppia lama oppure con fili di nylon al posto della lama.
+Ognuna ha pregi e difetti: dopo aver chiarito il vostro budget e le caratteristiche che meglio si adattano al vostro giardino vi consiglio di mettere i vari modelli a confronto. Preferite i modelli che montano i motori più potenti, dei marchi più diffusi e affidabili (es. Briggs and Stratton, Honda, Loncin).
 
-![motori Briggs & Stratton QPT - Quiet Power Technology](/img/posts/BAS_QPT.jpg "motori Briggs & Stratton QPT - Quiet Power Technology")
 
-## Sostituzione marmitta tosaerba
-Che cosa fare dunque? Potete **sostituire la marmitta del vostro tagliaerba** con motore a scoppio tradizionale con un **silenziatore a bassa rumorosità**. La sostituzione della marmitta sui tosaerba nuovi ridurrà l'inquinamento acustico mentre i vecchi rasaerba oltre a fare meno rumore produrranno meno inquinamento ambientale.
-
-Contattami per un consiglio sulla scelta del tuo nuovo tagliaerba oppure prenota la sostituzione della marmitta.
+Non esitate a scrivermi se siete indecisi e volete un mio parere sulla scelta del vostro nuovo tagliaerba!
 
 **Chiedi un consiglio**  &#10140; [Contatti](/contatti/ "contatta POTASIEPE")
 
