@@ -1,11 +1,11 @@
 ---
-title: "Tosaerba a batteria contro Tagliaerba a scoppio: quale scegliere"
+title: "Tosaerba a batteria contro motore a scoppio: quale scegliere?"
 excerpt: "Hai mai sentito parlare dei rasaerba a cuscino d'aria e senza ruote? Conosci i tosaerba elicoidali e la differenza tra una batteria da 18v e 50v?"
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
-last_modified_at: 2021-12-30T18:07
+last_modified_at: 2021-12-29T18:07
 ---
-Vi anticipo che personalmente non amo i **tosaerba elettrici a filo**. Li trovo scomodi, poco potenti, e quando si rompono si devono buttare nell'indifferenziata tra i rifiuti ingombranti. Per contro, sono economici, leggeri e poco ingombranti. Tutto sommato se non volete spendere molto e avete un prato di dimensioni modeste potrebbero rappresentare una buona soluzione.
+Vi anticipo che personalmente non amo i **tosaerba elettrici con il cavo di prolunga**. Li trovo scomodi, poco potenti, e quando si rompono si devono buttare nell'indifferenziata tra i rifiuti ingombranti. Per contro, sono economici, leggeri e poco ingombranti. Tutto sommato se non volete spendere molto e avete un prato di dimensioni modeste potrebbero rappresentare una buona soluzione.
 
 ## Il tagliaerba super ecologico
 La scelta più economica ed ecologica è sicuramente un **tosaerba elicoidale a spinta**. Leggero, pratico, poco ingombrante e il risultato sarà un taglio erba davvero invidiabile. Inoltre, vi terrete in forma!
