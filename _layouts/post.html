@@ -15,7 +15,7 @@ layout: default
 		{% assign author = site.data.authors[page.author] %}
 		<span class="autore">di {{ author.name }}</span>
 		<br/>
-		<time class="post-date">{{ page.date | date: "%d %b %Y" }}</time>
+		<time class="post-date">{{ page.last_modified_at | date: "%d %b %Y" }}</time>
 		<p>{{ page.excerpt }}</p>
 
 		<div class="share-bar">
