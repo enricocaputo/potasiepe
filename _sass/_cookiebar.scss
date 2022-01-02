@@ -35,8 +35,9 @@
 
 .cookie-dialog {
   text-align: right;
-  a {
+  a, button {
     background-color: #0072ce;
+    border: none;
     color: #fff;
     font-size: 16px;
     font-weight: 600;
