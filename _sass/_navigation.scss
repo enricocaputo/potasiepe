@@ -158,12 +158,13 @@ input.search-text::-webkit-search-cancel-button {
         display: block;
         border-bottom: 0.0625em solid #dad7d7;
         padding: 1em;
+        font-size: 1.1em;
         text-align: center;
         font-weight: bold;
       }
 
       ul li a {
-        color: Green;
+        color: green;
         padding: 0.75em 0 0.75em 0;
         &:hover {
         color: #d2382b;
