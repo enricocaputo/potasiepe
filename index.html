@@ -11,7 +11,7 @@ permalink: /
   <picture>
     <source srcset="img/webp/potasiepe-logo-557x500.webp" type="image/webp">
     <source srcset="img/potasiepe-logo-557x500.png" type="image/jpeg">
-    <img src="img/potasiepe-logo-557x500.png" alt="Potasiepe TM Marchio Registrato" title="Potasiepe TM Marchio Registrato">
+    <img src="img/potasiepe-logo-557x500.png" width="557" height="500" alt="Potasiepe TM Marchio Registrato" title="Potasiepe TM Marchio Registrato">
   </picture>
 </div>
 <h1>Il Giardiniere Potasiepe</h1>
@@ -57,7 +57,7 @@ Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande. <a cla
   {% for servizi_giardinaggio in servizi_giardinaggio %}
 		<li>
       <article>
-      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}">
+      <img src="{% include relative-src.html src=servizi_giardinaggio.image_path %}" alt="{{ servizi_giardinaggio.url }}" width="400" height="300">
       <div>
       <h2 class="h3">{{ servizi_giardinaggio.name }}</h2>
       <p>{{ servizi_giardinaggio.subtitle }}</p>
