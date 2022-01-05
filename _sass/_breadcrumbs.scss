@@ -1,4 +1,4 @@
-nav.breadcrumbs {
+.breadcrumbs {
   width: 100%;
   float: left;
   text-transform: uppercase;
@@ -20,7 +20,7 @@ nav.breadcrumbs {
   }
 }
 
-nav.breadcrumbs .breadcrumb {
+.breadcrumbs .breadcrumb {
   font-size: 10px;
   color: #818a91;
   padding: 0.75rem 1rem;
@@ -34,15 +34,15 @@ nav.breadcrumbs .breadcrumb {
   }
 }
 
-nav.breadcrumbs .breadcrumb-item {
+.breadcrumbs .breadcrumb-item {
    float: left;
 }
 
-nav.breadcrumbs .breadcrumb-item-hidden {
+.breadcrumbs .breadcrumb-item-hidden {
    visibility: hidden;
 }
 
-nav.breadcrumbs .breadcrumb-item+.breadcrumb-item::before {
+.breadcrumbs .breadcrumb-item+.breadcrumb-item::before {
    display: inline-block;
    padding-right: 0.5rem;
    padding-left: 0.5rem;
@@ -51,7 +51,7 @@ nav.breadcrumbs .breadcrumb-item+.breadcrumb-item::before {
 }
 
 @media (max-width: 768px) {
-  nav.breadcrumbs {
+  .breadcrumbs {
     visibility: hidden;
   }
 }
