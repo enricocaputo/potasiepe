@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Informativa Privacy e Cookie
-excerpt: Il presente sito utilizza cookie tecnici. Potrai comunque impostare il tuo browser in maniera da rifiutare automaticamente la ricezione dei cookie.
+title: Privacy Potasiepe
+excerpt: "Potasiepe non raccoglie né condivide informazioni personali. Il presente sito utilizza esclusivamente cookie tecnici."
 image: /img/amp-logo-60x600px.png
-permalink: /cookie/
+permalink: /privacy/
 ---
-# Privacy e Cookie
+# Potasiepe non raccoglie né condivide informazioni personali
 ![green cookie](/img/cookie.png  "green cookie")
 
 Ci impegniamo a rispettare e proteggere la riservatezza di tutte le persone con cui abbiamo rapporti. Come parte di questo impegno, cerchiamo di fornirvi informazioni chiare e il controllo sulle vostre informazioni personali in nostro possesso nonché su altri dati non personali che possiamo raccogliere e usare quando visitate il presente sito.
