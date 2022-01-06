@@ -5,6 +5,7 @@ layout: compress
 <html lang="it-IT">
 {% include head.html %}
 <body>
+{% include cookieconsent.html %}
 {% include header.html %}
 <div class="wrapper">
   {% include breadcrumbs.html path=page.path title=page.title %}
@@ -14,12 +15,7 @@ layout: compress
 </div>
 {% include sidebar-shortcuts.html %}
 {% include footer.html %}
-<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
-<script>
-    $(document).ready(function() {
-      $.cookieBar();
-    });
-</script>
+<script src="{{ site.baseurl }}/js/cookieconsent.min.js"></script>
 <script>
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
