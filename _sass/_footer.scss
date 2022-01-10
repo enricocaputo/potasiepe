@@ -5,12 +5,7 @@
 	max-width: 1000px;
 }
 
-.rotation {
-	padding: 150px 0;
-	background: #fff;
-	margin-top: -2em;
-
-	&.diagonal {
+.diagonal {
 		-webkit-transform: skewY(-$section-rotation);
 		-moz-transform: skewY(-$section-rotation);
 		-ms-transform: skewY(-$section-rotation);
@@ -23,11 +18,10 @@
 			transform: skewY($section-rotation);
 		}
 	}
-}
+
 
 footer {
-	@extend .rotation;
-	margin-top: -10em;
+	margin-top: -11em;
 	padding: 100px 0 50px 0;
 	position: relative;
 	background: #003200;
