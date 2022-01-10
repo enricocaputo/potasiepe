@@ -14,6 +14,12 @@ body {
   font-size: 100%;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
 a {
  text-decoration:none;
 }
@@ -84,10 +90,6 @@ p {
   font-size: 1.1em;
 }
 
-ul {
-  list-style-type: none;
-}
-
 #logo {
   margin: 0 auto;
   max-width: 360px;
@@ -143,9 +145,7 @@ hr {
   p {
     font-size: 1em;
   }
-  ul {
-    padding: 0;
-    li {
+  ul li {
       background: #fdfdfd;
       display: inline-block;
       vertical-align: top;
@@ -157,7 +157,6 @@ hr {
       box-shadow: 0 1px 1px 0 rgba(60,64,67,.08),0 1px 3px 1px rgba(60,64,67,.16);
     }
   }
-}
 
 .name {
   font-size: 1.3rem;
