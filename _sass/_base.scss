@@ -59,7 +59,6 @@ h3 {
   a {
     background-color: #000;
     color: #fff;
-    text-decoration: underline;
     padding: 8px;
     box-shadow: 0px 4px 6px -1px rgba(0,0,0,0.3);
   }
@@ -161,11 +160,9 @@ hr {
 }
 
 a {
-  text-decoration: none;
   color: #d2382b;
   &:hover {
     color: #912b22;
-    text-decoration: underline;
   }
 }
 
@@ -194,7 +191,6 @@ a {
   &:hover {
     background-color: $theme;
     color: $text-theme-hover;
-    text-decoration: none;
   }
   &:active {
     box-shadow: 0 5px #666;

@@ -46,13 +46,9 @@ footer {
 		margin: -10px -10px 10px -10px;
 	}
 
-	a {
-		text-decoration: none;
-
-		&:hover {
+	a:hover {
 			color: #fff;
 		}
-	}
 
 	.legal-line {
 		width: 100%;
@@ -88,8 +84,6 @@ footer {
 			}
 
 			&:hover {
-				text-decoration: none;
-
 				svg {
 					fill: #fff;
 				}

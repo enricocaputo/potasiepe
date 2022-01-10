@@ -72,7 +72,6 @@
     padding: 10px;
     margin-right: 12px;
     border: 1px solid #caccce;
-    text-decoration: none;
     &:hover {
       border: 1px solid #ee0000;
       svg {
@@ -175,10 +174,6 @@
   }
 }
 
-.card-actions a {
-  text-decoration: none;
-}
-
 .pagination {
   display: flex;
   justify-content: space-between;
@@ -189,7 +184,6 @@
     border: 2px solid $theme;
     padding: 10px 20px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
@@ -208,7 +202,6 @@
     border: 2px solid #e7e7e7;
     padding: 10px 20px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
